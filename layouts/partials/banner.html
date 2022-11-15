@@ -1,0 +1,10 @@
+<div class="bg-gradient-to-r from-brand-920 to-brand-960">
+  <div class="py-3 px-4 sm:px-6 lg:px-8 flex items-center justify-center space-x-5">
+    {{ with .Site.Params.banner.text }}
+      <p class="text-white text-sm tracking-wide">{{ . }}</p>
+    {{ end }}
+    {{ with .Site.Params.banner.button }}
+      <a class="text-sm px-3.5 py-1.5 rounded-full text-white bg-white/10 border border-white/20 hover:border-white/30" href="{{ .url }}">{{ .text }}</a>
+    {{ end }}
+  </div>
+</div>
