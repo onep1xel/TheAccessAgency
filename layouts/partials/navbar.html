@@ -1,6 +1,6 @@
-<div class="bg-white" x-data="{ mobile: false }" @click.outside="mobile = false">
+<div class="bg-black/50 absolute top-0 left-0 right-0 z-10 w-full">
   <div class="px-4 sm:px-6 lg:px-8">
-    <div class="mx-auto max-w-7xl py-5 lg:py-8">
+    <div class="mx-auto max-w-8xl py-5 lg:py-8">
       <div class="flex items-center justify-between lg:justify-start lg:space-x-10">
         <div class="flex justify-start lg:w-0 lg:flex-1">
           <a href="{{ "/" | relURL }}">
@@ -8,7 +8,7 @@
             <img class="h-10 w-auto" src="{{ .Site.Params.logo | absURL }}" width="185" height="64" alt="{{ .Site.Title }}" />
           </a>
         </div>
-        <div class="flex items-center lg:hidden">
+        <div class="flex items-center">
           <button
             @click="mobile = ! mobile"
             type="button"
@@ -17,7 +17,6 @@
           >
             <span class="sr-only">Toggle main menu</span>
             <svg
-              :class="{ 'hidden': mobile, 'block': !(mobile) }"
               xmlns="http://www.w3.org/2000/svg"
               class="h-8 w-8"
               fill="none"
@@ -27,179 +26,8 @@
             >
               <path stroke-linecap="round" stroke-linejoin="round" d="M4 6h16M4 12h8m-8 6h16" />
             </svg>
-            <svg
-              :class="{ 'block': mobile, 'hidden': !(mobile) }"
-              class="hidden h-8 w-8"
-              xmlns="http://www.w3.org/2000/svg"
-              fill="none"
-              viewBox="0 0 24 24"
-              stroke="currentColor"
-              aria-hidden="true"
-            >
-              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
-            </svg>
           </button>
         </div>
-        <nav class="hidden lg:flex lg:space-x-2">
-          {{ $currentPage := . }}
-          {{ range .Site.Menus.navbar }}
-            {{ if .HasChildren }}
-              <div class="relative" x-data="{ dropdown: false }">
-                <button
-                  type="button"
-                  @click.prevent="dropdown = ! dropdown"
-                  :class="{ 'text-brand-600 bg-brand-50': dropdown, 'text-brand-980': !(dropdown) }"
-                  class="group inline-flex tracking-wide transform-none items-center text-base font-medium {{ if $currentPage.HasMenuCurrent "navbar" . }}text-brand-600{{ else }}text-brand-980{{ end }} hover:text-brand-600 hover:bg-brand-50 px-4 py-2.5 rounded-full focus:outline-none"
-                  aria-expanded="false"
-                >
-                  <span>{{ .Name }}</span>
-                  <svg
-                    :class="{ 'text-brand-600 rotate-180': dropdown, 'text-brand-980 transform-none': !(dropdown) }"
-                    class="text-brand-600 ml-0.5 h-5 w-5 group-hover:text-brand-600"
-                    xmlns="http://www.w3.org/2000/svg"
-                    viewBox="0 0 20 20"
-                    fill="currentColor"
-                    aria-hidden="true"
-                  >
-                    <path
-                      fill-rule="evenodd"
-                      d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z"
-                      clip-rule="evenodd"
-                    />
-                  </svg>
-                </button>
-                <div
-                  x-show="dropdown"
-                  :class="{ 'block': dropdown, 'hidden': !(dropdown) }"
-                  x-transition:enter="transition ease-out duration-200"
-                  x-transition:enter-start="opacity-0 translate-y-1"
-                  x-transition:enter-end="opacity-100 translate-y-0"
-                  x-transition:leave="transition ease-in duration-150"
-                  x-transition:leave-start="opacity-100 translate-y-0"
-                  x-transition:leave-end="opacity-0 translate-y-1"
-                  @click.outside="dropdown = false"
-                  class="absolute z-10 -ml-4 mt-3 hidden w-screen max-w-[20rem] transform px-2 sm:px-0 lg:left-1/2 lg:ml-0 lg:-translate-x-1/2"
-                >
-                  <div class="overflow-hidden rounded-3xl shadow-lg">
-                    <div class="relative grid gap-6 bg-white p-10 sm:gap-8">
-                      {{ range .Children }}
-                        <a href="{{ .URL }}" class="-m-4 flex items-start group rounded-xl p-4 hover:text-brand-600 hover:bg-brand-50">
-                          {{ if .Pre }}
-                            <div class="group-hover:text-brand-600 flex-shrink-0 mr-3">
-                              {{ $icon := printf "%s%s%s" "icons/" .Pre ".svg" }}
-                              {{ if templates.Exists (printf "%s%s" "partials/" $icon ) }}
-                                {{ partial $icon }}
-                              {{ end }}                              
-                            </div>
-                          {{ end }}
-                          <div>
-                            <p class="text-base font-medium">{{ .Name }}</p>
-                            {{ with .Params.desc }}
-                            <p class="mt-1 text-sm text-gray-600">{{ . }}</p>
-                            {{ end }}
-                          </div>
-                        </a>
-                      {{ end }}
-                    </div>
-                  </div>
-                </div>
-              </div>
-            {{ else }}
-              <a href="{{ .URL }}" class="text-base tracking-wide font-medium hover:bg-brand-50 px-4 py-2.5 rounded-full {{ if $currentPage.HasMenuCurrent "navbar" . }}text-brand-600{{ else }}text-brand-980{{ end }} hover:text-brand-600"{{ if in .URL "http" }} target="_blank"{{ end }}> {{ .Name }} </a>
-            {{ end }}
-          {{ end }}
-        </nav>
-        <div class="hidden items-center justify-end lg:flex lg:w-0 lg:flex-1 gap-4">
-          {{ range .Site.Menus.navbar_cta }}
-            <a href="{{ .URL }}"
-              class="inline-flex items-center tracking-wide rounded-full border px-6 py-2 font-medium  transition 
-              {{ if eq .Pre "secondary" }}
-                border-brand-980 bg-white text-brand-980 hover:bg-brand-920 hover:border-brand-920 hover:text-white
-              {{ else }}
-                border-brand-980 bg-brand-980 text-white hover:bg-brand-920 hover:border-brand-920 hover:text-white
-              {{ end }}"
-            >
-            {{ .Name }}
-            </a>
-          {{ end }}
-        </div>        
-      </div>
-    </div>
-  </div>
-
-  <div
-    x-show="mobile"
-    :class="{ 'block': mobile, 'hidden': !(mobile) }"
-    x-transition:enter="duration-200 ease-out"
-    x-transition:enter-start="opacity-0 scale-95"
-    x-transition:enter-end="opacity-100 scale-100"
-    x-transition:leave="duration-100 ease-in"
-    x-transition:leave-start="opacity-100 scale-100"
-    x-transition:leave-end="opacity-0 scale-95"
-    class="z-10 origin-top transform transition hidden lg:hidden border-y border-gray-200"
-  >
-    <div class="overflow-hidden bg-white">
-      <div class="space-y-1 p-4 sm:p-6">
-        {{ $currentPage := . }}
-        {{ range .Site.Menus.navbar }}
-          {{ if .HasChildren }}
-            <div x-data="{ accordion: false }">
-              <a
-                href="#"
-                class="flex items-center rounded-xl px-4 py-3 text-lg font-medium text-brand-980 hover:text-brand-600 hover:bg-brand-50"
-                @click.prevent="accordion = ! accordion"
-              >
-                <span class="flex-1">{{ .Name }}</span>
-                <svg
-                  xmlns="http://www.w3.org/2000/svg"
-                  :class="{ 'rotate-90': accordion, 'transform-none': !(accordion) }"
-                  class="h-6 w-6"
-                  viewBox="0 0 20 20"
-                  fill="currentColor"
-                >
-                  <path
-                    fill-rule="evenodd"
-                    d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z"
-                    clip-rule="evenodd"
-                  />
-                </svg>
-              </a>
-              <div x-show="accordion" :class="{ 'block': accordion, 'hidden': !(accordion) }">
-                {{ range .Children }}
-                  <a href="{{ .URL }}" class="ml-4 flex items-center group rounded-xl px-4 py-3 {{ if $currentPage.HasMenuCurrent "navbar" . }}text-brand-600{{ else }}text-brand-980{{ end }} hover:text-brand-600 hover:bg-brand-50">
-                    {{ if .Pre }}
-                      <div class="text-brand-980 flex-shrink-0 mr-2.5 group-hover:text-brand-600">
-                        {{ $icon := printf "%s%s%s" "icons/" .Pre ".svg" }}
-                        {{ if templates.Exists (printf "%s%s" "partials/" $icon ) }}
-                          {{ partial $icon }}
-                        {{ end }}                                  
-                      </div>
-                    {{ end }}
-                        
-                    <span class="text-lg font-medium">{{ .Name }}</span>
-                  </a>
-                {{ end }}
-              </div>
-            </div>
-          {{ else }}
-            <a href="{{ .URL }}" class="block rounded-xl px-4 py-3 text-lg font-medium {{ if $currentPage.HasMenuCurrent "navbar" . }}text-brand-600{{ else }}text-brand-980{{ end }} hover:text-brand-600 hover:bg-brand-50" 
-            {{ if in .URL "http" }} target="_blank"{{ end }}>{{ .Name }}</a>
-          {{ end }}
-        {{ end }}
-      </div>
-      <div class="px-8 sm:px-10 pb-8 sm:pb-10 flex flex-col sm:flex-row gap-5">
-        {{ range .Site.Menus.navbar_cta }}
-          <a href="{{ .URL }}"
-            class="w-full text-center items-center tracking-wide rounded-full border px-6 py-3 font-medium  transition 
-            {{ if eq .Pre "secondary" }}
-              border-brand-980 bg-white text-brand-980 hover:bg-brand-920 hover:border-brand-920 hover:text-white
-            {{ else }}
-              border-brand-980 bg-brand-980 text-white hover:bg-brand-920 hover:border-brand-920 hover:text-white
-            {{ end }}"
-          >
-          {{ .Name }}
-          </a>
-        {{ end }}    
       </div>
     </div>
   </div>

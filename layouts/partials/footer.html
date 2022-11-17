@@ -1,39 +1,25 @@
-<footer class="bg-white py-12 lg:py-20 px-4 sm:px-6 lg:px-8" aria-labelledby="footer-heading">
+<footer class="bg-[#10161E] py-12 lg:py-20 px-4 sm:px-6 lg:px-8" aria-labelledby="footer-heading">
   <h2 id="footer-heading" class="sr-only">Footer</h2>
-  <div class="mx-auto  sm:max-w-3xl lg:max-w-7xl">
-    <div class="md:flex space-y-12 md:space-y-0 md:space-x-24 justify-between">
-      <div class="max-w-sm">
+  <div class="mx-auto sm:max-w-3xl lg:max-w-7xl ">
+    <div class="flex flex-col md:flex-row space-y-8 md:space-y-0 md:space-x-12 2xl:-ml-24">
+      <div class="flex-none">
         <a href="{{ "/" | relURL }}">
-          <img class="h-10 w-auto" src="{{ .Site.Params.logo | absURL }}" width="170" height="36" alt="{{ .Site.Title }}" />
+          <img class="h-10 w-auto" src="{{ .Site.Params.logo_mark | absURL }}" width="40" height="40" alt="{{ .Site.Title }}" />
         </a>
-        <p class="text-gray-800 text-base mt-5">{{ .Site.Copyright }}</p>
-        <div class="flex space-x-6 mt-6">
-          {{ range .Site.Menus.social }}
-            <a href="{{ .URL }}" target="_blank" rel="noopener noreferrer" class="text-gray-800 hover:text-blue-600">
-              <span class="sr-only">{{ .Name }}</span>
-              {{ $icon := printf "%s%s%s" "icons/" .Pre ".svg" }}
-              {{ if templates.Exists (printf "%s%s" "partials/" $icon ) }}
-                {{ partial $icon }}
-              {{ end }}
-            </a>
-          {{ end }}
-        </div>
       </div>
-      <div class="flex space-x-24">
-        {{ range .Site.Menus.footer }}
-          <div>
-            <h3 class="text-base font-bold text-gray-900 tracking-wider">{{ .Name }}</h3>
-            {{ if .HasChildren }}
-              <ul class="mt-4 space-y-4">
-                {{ range .Children }}
-                  <li>
-                    <a href="{{ .URL }}" class="text-base text-gray-800 hover:text-blue-600"> {{ .Name }} </a>
-                  </li>
-                {{ end }}
-              </ul>
-            {{ end }}
-          </div>
+      <div>
+        <ul class="flex space-y-2 md:space-y-0 md:space-x-8 flex-col md:flex-row flex-wrap">
+          {{ $currentPage := . }}
+          {{ range .Site.Menus.footer }}
+            <li>
+              <a href="{{ .URL }}" class="{{ if $currentPage.HasMenuCurrent "footer" . }}text-white underline font-extrabold{{ else }}text-sand-regular font-semibold{{ end }} underline-offset-4 decoration-1 decoration-white hover:text-white hover:underline text-[1.4375rem]"> {{ .Name }} </a>
+            </li>
+          {{ end }}
+        </ul>
+        {{ with .Site.Params.footer_text }}
+          <div class="space-y-3 mt-8 text-sand-dark text-[1.625rem] font-serif max-w-[62rem]">{{ . | markdownify }}</div>
         {{ end }}
+        <p class="text-[#334448] text-[1.4375rem] mt-20">{{ .Site.Copyright }}</p>
       </div>
     </div>
   </div>

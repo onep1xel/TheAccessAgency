@@ -6,25 +6,15 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        brand: {
-          50: '#F8F5FF',
-          100: '#e0e7ff',
-          200: '#c7d2fe',
-          300: '#a5b4fc',
-          400: '#818cf8',
-          600: '#642eff',
-          800: '#2F225F',
-          900: '#150042',
-          920: '#2F225F',
-          940: '#1A094A',
-          960: '#170545',
-          980: '#150042',
-
+        sand: {
+          light: '#EDEDE6',
+          regular: '#D6D6CE',
+          dark: '#B5B5B0',
         },
       },
       fontFamily: {
-        sans: "'Poppins',-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif",
-        // serif: ["PT Serif", "serif"],
+        sans: "'degular',-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif",
+        serif: ["Faustina", "serif"],
       },
       fontSize: {
         xs: ['0.75rem', { lineHeight: '1rem' }],
@@ -48,7 +38,7 @@ module.exports = {
       //   tighter: '1.125',
       // },
       maxWidth: ({ theme, breakpoints }) => ({
-        '8xl': '84rem',
+        '8xl': '82.5rem',
         ...breakpoints(theme('screens')),
       }),
 

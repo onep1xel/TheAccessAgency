@@ -6,6 +6,34 @@ description:
 image: 
 
 blocks:
+- block: media
+  type: video # image video slider
+  image: https://source.unsplash.com/0qpPV5nrhwo/1400x800
+  alt: Lorem Ipsum
+  video: https://assets.mixkit.co/videos/preview/mixkit-set-of-plateaus-seen-from-the-heights-in-a-sunset-26070-large.mp4
+
+- block: cta
+  background:  "#493654"
+  color: light # light dark muted
+  heading: Contact us to find out more about how to communicate your access
+  text: Lorem ipsum dolor sit amet, consectetuer adipiscing elitiam.
+  button:
+    style: green
+    text: Get in touch
+    url: "#"
+
+- block: author
+  background:  "#686867"
+  color: light # light dark muted
+  image: /images/ryan.jpg
+  heading: Ryan Smith
+  text: Duis autem vel eum iriure dolor in hendrerit in vulputate velit
+    esse molestie consequat, vel illum dolore eu feugiat nulla facilisis
+    at vero eros et accumsan et.
+  link:
+    text: Find out more
+    url: "#"
+      
 - block: hero
   heading: Morbi eget nequ vel turpis lacinia
   subheading: Morbi eget neque vel turpis lacinia eget neque vel turpis lacinia lacinia eget neque vel turpis lacinia eget.
@@ -106,21 +134,6 @@ blocks:
 - block: courses
   heading: Featured Courses
 
-
-
-- block: cta
-  heading: Webinar
-  subheading: Morbi eget neque vel turpis lacinia eget neque vel turpis lacinia lacinia eget neque vel turpis lacinia eget neque vel turpis lacinia.
-  text: |-
-    Morbi eget neque vel turpis lacinia eget neque vel turpis lacinia lacinia eget neque vel turpis lacinia eget neque vel turpis lacinia. Morbi eget neque vel turpis lacinia eget neque vel turpis lacinia lacinia eget neque vel turpis lacinia eget neque vel turpis lacinia. Morbi eget neque vel turpis lacinia eget neque vel turpis lacinia lacinia eget neque vel turpis lacinia eget neque vel turpis lacinia. 
-
-    <div class="aspect-w-16 aspect-h-9 mt-10">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/XKfgdkcIUxw?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    </div>
-
-  button:
-    text: Webinar
-    url: /webinar/
 
 - block: features-cards
   heading: Hvorfor Officegeek2

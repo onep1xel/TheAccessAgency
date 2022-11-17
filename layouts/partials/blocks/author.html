@@ -1,0 +1,22 @@
+<div class="relative py-12 lg:py-20 px-4 sm:px-6 lg:px-8 {{ if eq .color "light" }}text-white {{ else if eq .color "muted" }}text-gray-300{{ else }}text-black{{ end }}"{{ with .background }} style="background: {{ . }}"{{ end }}>
+  <div class="mx-auto max-w-6xl">
+    <div class="grid md:grid-cols-3 gap-6 md:gap-12 items-center">
+      <div>
+        {{ if .image }}
+          <img class="w-full" src="{{ .image | absURL }}" alt="{{ .heading }}">
+        {{ end }}
+      </div>
+      <div class="md:col-span-2">
+        <h2 class="text-3xl sm:text-4xl font-semibold leading-tight md:text-5xl">{{ .heading }}</h2>
+        {{ with .text }}
+          <div class="mt-6 mx-auto font-serif text-xl">{{ . | markdownify }}</div>
+        {{ end }}
+        {{ with .link }}
+          <div class="mt-12">
+            <a href="{{ .url | relURL }}" class="inline-block font-medium {{ if eq .style "green" }}bg-green-500 hover:bg-green-600{{ else }}bg-blue-500 hover:bg-blue-600{{ end }}">{{ .text }}</a>
+          </div>
+        {{ end }}
+      </div>
+    </div>
+  </div>
+</div>

@@ -4,8 +4,17 @@
     <div class="col-span-12 lg:col-span-2 mt-6">
       {{ partial "nav-categories.html" . }}    
     </div>
-    {{ $paginator := .Paginator }}
-    {{ $paginator := .Paginate (where .Pages "Type" "posts") }}
+    {{ $paginator := .Paginate (where (where .Pages ".Params.featured" "!=" true) "Type" "resources") }}
+
+    {{ if not $paginator.HasPrev }}
+      {{ $posts := where .Site.RegularPages "Section" "resources" }}
+      {{ range first 1 (where $posts ".Params.featured" "==" true) }}
+        
+         <div>{{ .Title }}</div>
+        
+      {{ end }}
+    {{ end }}
+    
     <div class="grid grid-cols-1 lg:grid-cols-2 gap-6 lg:gap-10 mt-8 lg:mt-16">
       {{ range $paginator.Pages }}
         {{ partial "card-post.html" . }} 

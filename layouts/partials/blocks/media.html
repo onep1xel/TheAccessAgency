@@ -1,0 +1,23 @@
+<div class="relative{{ if eq .type "slider" }} {{ end }}">
+  {{ if eq .type "image" }}
+    <img class="w-full" src="{{ .image | absURL }}" alt="{{ .alt }}">
+  {{ else if eq .type "video" }}
+    <div class="aspect-w-16 aspect-h-9">
+      <video
+        autoplay
+        loop
+        muted
+        class="w-full h-full object-center object-cover"
+        poster="{{ .image | absURL }}"
+      >
+        <source
+          src="{{ .video | absURL }}"
+          type="video/mp4"
+        />
+        Your browser does not support the video tag.
+      </video>
+    </div>
+  {{ else if eq .type "slider" }}
+  
+  {{ end }}
+</div>

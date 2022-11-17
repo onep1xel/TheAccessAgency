@@ -1,17 +1,15 @@
 baseURL: ""
 languageCode: "en-us"
-title: "Startup"
+title: "The Access Agency"
 
-copyright: "Lorem ipsum is placeholder text commonly used. Copyright © 2022 All Rights Reserved"
+copyright: "2022 Copyright Terms and Conditions"
 
 enableEmoji: true
 enableGitInfo: true
 enableRobotsTXT: true
 canonifyURLs: true
 
-paginate: 2
-
-  
+paginate: 1
 
 taxonomies:
   categories: 'categories'
@@ -26,55 +24,27 @@ markup:
 
 menu:
   navbar:
+  - name: Accessible Tourism
+    url: "/accessible-tourism/"
+    weight: 10
+  - name: About
+    url: "/about/"
+    weight: 20
   - name: Services
-    url: "#"
-    weight: 10
-  - name: Product one
-    url: "#"
-    parent: Services
-    pre: code
-    weight: 110
-  - name: Product two
-    url: "#"
-    parent: Services
-    pre: hashtag
-    weight: 120
-  - name: Product three
-    url: "#"
-    parent: Services
-    pre: cube-transparent
-    weight: 130
-  - name: Product four
-    url: "#"
-    parent: Services
-    pre: template
-    weight: 140
-  - name: Product five
-    url: "#"
-    parent: Services
-    pre: cube-transparent
-    params:
-      desc: Lorem ipsum
-    weight: 150
-  - name: Pricing
-    url: "#"
-    weight: 20
-  - name: Blog
-    url: "/blog/"
+    url: "/services/"
     weight: 30
-  - name: Contact
-    url: "#"
+  - name: Resources
+    url: "/resources/"
     weight: 40
-
-  navbar_cta:
-  - name: Login
-    url: "#"
-    pre: secondary
-    weight: 10
-  - name: Sign up
-    url: "#"
-    pre: primary
-    weight: 20
+  - name: Work
+    url: "/work/"
+    weight: 50
+  - name: Freewheel Weekends
+    url: "/freewheel-weekends/"
+    weight: 60
+  - name: Contact
+    url: "/contact/"
+    weight: 70
 
   social:
   - name: Facebook
@@ -99,41 +69,35 @@ menu:
     weight: 50
 
   footer:
-  - name: Services
+  - name: Home
+    url: "/"
     weight: 10
-
-  - name: Products
-    url: "#"
-    parent: Services
-    weight: 10
-  - name: Work
-    url: "#"
-    parent: Services
+  - name: Accessible Tourism
+    url: "/accessible-tourism/"
     weight: 20
-  - name: Custom
-    url: "#"
-    parent: Services
-    weight: 30
-
-  - name: Company
-    weight: 20
-
   - name: About
-    url: "#"
-    parent: Company
-    weight: 10
-  - name: Jobs
-    url: "#"
-    parent: Company
-    weight: 20
-  - name: Terms
-    url: "#"
-    parent: Company
+    url: "/about/"
     weight: 30
+  - name: Services
+    url: "/services/"
+    weight: 40
+  - name: Resources
+    url: "/resources/"
+    weight: 50
+  - name: Work
+    url: "/work/"
+    weight: 60
+  - name: Freewheel Weekends
+    url: "/freewheel-weekends/"
+    weight: 70
+  - name: Contact
+    url: "/contact/"
+    weight: 80
 
 params:
   description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
   logo: "/images/logo.svg"
+  logo_mark: "/images/logo-mark.svg"
   author: "OfficeGeek"
   github: "#"
   ogimage: "/images/og.png"
@@ -142,6 +106,11 @@ params:
   email: support@workcation.com
   phone: +1 555 123-4567
   address: Long street 24, London E16GH, United Kingdom
+  footer_text: |-
+    The Access Agency acknowledges and pays respect to the past, present and future Tradi- tional Custodians and Elders of this nation. We live and work on Wurundjeri Woiwurrung land and acknowledge the continuation of cultural, spiritual and educational practices of Aboriginal and Torres Strait Islander peoples.
+    
+    We're continually working to make our website more accessible, if you have any complaints or comments please send them through to hello[at]theaccessagency.com.au.
+  
 
   banner:
     text: Lorem ipsum is placeholder text commonly used

@@ -3,40 +3,24 @@
 @tailwind components;
 @tailwind utilities;
 
+@import url("https://p.typekit.net/p.css?s=1&k=pzc4uup&ht=tk&f=44514.44516.44518&a=4388735&app=typekit&e=css");
+
 @font-face {
-  font-family: "Euclid Circular B";
-  src: url("/fonts/EuclidCircularB-Regular.woff2") format("woff2"),
-    url("/fonts/EuclidCircularB-Regular.woff") format("woff");
-  font-weight: normal;
-  font-style: normal;
-  font-display: swap;
+font-family:"degular";
+src:url("https://use.typekit.net/af/2fce28/00000000000000007735c872/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n6&v=3") format("woff2"),url("https://use.typekit.net/af/2fce28/00000000000000007735c872/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n6&v=3") format("woff"),url("https://use.typekit.net/af/2fce28/00000000000000007735c872/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n6&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:600;font-stretch:normal;
 }
 
 @font-face {
-  font-family: 'Euclid Circular B';
-  src: url('/fonts/EuclidCircularB-Medium.woff2') format('woff2'),
-      url('/fonts/EuclidCircularB-Medium.woff') format('woff');
-  font-weight: 500;
-  font-style: normal;
-  font-display: swap;
+font-family:"degular";
+src:url("https://use.typekit.net/af/36a2f5/00000000000000007735c877/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff2"),url("https://use.typekit.net/af/36a2f5/00000000000000007735c877/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff"),url("https://use.typekit.net/af/36a2f5/00000000000000007735c877/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;font-stretch:normal;
 }
 
 @font-face {
-  font-family: "Euclid Circular B";
-  src: url("/fonts/EuclidCircularB-Semibold.woff2") format("woff2"),
-    url("/fonts/EuclidCircularB-Semibold.woff") format("woff");
-  font-weight: 600;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: "Euclid Circular B";
-  src: url("/fonts/EuclidCircularB-Bold.woff2") format("woff2"),
-    url("/fonts/EuclidCircularB-Bold.woff") format("woff");
-  font-weight: bold;
-  font-style: normal;
-  font-display: swap;
+font-family:"degular";
+src:url("https://use.typekit.net/af/443113/00000000000000007735c87d/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n8&v=3") format("woff2"),url("https://use.typekit.net/af/443113/00000000000000007735c87d/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n8&v=3") format("woff"),url("https://use.typekit.net/af/443113/00000000000000007735c87d/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n8&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:800;font-stretch:normal;
 }
 
 .svg-8 svg {

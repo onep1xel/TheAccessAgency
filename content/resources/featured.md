@@ -1,10 +1,11 @@
 ---
-title: Lorem ipsum dolorem laren
+title: Featured article
 image: https://dummyimage.com/600/ccc/ccc
 summary: The passage experienced a surge in popularity during the 1960s when Letraset used it on their dry-transfer sheets, and again during the 90s as desktop publishers.
 date: 2022-05-12
+featured: true
 categories:
-- news
+- articles
 ---
 
 Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book. It usually begins with:
