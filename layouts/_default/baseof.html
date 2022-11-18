@@ -6,7 +6,7 @@
 <body x-data="{ mobile: false }">
     {{ partial "offcanvas.html" . }}
     <div 
-        :class="{ 'right-[20rem]': mobile, 'right-0': !(mobile) }"
+        :class="{ 'right-[36rem]': mobile, 'right-0': !(mobile) }"
         class="relative transition-all">
         {{ partial "navbar.html" . }}
         {{ block "main" . }}{{ end }}

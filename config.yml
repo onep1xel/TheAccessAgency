@@ -24,6 +24,9 @@ markup:
 
 menu:
   navbar:
+  - name: Home
+    url: "/"
+    weight: 5
   - name: Accessible Tourism
     url: "/accessible-tourism/"
     weight: 10
@@ -47,26 +50,14 @@ menu:
     weight: 70
 
   social:
-  - name: Facebook
-    url: "#"
-    pre: facebook
-    weight: 10
   - name: Instagram
     url: "#"
     pre: instagram
     weight: 20
-  - name: Twitter
+  - name: Linkedin
     url: "#"
-    pre: twitter
+    pre: linkedin
     weight: 30
-  - name: GitHub
-    url: "#"
-    pre: github
-    weight: 40
-  - name: Dribbble
-    url: "#"
-    pre: dribbble
-    weight: 50
 
   footer:
   - name: Home
@@ -96,8 +87,8 @@ menu:
 
 params:
   description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
-  logo: "/images/logo.svg"
-  logo_mark: "/images/logo-mark.svg"
+  logo_navbar: "/images/logo-mark-light.svg"
+  logo_footer: "/images/logo-mark.svg"
   author: "OfficeGeek"
   github: "#"
   ogimage: "/images/og.png"
@@ -111,57 +102,3 @@ params:
     
     We're continually working to make our website more accessible, if you have any complaints or comments please send them through to hello[at]theaccessagency.com.au.
   
-
-  banner:
-    text: Lorem ipsum is placeholder text commonly used
-    button:
-      text: Learn More
-      url: "#"
-
-  navbar:
-  - name: Kurser
-    url: "/kurser/"
-    children:
-    - name: Tailwind CSS
-      url: "/tailwindcss/"
-      icon: code
-    - name: Alpine.js
-      url: "/alpinejs/"
-      icon: hashtag
-    - name: Hugo
-      url: "/hugo/"
-      icon: cube-transparent
-    - name: Design
-      url: "/design/"
-      icon: template
-    - name: Productivity
-      url: "/hugo/"
-      icon: cube-transparent
-    - name: All posts
-      url: "/blog/"
-      icon: document-duplicate   
-  - name: Webinar
-    url: "/webinar/"
-  - name: En til En
-    url: "/en-til-en/"
-  - name: Spørgsmål
-    url: "/sporgsmal/"
-  - name: Blog
-    url: "/blog/"
-  - name: Om
-    url: "/om/"
-  - name: Kontakt
-    url: "/kontakt/"
-
-  navbar_cta:
-    name: Kurser
-    url: "#kurser"
-  footer_1:
-  - name: Kurser
-    url: "/kurser/"
-  - name: Webinar
-    url: "/webinar/"
-  - name: En til En
-    url: "/en-til-en/"
-  - name: Spørgsmål
-    url: "/sporgsmal/"

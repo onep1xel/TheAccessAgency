@@ -4,7 +4,8 @@ title: Lorem ipsum is placeholder text commonly used
 url: ""
 description: 
 image: 
-
+navbar:
+  background: "#181818"
 blocks:
 - block: media
   type: video # image video slider
