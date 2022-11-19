@@ -8,10 +8,14 @@ navbar:
   background: "#181818"
 blocks:
 - block: media
-  type: video # image video slider
+  type: slider # image video slider
   image: https://source.unsplash.com/0qpPV5nrhwo/1400x800
   alt: Lorem Ipsum
   video: https://assets.mixkit.co/videos/preview/mixkit-set-of-plateaus-seen-from-the-heights-in-a-sunset-26070-large.mp4
+  slides:
+  - https://via.placeholder.com/1500x600/333333
+  - https://via.placeholder.com/1500x600/333333
+  - https://via.placeholder.com/1500x600/333333
 
 - block: cta
   background:  "#253148"

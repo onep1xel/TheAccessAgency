@@ -42,10 +42,14 @@ font-display:auto;font-style:normal;font-weight:800;font-stretch:normal;
   }
 }
 
-/* @media (min-width: 1024px) {
-  .prose .cp_embed_wrapper {
-    margin-left: -100px;
-    margin-right: -100px;
-    margin-top: 50px;
-  }
-} */
+.swiper-pagination-bullet {
+  @apply bg-sand-regular !important;
+}
+.swiper-pagination-bullet-active {
+  @apply bg-white !important;
+}.swiper-button-next, .swiper-button-prev {
+  @apply text-sand-regular !important;
+}
+.swiper-button-next:hover, .swiper-button-prev:hover {
+  @apply text-white !important;
+}

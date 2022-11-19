@@ -18,6 +18,48 @@
       </video>
     </div>
   {{ else if eq .type "slider" }}
-  
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.css" />
+    <script src="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.js"></script>
+    
+    <div class="swiper w-full">
+      <div class="swiper-wrapper">
+        {{ range .slides }}
+          <div class="swiper-slide">
+            <img class="w-full" src="{{ . | absURL }}" alt="Slide" />
+          </div>
+        {{ end }}
+      </div>
+      <div class="swiper-button-next"></div>
+      <div class="swiper-button-prev"></div>
+      <div class="swiper-pagination mt-10"></div>
+    </div>
+    
+    <script>
+      const swiper = new Swiper('.swiper', {
+        loop: true,
+        pagination: {
+          el: '.swiper-pagination',
+          clickable: true,
+        },
+        autoHeight: true,
+        slidesPerView: 1,
+        spaceBetween: 0,
+        navigation: {
+          nextEl: ".swiper-button-next",
+          prevEl: ".swiper-button-prev",
+        },
+        // breakpoints: {
+        //   460: {
+        //     slidesPerView: 2,
+        //     spaceBetween: 20,
+        //   },
+        //   1024: {
+        //     slidesPerView: 3,
+        //     spaceBetween: 20,
+        //   },
+        // },
+      });
+    </script>
+
   {{ end }}
 </div>
