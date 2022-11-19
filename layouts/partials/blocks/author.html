@@ -1,4 +1,6 @@
-<div class="relative py-20 lg:py-24 px-4 sm:px-6 lg:px-8 {{ if eq .color "light" }}text-white {{ else if eq .color "muted" }}text-sand-regular{{ else }}text-whale-regular{{ end }}"{{ with .background }} style="background: {{ . }}"{{ end }}>
+<div class="relative px-4 sm:px-6 lg:px-8 
+  {{ if eq .padding "top" }}pt-20 lg:pt-24{{ else if eq .padding "bottom" }}pb-20 lg:pb-24{{ else }}py-20 lg:py-24{{ end }} 
+  {{ if eq .color "light" }}text-white {{ else if eq .color "muted" }}text-sand-regular{{ else }}text-whale-regular{{ end }}"{{ with .background }} style="background: {{ . }}"{{ end }}>
   <div class="mx-auto max-w-6xl">
     <div class="grid md:grid-cols-3 gap-10 md:gap-14 items-center">
       <div>
@@ -13,7 +15,7 @@
         {{ end }}
         {{ with .link }}
           <div class="mt-4">
-            <a href="{{ .url | relURL }}" class="inline-block font-serif text-2xl sm:text-3xl underline italic hover:opacity-80">{{ .text }}</a>
+            <a href="{{ .url | relURL }}" class="inline-block font-serif text-2xl sm:text-3xl underline italic font-semibold hover:opacity-80">{{ .text }}</a>
           </div>
         {{ end }}
       </div>

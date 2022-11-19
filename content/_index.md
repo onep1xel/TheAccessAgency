@@ -8,8 +8,8 @@ navbar:
   background: "#181818"
 blocks:
 - block: media
-  type: slider # image video slider
-  image: https://source.unsplash.com/0qpPV5nrhwo/1400x800
+  type: image # image video slider
+  image: https://source.unsplash.com/0qpPV5nrhwo/1400x700
   alt: Lorem Ipsum
   video: https://assets.mixkit.co/videos/preview/mixkit-set-of-plateaus-seen-from-the-heights-in-a-sunset-26070-large.mp4
   slides:
@@ -17,16 +17,41 @@ blocks:
   - https://via.placeholder.com/1500x600/333333
   - https://via.placeholder.com/1500x600/333333
 
-- block: cta
-  background:  "#253148"
-  color: light # light dark muted
-  heading: Contact us to find out more about how to communicate your access
-  text: Lorem ipsum dolor sit amet, consectetuer adipiscing elitiam.
-  button:
-    style: mint # whale mint sand
-    text: Get in touch
+- block: feature
+  background:  "#ffffff"
+  color: dark # light dark muted
+  superheading: Why make tourism accessible?
+  heading: Reach more customers by providing accessible experiences & great information.
+  subheading: We’re award-winning creatives, qualified Access Consultants and we live with disability.
+  link: 
+    text: Want better better access?
     url: "#"
+  #subtext: 1.Open Doors Organization, 2020  2.Open Doors Organization, 2020  3.Open Doors Organization, 2020  
 
+- block: cards
+  background:  "#ffffff"
+  color: dark # light dark muted
+  padding: bottom
+  cards:
+  - heading: What is Accessible Tourism
+    text: Statistics and oportunity advice, advocacy and creative work for tourism and the visitor economy,
+      we make sure access brings people together.
+    link: 
+      text: See our work
+      url: "#"
+  - heading: Our work
+    text: Through advice, advocacy and creative work for tourism and the
+      visitor economy, we make sure access brings people together.
+    link: 
+      text: See our work
+      url: "#"
+  - heading: Resources
+    text: Through advice, advocacy and creative work for tourism and the
+      visitor economy, we make sure access brings people together.
+    link: 
+      text: See our work
+      url: "#"
+         
 - block: logos
   background:  "#E8E8E8"
   color: muted # light dark muted
@@ -48,6 +73,7 @@ blocks:
 - block: author
   background:  "#686867"
   color: light # light dark muted
+  padding: both # top bottom both (default)
   image: /images/ryan.jpg
   heading: Ryan Smith
   text: Duis autem vel eum iriure dolor in hendrerit in vulputate velit
@@ -56,7 +82,17 @@ blocks:
   link:
     text: Find out more
     url: "#"
-      
+
+- block: cta
+  background:  "#253148"
+  color: light # light dark muted
+  heading: Contact us to find out more about how to communicate your access
+  text: Lorem ipsum dolor sit amet, consectetuer adipiscing elitiam.
+  button:
+    style: mint # whale mint sand
+    text: Get in touch
+    url: "#"
+          
 - block: hero
   heading: Morbi eget nequ vel turpis lacinia
   subheading: Morbi eget neque vel turpis lacinia eget neque vel turpis lacinia lacinia eget neque vel turpis lacinia eget.

@@ -21,6 +21,11 @@ module.exports = {
           regular: '#8DC6B3',
           dark: '#7CAA99',
         },
+        rose: {
+          light: '#EFACAB',
+          regular: '#DC4B36',
+          dark: '#C63D32',
+        },
       },
       fontFamily: {
         sans: "'degular',-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif",
