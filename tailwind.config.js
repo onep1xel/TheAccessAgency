@@ -11,6 +11,16 @@ module.exports = {
           regular: '#D6D6CE',
           dark: '#B5B5B0',
         },
+        whale: {
+          light: '#6E99C4',
+          regular: '#253148',
+          dark: '#181F2D',
+        },
+        mint: {
+          light: '#E5F3EB',
+          regular: '#8DC6B3',
+          dark: '#7CAA99',
+        },
       },
       fontFamily: {
         sans: "'degular',-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif",

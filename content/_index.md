@@ -14,12 +14,12 @@ blocks:
   video: https://assets.mixkit.co/videos/preview/mixkit-set-of-plateaus-seen-from-the-heights-in-a-sunset-26070-large.mp4
 
 - block: cta
-  background:  "#493654"
+  background:  "#253148"
   color: light # light dark muted
   heading: Contact us to find out more about how to communicate your access
   text: Lorem ipsum dolor sit amet, consectetuer adipiscing elitiam.
   button:
-    style: green
+    style: mint # whale mint sand
     text: Get in touch
     url: "#"
 
