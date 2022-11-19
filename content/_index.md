@@ -27,6 +27,24 @@ blocks:
     text: Get in touch
     url: "#"
 
+- block: logos
+  background:  "#E8E8E8"
+  color: muted # light dark muted
+  heading: Clients we’ve worked with
+  logos:
+  - image: https://via.placeholder.com/200x70/333333
+    alt: Lorem
+  - image: https://via.placeholder.com/200x70/333333
+    alt: Lorem
+  - image: https://via.placeholder.com/200x70/333333
+    alt: Lorem
+  - image: https://via.placeholder.com/200x70/333333
+    alt: Lorem  
+  - image: https://via.placeholder.com/200x70/333333
+    alt: Lorem
+  - image: https://via.placeholder.com/200x70/333333
+    alt: Lorem
+    
 - block: author
   background:  "#686867"
   color: light # light dark muted
