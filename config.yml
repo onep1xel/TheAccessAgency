@@ -9,7 +9,7 @@ enableGitInfo: true
 enableRobotsTXT: true
 canonifyURLs: true
 
-paginate: 1
+paginate: 2
 
 taxonomies:
   categories: 'categories'

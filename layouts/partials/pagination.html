@@ -14,17 +14,19 @@
 
 <!-- If there's more than one page. -->
 {{ if gt $paginator.TotalPages 1 }}
+
     <!-- Previous page. -->
-    <div class="relative px-4 sm:px-6 lg:px-8">
-    <nav class="flex items-center justify-between px-4 sm:px-0">
-    <div class="flex flex-1 w-0">
+    <hr class="mt-16 sm:mt-28 border-t border-[#BCBCBC]">
+    <div class="relative mt-12 sm:mt-16">
+    <nav class="flex items-center">
+    <div class="flex">
     {{ if $paginator.HasPrev }}
-        <a href="{{ $paginator.Prev.URL }}#posts" class="inline-flex items-center pr-1 text-lg font-normal text-gray-900 hover:text-green-500">
-            <!-- Heroicon name: arrow-narrow-left -->
-            <svg class="w-5 h-5 mr-3" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
-            <path fill-rule="evenodd" d="M7.707 14.707a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414l4-4a1 1 0 011.414 1.414L5.414 9H17a1 1 0 110 2H5.414l2.293 2.293a1 1 0 010 1.414z" clip-rule="evenodd" />
+        <a href="{{ $paginator.Prev.URL }}" class="inline-flex items-center text-3xl font-bold text-whale-regular hover:text-whale-light -ml-4 mr-10 md:mr-32">
+            <svg class="w-16 h-16" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1" stroke="currentColor" class="w-6 h-6">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M15.75 19.5L8.25 12l7.5-7.5" />
             </svg>
-            Previous
+
+            <span class="pb-1">Previous</span>
         </a>
     {{ end }}
     </div>
@@ -76,26 +78,17 @@
 
       {{ end }}
 
-      <div class="hidden md:-mt-px md:flex">
-      <!-- Output page numbers. -->
-      {{ if eq ($.Scratch.Get "page_number_flag") true }}
-        <a href="{{ .URL }}#posts" class="{{ if eq . $paginator }} text-green-500 {{else }} text-gray-900 hover:text-green-500 {{ end }} px-4 inline-flex items-center text-lg font-normal">
-            {{ .PageNumber }}
-        </a>
-      {{ end }}
-      </div>
 
     {{ end }}
 
     <!-- Next page. -->
-    <div class="flex justify-end flex-1 w-0 -mt-px">
+    <div class="flex">
     {{ if $paginator.HasNext }}
 
-        <a href="{{ $paginator.Next.URL }}#posts" class="inline-flex items-center pl-1 text-lg font-normal text-gray-900 hover:text-green-500">
-            Next
-            <!-- Heroicon name: arrow-narrow-right -->
-            <svg class="w-5 h-5 ml-3" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
-            <path fill-rule="evenodd" d="M12.293 5.293a1 1 0 011.414 0l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-2.293-2.293a1 1 0 010-1.414z" clip-rule="evenodd" />
+        <a href="{{ $paginator.Next.URL }}" class="inline-flex items-center text-3xl font-bold text-whale-regular hover:text-whale-light">
+            <span class="pb-1">Next</span>
+            <svg class="w-16 h-16" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M8.25 4.5l7.5 7.5-7.5 7.5" />
             </svg>
         </a>
 

@@ -1,27 +1,47 @@
-<div class="bg-white px-4 sm:px-6 lg:px-8">
-  <div class="mx-auto max-w-md md:max-w-xl lg:max-w-7xl pt-10 pb-14 lg:pt-16 lg:pb-24">
-    <h1 class="text-3xl sm:text-4xl lg:text-5xl font-bold lg:leading-tight text-gray-900 text-center capitalize">{{ .Title }}</h1>
-    <div class="col-span-12 lg:col-span-2 mt-6">
-      {{ partial "nav-categories.html" . }}    
+<div class="relative px-4 sm:px-6 lg:px-8 py-12 lg:py-16">
+  <div class="mx-auto max-w-8xl">
+    <div class="max-w-4xl">
+      <h1 class="text-5xl font-bold leading-none sm:leading-none sm:text-[4.9375rem] text-neutral-800">{{ .Title }}</h1>
+      {{ with .Params.subheading }}
+        <div class="mt-3 sm:mt-6 mx-auto font-serif text-4xl sm:text-[3.4375rem] leading-[1.1] sm:leading-[1.1] text-neutral-800">{{ . | markdownify }}</div>
+      {{ end }}
     </div>
+    <hr class="mt-14 sm:mt-20 border-t border-[#BCBCBC]">
+    
     {{ $paginator := .Paginate (where (where .Pages ".Params.featured" "!=" true) "Type" "resources") }}
-
     {{ if not $paginator.HasPrev }}
       {{ $posts := where .Site.RegularPages "Section" "resources" }}
       {{ range first 1 (where $posts ".Params.featured" "==" true) }}
-        
-         <div>{{ .Title }}</div>
-        
+        <div class="grid lg:grid-cols-5 mt-14 sm:mt-20">
+          <div class="lg:col-span-3">
+            <div class="h-96 lg:h-full overflow-hidden" style="background-image: url({{ .Params.image | relURL }})"></div>
+          </div>
+          <div class="lg:col-span-2 p-14 lg:p-[4.5rem] bg-whale-regular text-white">
+            <h3 class="text-4xl font-bold leading-none sm:leading-none sm:text-[2.6875rem]">{{ .Title }}</h3>
+            <div class="mt-6 mx-auto font-serif text-2xl sm:text-3xl leading-[1.1] sm:leading-[1.1]">{{ .Summary }}</div>
+            <div class="mt-6">
+              <a href="{{ .Permalink }}" class="inline-block font-serif text-2xl sm:text-3xl underline italic font-semibold hover:opacity-80">{{ .Params.read }}</a>
+            </div>
+          </div>
+        </div>
       {{ end }}
     {{ end }}
     
-    <div class="grid grid-cols-1 lg:grid-cols-2 gap-6 lg:gap-10 mt-8 lg:mt-16">
+    <div class="col-span-12 lg:col-span-2 mt-14 sm:mt-20">
+      {{ partial "nav-categories.html" . }}    
+    </div>
+    
+    <div class="grid grid-cols-1 lg:grid-cols-2 gap-14 xl:gap-x-20 xl:gap-y-36 mt-14 sm:mt-20">
       {{ range $paginator.Pages }}
         {{ partial "card-post.html" . }} 
       {{ end }}
     </div>
-    <div class="mt-16">
-      {{ partial "pagination.html" . }}
-    </div>
+    
+    {{ partial "pagination.html" . }}
+    
   </div>
 </div>
+
+
+
+

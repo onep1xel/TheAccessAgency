@@ -1,11 +1,10 @@
-<div x-data="{ dropdown: false }" class="relative mb-6 lg:hidden">
+<div x-data="{ dropdown: false }" class="relative lg:hidden text-whale-regular">
   <a @click.prevent="dropdown = ! dropdown" href="#" 
-    :class="{ 'text-green-500': dropdown, 'text-gray-900': !(dropdown) }"
-    class="dropdown-btn relative w-full group lg:hidden text-lg text-gray-900 font-semibold hover:text-green-500 py-2 flex items-center justify-center">
+    class="dropdown-btn relative w-full group lg:hidden text-2xl text-gray-900 font-medium hover:underline decoration-whale-regular underline-offset-4 py-2 flex items-center">
     <span>Categories</span>
     <svg
-      :class="{ 'text-green-500 dark:text-green-500 rotate-180': dropdown, 'text-gray-900 dark:text-white transform-none': !(dropdown) }"
-      class="text-green-500 ml-0.5 mt-0.5 h-6 w-6 group-hover:text-green-500 dark:group-hover:text-green-500"
+      :class="{ 'rotate-180': dropdown, 'transform-none': !(dropdown) }"
+      class="ml-0.5 mt-0.5 h-6 w-6"
       xmlns="http://www.w3.org/2000/svg"
       viewBox="0 0 20 20"
       fill="currentColor"
@@ -28,18 +27,18 @@
     x-transition:leave-start="opacity-100 translate-y-0"
     x-transition:leave-end="opacity-0 translate-y-1"
     @click.outside="dropdown = false"
-   class="absolute z-10 w-full bg-white rounded-lg shadow-xl hidden py-2.5 text-lg font-medium">
-   <a class="{{ if in .Permalink "/resources/" }}text-green-500{{ else }}text-gray-900{{ end }} hover:text-green-500 block px-5 py-3" href="{{ "/resources/" | relURL }}">All resources</a>
+   class="absolute z-10 w-full bg-white rounded-lg shadow-xl hidden py-2.5 text-2xl font-medium">
+   <a class="{{ if in .Permalink "/resources/" }}underline{{ end }} hover:underline decoration-whale-regular underline-offset-4 block px-5 py-3" href="{{ "/resources/" | relURL }}">All</a>
    {{ range site.Taxonomies.categories }}
-      <a class="{{ if eq .Page.Permalink $.Permalink }}text-green-500{{ else }}text-gray-900{{ end }} hover:text-green-500 block px-5 py-3 capitalize" href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>
+      <a class="{{ if eq .Page.Permalink $.Permalink }}underline{{ end }} hover:underline decoration-whale-regular underline-offset-4 block px-5 py-3 capitalize" href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>
     {{ end }}
   </div>
 </div>
 <div class="hidden lg:block">
-  <div class="flex space-x-6 justify-center font-medium text-lg">
-    <a class="{{ if in .Permalink "/resources/" }}text-green-500{{ else }}text-gray-900{{ end }} hover:text-green-500" href="{{ "/resources/" | relURL }}">All resources</a>
+  <div class="flex font-medium text-[2.5625rem] divide-x-4 divide-sand-regular">
+    <a class="{{ if in .Permalink "/resources/" }}underline{{ end }} text-whale-regular hover:underline decoration-whale-regular underline-offset-4 px-8 leading-none pb-2" href="{{ "/resources/" | relURL }}">All</a>
     {{ range site.Taxonomies.categories }}
-      <a class="{{ if eq .Page.Permalink $.Permalink }}text-green-500{{ else }}text-gray-900{{ end }} hover:text-green-500 capitalize" href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>
+      <a class="{{ if eq .Page.Permalink $.Permalink }}underline{{ end }} text-whale-regular hover:underline decoration-whale-regular underline-offset-4 px-8 leading-none pb-2" href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>
     {{ end }}
   </div>
 </div>
