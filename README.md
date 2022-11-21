@@ -1,23 +1,11 @@
-# Theme
+# Hugo
 
-## Config
-The following global setting are located in `config.toml`:
-- Site setting: URL, descriptions, logos
-- Footer copyright
+Hugo [Installation](https://gohugo.io/installation/)
 
-## Menus
-Set menus in `data/menus.yml`:
-- Navbar menu
-- Footer menu
-- Social networks
+## Run server
+`hugo server`
 
-## Markdown
-
-Upload images to `/static/images/` folder and use `![Company](/images/company.svg)` syntax to add it in content.
-
-Markdown [syntax guide](https://commonmark.org/help/). 
-
-## Installation and Development
+## Development
 **Install**  
 `npm install`
 
@@ -33,16 +21,3 @@ Markdown [syntax guide](https://commonmark.org/help/).
 and
 `hugo server`
 
-Note: When you start first time **npm run dev** a style.css must exist - or you get an error! Just do a **Ctrl+c** and run **npm run dev** - even though you got an error but a style was written anyway and 2nd time round it should start fine.
-
-To get out of developing mode you need to do **Ctrl+c** twice.
-
-### Blocks
-New site blocks can be added in `layouts/partials/blocks/` directory.
-
-```
-Headings: `text-gray-8900`
-Text: `text-gray-800`
-Link/button bg-blue-600 hover:bg-blue-700
-
-```
