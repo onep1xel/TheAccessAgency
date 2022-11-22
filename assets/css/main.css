@@ -60,3 +60,10 @@ font-display:auto;font-style:normal;font-weight:800;font-stretch:normal;
       max-width: -webkit-fill-available;
   }
 }
+
+.block-text.prose h2 {
+  font-weight: 700;
+}
+.block-text.prose h3 {
+  font-weight: 700;
+}
