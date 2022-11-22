@@ -9,7 +9,7 @@ navbar:
 blocks:
 - block: media
   type: image # image video slider
-  image: https://source.unsplash.com/0qpPV5nrhwo/1400x700
+  image: /images/hero.jpg
   alt: Lorem Ipsum
   video: https://assets.mixkit.co/videos/preview/mixkit-set-of-plateaus-seen-from-the-heights-in-a-sunset-26070-large.mp4
   slides:

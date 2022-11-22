@@ -46,7 +46,41 @@ module.exports = {
         '8xl': ['6rem', { lineHeight: '1' }],
         '9xl': ['8rem', { lineHeight: '1' }],
       },
-
+      typography: {
+        DEFAULT: {
+          css: {
+            color: '#253148',
+            fontWeight: 400,
+            lineHeight: 1.3,
+            fontSize: '1.8125rem',
+            fontFamily: 'Faustina',
+            'h1, h2, h3, h4, h5, h6': { 
+              marginBottom: '1.1669rem !important',
+              fontFamily: 'degular',
+              lineHeight: 1,
+            },
+            //p: {fontFamily: 'Faustina'},
+            h2: {
+              fontWeight: 700,
+              fontSize: '2.6875rem',
+              
+            },
+            h3: {
+              fontWeight: 600,
+              fontSize: '2.5rem',
+            },
+            h4: {
+              fontWeight: 600,
+              fontSize: '2.3331rem',
+            },
+            h5: {
+              fontWeight: 800,
+              fontSize: '1.75rem',
+              textTransform: 'uppercase',
+            },
+          },
+        },
+      },
       
       
       // lineHeight: {

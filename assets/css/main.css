@@ -53,3 +53,10 @@ font-display:auto;font-style:normal;font-weight:800;font-stretch:normal;
 .swiper-button-next:hover, .swiper-button-prev:hover {
   @apply text-white !important;
 }
+
+@media (min-width: 1224px) {
+  .prose img {
+      margin-right: -10rem;
+      max-width: -webkit-fill-available;
+  }
+}

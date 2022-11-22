@@ -1,59 +1,88 @@
 {{define "main"}}
-<div class="bg-purple-990 px-4 sm:px-6 lg:px-8">
-  <div class="mx-auto max-w-3xl pt-10 lg:pt-16 pb-8 lg:pb-16">
-    {{ if .Params.categories }}
-      <div class="gap-x-3 flex justify-center capitalize mb-4">
-        {{ range .Params.categories }}<span class="px-3 py-1.5 rounded-full bg-green-100 text-green-500 leading-none inline-block">{{ . }}</span>{{ end }}
-      </div>
-    {{ end }}    
-    <h1 class="text-3xl font-bold sm:text-4xl lg:text-5xl lg:leading-tight text-gray-900 text-center">{{ .Title }}</h1>
-    <time datetime="2020-03-16" class="text-gray-900 flex justify-center mt-4">
-      {{ dateFormat "January 02, 2006" .Date }}
-    </time>
-    <div class="flex space-x-4 mt-4 justify-center">
-      {{ partial "share.html" . }}
+{{ if .Params.image }}
+  <div class="overflow-hidden bg-no-repeat bg-cover bg-center h-[20rem] sm:h-[30rem] lg:h-[40rem] px-4 sm:px-6 lg:px-8" style="background-image: url({{ .Params.image | relURL }})">
+    <div class="mx-auto max-w-8xl flex items-end h-full">
+      <h1 class="text-5xl sm:text-6xl font-bold leading-none sm:leading-none md:leading-none md:text-[5rem] relative z-10 mb-10 sm:mb-20 text-white">{{ .Title }}</h1>
     </div>
-    {{ if .Params.image }}
-      <div class="aspect-w-16 aspect-h-10 rounded overflow-hidden mt-12 lg:-mx-24">
-        <img class="w-full h-full object-center object-cover" src="{{ .Params.image | relURL }}" alt="{{ .Title }}">
-      </div>
-    {{ end }}    
-    <div class="mt-12 prose sm:prose-lg dark:prose-invert hover:prose-a:text-pink-600 max-w-none">
+  </div>
+{{ end }}   
+<div class="px-4 sm:px-6 lg:px-8">
+  <div class="mx-auto max-w-8xl pt-8 pb-8 lg:pb-16">
+    <nav class="flex" aria-label="Breadcrumb">
+      <ol role="list" class="flex items-center space-x-3 text-[1.3331rem] font-serif italic">
+        <li>
+          <div>
+            <a class="ml-4 text-[#493654] hover:text-black" href="{{ "/" | relURL }}" class="text-gray-400 hover:text-gray-500">
+              Home
+            </a>
+          </div>
+        </li>
+    
+        <li>
+          <div class="flex items-center">
+            <svg class="h-5 w-5 flex-shrink-0 text-[#493654]" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 20 20" aria-hidden="true">
+              <path d="M5.555 17.776l8-16 .894.448-8 16-.894-.448z" />
+            </svg>
+            <a href="{{ "/resources/" | relURL }}" class="ml-4 text-[#493654] hover:text-black cap">Resources</a>
+          </div>
+        </li>
+    
+        <li>
+          <div class="flex items-center">
+            <svg class="h-5 w-5 flex-shrink-0 text-[#493654]" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 20 20" aria-hidden="true">
+              <path d="M5.555 17.776l8-16 .894.448-8 16-.894-.448z" />
+            </svg>
+            <a href="{{ .Permalink }}" class="ml-4 text-[#493654] hover:text-black" aria-current="page">{{ .Title }}</a>
+          </div>
+        </li>
+      </ol>
+    </nav>
+    <hr class="mt-8 border-t border-[#BCBCBC]">
+
+    <div class="mt-12 sm:mt-16 prose hover:prose-a:text-whale-light max-w-[60rem]">
       {{ .Content }}
     </div>
-    <div class="mt-16 lg:mt-20 grid gap-4 grid-cols-1 md:grid-cols-2">
+    
+    {{ with .Params.download }}
+      <div class="mt-8 sm:mt-16">
+        <a href="{{ .url | relURL }}" class="inline-flex leading-none sm:leading-none px-4 sm:px-7 pt-2 pb-2.5 sm:pt-3.5 sm:pb-4 font-semibold text-xl sm:text-[1.6875rem] items-center space-x-4 sm:space-x-6
+        text-whale-regular bg-mint-regular hover:bg-mint-light" target="_blank">
+        <span>{{ .text }}</span>
+        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="3" stroke="currentColor" class="w-4 h-4 sm:w-5 sm:h-5 mt-0.5">
+          <path stroke-linecap="round" stroke-linejoin="round" d="M8.25 4.5l7.5 7.5-7.5 7.5" />
+        </svg>
+      </a>
+      </div>
+    {{ end }}
+    
+    <hr class="mt-16 sm:mt-28 border-t border-[#BCBCBC]">
+    <div class="flex items-center mt-12 sm:mt-16">
       {{ with .NextInSection }}
-        <a class="flex items-center text-gray-900 dark:text-slate-200 bg-purple-980 hover:bg-purple-970 border border-gray-900 rounded-md font-medium"
-          href="{{ .Permalink }}">
-          <svg xmlns="http://www.w3.org/2000/svg" class="h-8 w-8 ml-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
-            <path stroke-linecap="round" stroke-linejoin="round" d="M15 19l-7-7 7-7" />
-          </svg>            
-          <span class="ml-2 mr-4 my-4 grow"> Previous<br><strong class="text-lg sm:text-xl">{{ .Title }}</strong></span>
+        <a href="{{ .Permalink }}" class="inline-flex items-center text-3xl font-bold text-whale-regular hover:text-whale-light -ml-4 mr-10 md:mr-32">
+            <svg class="w-16 h-16" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1" stroke="currentColor" class="w-6 h-6">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M15.75 19.5L8.25 12l7.5-7.5" />
+            </svg>
+        
+            <span class="pb-1">Previous</span>
         </a>
       {{ else }}
         <div></div>
       {{ end }}      
       {{ with .PrevInSection }}
-        <a class="flex items-center text-right text-gray-900 dark:text-slate-200 bg-purple-980 hover:bg-purple-970 border border-gray-900 rounded-md font-medium"
-          href="{{ .Permalink }}">
-          <span class="ml-4 mr-2 my-4 grow"> Next<br><strong class="text-lg sm:text-xl">{{ .Title }}</strong></span>
-          <svg xmlns="http://www.w3.org/2000/svg" class="h-8 w-8 mr-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
-            <path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7" />
-          </svg>
+        <a href="{{ .Permalink }}" class="inline-flex items-center text-3xl font-bold text-whale-regular hover:text-whale-light">
+            <span class="pb-1">Next</span>
+            <svg class="w-16 h-16" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M8.25 4.5l7.5 7.5-7.5 7.5" />
+            </svg>
         </a>
       {{ end }}                        
     </div>
   </div>
 </div>
-<div class="bg-green-50 px-4 sm:px-6 lg:px-8">
-  <div class="mx-auto max-w-md md:max-w-xl lg:max-w-7xl py-14 lg:py-24">
-    <h2 class="text-3xl sm:text-4xl lg:text-5xl font-semibold lg:leading-tight text-gray-900 text-center">Flere artikler</h2>
-    <div class="grid grid-cols-1 lg:grid-cols-2 gap-6 lg:gap-10 mt-8 lg:mt-16">
-      {{ $posts := where site.RegularPages "Section" "blog" }}
-      {{ range first 2 (where $posts "Title" "!=" .Title) }}
-        {{ partial "card-post.html" . }} 
-      {{ end }}
-    </div>
-  </div>
-</div>
+
+{{ $blocks := .Params.blocks }}
+{{ range $blocks }}
+  {{ $file := (printf "%s%s%s" "blocks/" .block ".html" ) }}
+  {{ partial $file . }}
+{{ end }}
 {{end}}
