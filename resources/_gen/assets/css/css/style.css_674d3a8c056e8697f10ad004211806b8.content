@@ -4290,6 +4290,10 @@ select {
     font-size: 3.4169rem;
   }
 
+  .sm\:text-\[1\.3331rem\] {
+    font-size: 1.3331rem;
+  }
+
   .sm\:leading-none {
     line-height: 1;
   }
@@ -4473,6 +4477,10 @@ select {
   .md\:text-4xl {
     font-size: 2.25rem;
     line-height: 2.875rem;
+  }
+
+  .md\:text-\[4\.5831rem\] {
+    font-size: 4.5831rem;
   }
 
   .md\:leading-tight {
@@ -4822,6 +4830,10 @@ select {
 
   .lg\:pb-20 {
     padding-bottom: 5rem;
+  }
+
+  .lg\:pr-40 {
+    padding-right: 10rem;
   }
 
   .lg\:text-6xl {

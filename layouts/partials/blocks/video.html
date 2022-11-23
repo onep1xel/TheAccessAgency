@@ -1,0 +1,16 @@
+<div class="relative px-4 sm:px-6 lg:px-8 
+  {{ if eq .padding "top" }}pt-20 lg:pt-24{{ else if eq .padding "bottom" }}pb-20 lg:pb-24{{ else }}py-20 lg:py-24{{ end }}"
+  {{ with .background }} style="background: {{ . }}"{{ end }}>
+  <div class="mx-auto max-w-8xl">
+    {{ with .youtube }}
+      <div class="aspect-w-16 aspect-h-9">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ . }}?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </div>
+    {{ end }}
+    {{ with .vimeo }}
+      <div class="aspect-w-16 aspect-h-9">
+        <iframe src="https://player.vimeo.com/video/{{ . }}?h=c3a6904a82&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+      </div>
+    {{ end }}
+  </div>
+</div>

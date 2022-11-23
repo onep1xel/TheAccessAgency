@@ -2,7 +2,7 @@
   {{ if eq .padding "top" }}pt-20 lg:pt-24{{ else if eq .padding "bottom" }}pb-20 lg:pb-24{{ else }}pt-20 pb-14 lg:py-24{{ end }}"
   {{ with .background }} style="background: {{ . }}"{{ end }}>
   <div class="mx-auto max-w-8xl">
-    <div class="{{ if lt .columns 2 }}max-w-5xl{{ end }}">
+    <div class="{{ if eq .container "small" }}max-w-5xl{{ end }}">
       <div class="grid gap-12 lg:gap-24 md:grid-cols-{{ .columns | default "1" }}">
         {{ range .images }}
           <div>

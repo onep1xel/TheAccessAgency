@@ -10,8 +10,8 @@ blocks:
 - block: header
   background:  "#262626"
   color: light # light dark muted
-  heading: Accessible Tourism
-  text: Opening up visitor experiences to be more equitable, accessible and profitable.
+  heading: Our Work
+  text: We provide access audits, create communications and help operators  meet more visitors.
   
 - block: text
   background:  "#E8E8E8"
@@ -121,7 +121,6 @@ blocks:
   columns: 1
   background:  "#EFEFEF"
   padding: bottom
-  container: small
   images:
   - image: https://via.placeholder.com/1000x600/666666
     alt: Lorem
@@ -164,7 +163,6 @@ blocks:
   columns: 1
   background:  "#EFEFEF"
   padding: bottom
-  container: small
   images:
   - image: https://via.placeholder.com/1000x600/666666
     alt: Lorem
