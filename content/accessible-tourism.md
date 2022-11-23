@@ -22,28 +22,42 @@ blocks:
     
     Hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et.
     iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.
-  
-- block: media
-  type: image # image video slider
-  image: /images/hero.jpg
-  alt: Lorem Ipsum
-  video: https://assets.mixkit.co/videos/preview/mixkit-set-of-plateaus-seen-from-the-heights-in-a-sunset-26070-large.mp4
-  slides:
-  - https://via.placeholder.com/1500x600/333333
-  - https://via.placeholder.com/1500x600/333333
-  - https://via.placeholder.com/1500x600/333333
 
 - block: feature
-  background:  "#ffffff"
+  background:  "#EFEFEF"
   color: dark # light dark muted
   superheading: Why make tourism accessible?
-  heading: Reach more customers by providing accessible experiences & great information.
-  subheading: We’re award-winning creatives, qualified Access Consultants and we live with disability.
+  heading: <span style="color:#493654">People with access needs and disabilities</span> 
+    <span style="color:#8FC8B5">stay longer</span><span style="color:#493654">,</span> <span style="color:#DE4B37">travel with more people</span> <span style="color:#493654">and they’re <span style="color:#9FCBE9">very loyal.</span>
+    <br>
+    <span style="color:#493654; margin-top:2rem; display:inline-block">In short, they’re</span> <span style="color:#7A6730">fantastic customers.</span>
+  subheading: 
   link: 
-    text: Want better better access?
-    url: "#"
-  #subtext: 1.Open Doors Organization, 2020  2.Open Doors Organization, 2020  3.Open Doors Organization, 2020  
+    text: 
+    url: ""
+  subtext: 1.Open Doors Organization, 2020  2.Open Doors Organization, 2020  3.Open Doors Organization, 2020  
 
+- block: logos
+  background:  "#EFEFEF"
+  color: muted # light dark muted
+  padding: bottom
+  heading: 
+  logos:
+  - image: https://via.placeholder.com/100/666666
+    alt: Lorem
+  - image: https://via.placeholder.com/100/666666
+    alt: Lorem
+  - image: https://via.placeholder.com/100/666666
+    alt: Lorem
+  - image: https://via.placeholder.com/100/666666
+    alt: Lorem  
+  - image: https://via.placeholder.com/100/666666
+    alt: Lorem
+  - image: https://via.placeholder.com/100/666666
+    alt: Lorem
+  - image: https://via.placeholder.com/100/666666
+    alt: Lorem
+    
 - block: cards
   background:  "#ffffff"
   color: dark # light dark muted

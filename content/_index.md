@@ -53,6 +53,7 @@ blocks:
       url: "#"
          
 - block: logos
+  container: small
   background:  "#E8E8E8"
   color: muted # light dark muted
   heading: Clients we’ve worked with
