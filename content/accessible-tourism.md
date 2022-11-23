@@ -166,7 +166,10 @@ blocks:
   images:
   - image: https://via.placeholder.com/1000x600/666666
     alt: Lorem
-      
+
+- block: resources
+  background: "#D6D6CE"
+         
 - block: cta
   background:  "#253148"
   color: light # light dark muted

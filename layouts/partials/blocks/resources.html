@@ -1,0 +1,56 @@
+<div class="relative px-4 sm:px-6 lg:px-8 
+  {{ if eq .padding "top" }}pt-20 lg:pt-24{{ else if eq .padding "bottom" }}pb-20 lg:pb-24{{ else }}pt-20 pb-14 lg:py-24{{ end }}"
+  {{ with .background }} style="background: {{ . }}"{{ end }}>
+  <div class="mx-auto max-w-8xl">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.css" />
+    <script src="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.js"></script>
+    
+    <div class="">
+      <div class="swiper w-full">
+        <div class="swiper-wrapper">
+          {{ $posts := where site.RegularPages "Section" "resources" }}
+          {{ range first 6 $posts }}
+            <div class="swiper-slide">
+              {{ partial "card-post.html" . }} 
+            </div>
+          {{ end }}
+        </div>
+
+      </div>
+      <div class="swiper-button-next slider-resources lg:mr-4"></div>
+      <div class="swiper-button-prev slider-resources lg:ml-4"></div>
+    </div>
+    
+    <script>
+      const swiper = new Swiper('.swiper', {
+        loop: true,
+        pagination: {
+          el: '.swiper-pagination',
+          clickable: true,
+        },
+        autoHeight: true,
+        slidesPerView: 1,
+        spaceBetween: 0,
+        navigation: {
+          nextEl: ".swiper-button-next",
+          prevEl: ".swiper-button-prev",
+        },
+        breakpoints: {
+          640: {
+            slidesPerView: 1.5,
+            spaceBetween: 40,
+          },
+          1024: {
+            slidesPerView: 2.5,
+            spaceBetween: 40,
+          },
+          1280: {
+            slidesPerView: 2.75,
+            spaceBetween: 90,
+          },
+        },
+      });
+    </script>
+    
+  </div>
+</div>
