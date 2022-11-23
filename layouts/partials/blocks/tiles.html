@@ -1,0 +1,17 @@
+<div class="grid sm:grid-cols-2 lg:grid-cols-3">
+  {{ range .tiles }}
+    <div class="overflow-hidden bg-no-repeat bg-cover bg-center px-10 py-20 
+      {{ if eq .color "light" }}text-white {{ else if eq .color "muted" }}text-sand-regular{{ else }}text-whale-regular{{ end }}"
+      style="{{ with .image }}background-image: url({{ . | absURL }});{{ end }}{{ with .background }}background-color: {{ . }}{{ end }}">
+        {{ with .heading }}
+         <h3 class="font-bold leading-none text-[5rem]">{{ . }}</h3>
+        {{ end }}   
+         {{ with .text }}
+           <div class="mt-2.5 text-[2rem] leading-[1.1] font-bold">{{ . | markdownify }}</div>
+         {{ end }} 
+         {{ with .subtext }}
+           <div class="mt-4 font-serif italic text-[0.8331rem] leading-snug">{{ . | markdownify }}</div>
+         {{ end }}  
+    </div>
+  {{ end }}
+</div>

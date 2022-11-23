@@ -2071,6 +2071,10 @@ select {
   margin-bottom: 1.25rem;
 }
 
+.mt-2\.5 {
+  margin-top: 0.625rem;
+}
+
 .block {
   display: block;
 }
@@ -3209,6 +3213,18 @@ select {
 
 .text-\[1\.3331rem\] {
   font-size: 1.3331rem;
+}
+
+.text-\[2rem\] {
+  font-size: 2rem;
+}
+
+.text-\[0\.8331rem\] {
+  font-size: 0.8331rem;
+}
+
+.text-\[5rem\] {
+  font-size: 5rem;
 }
 
 .font-bold {

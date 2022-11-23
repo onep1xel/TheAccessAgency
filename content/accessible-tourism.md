@@ -57,62 +57,51 @@ blocks:
     alt: Lorem
   - image: https://via.placeholder.com/100/666666
     alt: Lorem
-    
-- block: cards
-  background:  "#ffffff"
-  color: dark # light dark muted
-  padding: bottom
-  cards:
-  - heading: What is Accessible Tourism
-    text: Statistics and oportunity advice, advocacy and creative work for tourism and the visitor economy,
-      we make sure access brings people together.
-    link: 
-      text: See our work
-      url: "#"
-  - heading: Our work
-    text: Through advice, advocacy and creative work for tourism and the
-      visitor economy, we make sure access brings people together.
-    link: 
-      text: See our work
-      url: "#"
-  - heading: Resources
-    text: Through advice, advocacy and creative work for tourism and the
-      visitor economy, we make sure access brings people together.
-    link: 
-      text: See our work
-      url: "#"
-         
-- block: logos
-  background:  "#E8E8E8"
-  color: muted # light dark muted
-  heading: Clients we’ve worked with
-  logos:
-  - image: https://via.placeholder.com/200x70/333333
-    alt: Lorem
-  - image: https://via.placeholder.com/200x70/333333
-    alt: Lorem
-  - image: https://via.placeholder.com/200x70/333333
-    alt: Lorem
-  - image: https://via.placeholder.com/200x70/333333
-    alt: Lorem  
-  - image: https://via.placeholder.com/200x70/333333
-    alt: Lorem
-  - image: https://via.placeholder.com/200x70/333333
-    alt: Lorem
-    
-- block: author
-  background:  "#686867"
-  color: light # light dark muted
-  padding: both # top bottom both (default)
-  image: /images/ryan.jpg
-  heading: Ryan Smith
-  text: Duis autem vel eum iriure dolor in hendrerit in vulputate velit
-    esse molestie consequat, vel illum dolore eu feugiat nulla facilisis
-    at vero eros et accumsan et.
-  link:
-    text: Find out more
-    url: "#"
 
+- block: tiles
+  tiles:
+  - heading: 
+    text: 
+    subtext: 
+    color: # dark light muted
+    background: ""
+    image: /images/tile-1.jpg
+    
+  - heading: 40%+
+    text: of baby boomers will be retiring with some form of disability
+    subtext: Open Doors Organization, 2020
+    color: muted # dark light muted
+    background: "#243148"
+    image: 
+    
+  - heading: 40%+
+    text: of baby boomers will be retiring with some form of disability
+    subtext: Open Doors Organization, 2020
+    color: dark # dark light muted
+    background: "#9FCBE9"
+    image: 
+  
+  - heading: 40%+
+    text: of baby boomers will be retiring with some form of disability
+    subtext: Open Doors Organization, 2020
+    color: dark # dark light muted
+    background: "#8FC7B5"
+    image: 
+
+  - heading: 
+    text: 
+    subtext: 
+    color: # dark light muted
+    background: ""
+    image: /images/tile-5.jpg
+    
+  - heading: 40%+
+    text: of baby boomers will be retiring with some form of disability
+    subtext: Open Doors Organization, 2020
+    color: muted # dark light muted
+    background: "#354549"
+    image:     
+   
 - block: cta
   background:  "#253148"
   color: light # light dark muted
