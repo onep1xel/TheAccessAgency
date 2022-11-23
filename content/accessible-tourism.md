@@ -102,6 +102,71 @@ blocks:
     background: "#354549"
     image:     
    
+- block: text
+  background: "#EFEFEF"
+  content: |-
+    ### Who needs good access?
+    
+    Ut wisi enim ad minim veniam, quis nostrud exerci tation ullam-
+    corper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
+    Duis autem vel eum iriure dolor in hendrerit in vulputate velit
+    esse molestie consequat, vel illum dolore eu feugiat nulla facilisis
+    at vero eros et accumsan et. 
+    
+    Iusto odio dignissim qui blandit prae-
+    sent luptatum zzril delenit augue duis dolore te feugait nulla fac-
+    ilisi.
+
+- block: images
+  columns: 1
+  background:  "#EFEFEF"
+  padding: bottom
+  images:
+  - image: https://via.placeholder.com/1000x600/666666
+    alt: Lorem
+
+- block: faq
+  background:  "#EFEFEF"
+  color: dark # light dark muted
+  padding: bottom
+  heading: Frequently Asked Questions
+  faqs:
+  - title: How does it work?
+    content: |- 
+      Everything is completely async, no time is wasted in meetings. Manage your project design and development queue using Trello. Share your design files, Google docs, wireframes, or videos directly in the Trello cards. View active, queued, and completed tasks with ease. Invite your team, so anyone can submit requests and track their progress. View work progress on staging server.
+  
+  - title: How fast will my project be completed?
+    content: |- 
+      On average, most are completed:
+  
+      - Essential package: 10 working days or less
+      - Standard package: 20 working days or less
+      - Premium package: 25 working days or less
+  
+  - title: What tech stack do you use?
+    content: |- 
+      Tailwind CSS, Alpine.js, Hugo, Jekyll, Forestry CMS, Netlify, Vercel, GitHub.
+  
+  - title: Who are the designers and developers?
+    content: |- 
+      TailStack is an agency of one, which means you'll work directly with me, the founder of TailStack. 
+  
+  - title: What if I don't like the design?
+    content: |- 
+      No worries! We'll continue to revise the design until you're 100% satisfied.
+  
+  - title: Are there any refunds if I don't like the service?
+    content: |- 
+      Due to the high-quality nature of the work, there will be no refunds issued.
+
+- block: images
+  columns: 1
+  background:  "#EFEFEF"
+  padding: bottom
+  images:
+  - image: https://via.placeholder.com/1000x600/666666
+    alt: Lorem
+      
 - block: cta
   background:  "#253148"
   color: light # light dark muted
@@ -112,36 +177,5 @@ blocks:
     text: Get in touch
     url: "#"
             
-faq:
-  heading: FAQs
-  faqs:
-  - title: How does it work?
-    content: |- 
-      Everything is completely async, no time is wasted in meetings. Manage your project design and development queue using Trello. Share your design files, Google docs, wireframes, or videos directly in the Trello cards. View active, queued, and completed tasks with ease. Invite your team, so anyone can submit requests and track their progress. View work progress on staging server.
-
-  - title: How fast will my project be completed?
-    content: |- 
-      On average, most are completed:
-
-      - Essential package: 10 working days or less
-      - Standard package: 20 working days or less
-      - Premium package: 25 working days or less
-
-  - title: What tech stack do you use?
-    content: |- 
-      Tailwind CSS, Alpine.js, Hugo, Jekyll, Forestry CMS, Netlify, Vercel, GitHub.
-
-  - title: Who are the designers and developers?
-    content: |- 
-      TailStack is an agency of one, which means you'll work directly with me, the founder of TailStack. 
-
-  - title: What if I don't like the design?
-    content: |- 
-      No worries! We'll continue to revise the design until you're 100% satisfied.
-
-  - title: Are there any refunds if I don't like the service?
-    content: |- 
-      Due to the high-quality nature of the work, there will be no refunds issued.
-
 ---
 

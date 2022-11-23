@@ -1,32 +1,33 @@
-<div class="bg-white">
-  <div class="mx-auto max-w-4xl px-6 md:px-12 py-12 md:py-24">
-    {{ if or .heading .subheading }}
-      <div class="text-center mb-8 md:mb-12">
-        {{ with .heading }}
-          <h2 class="text-3xl sm:text-4xl font-semibold leading-tight text-gray-900 md:text-5xl">{{ . }}</h2>
-        {{ end }}
-        {{ with .subheading }}
-          <p class="mt-6 max-w-2xl text-lg sm:text-xl text-gray-500 lg:mx-auto">{{ . }}</p>
-        {{ end }}
-      </div>
-    {{ end }}
-    
-    {{ range .faqs }}
-      <div x-data="{ expanded: false }" class="border-b border-gray-900">
-        <h3>
-          <button x-on:click="expanded = ! expanded" class="w-full py-8 flex items-center text-left text-xl md:text-2xl font-semibold">
-            <span class="grow">{{ .title }}</span>
-            <svg xmlns="http://www.w3.org/2000/svg" :class="{ 'rotate-90': expanded, 'transform-none': !(expanded) }" class="h-7 w-7 duration-300" viewBox="0 0 20 20" fill="currentColor">
-              <path fill-rule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clip-rule="evenodd" />
-            </svg>
-          </button>
-        </h3>
-        <div x-show="expanded" x-collapse>
-          <div class="max-w-none prose prose-lg mx-auto prose-h2:text-3xl prose-h3:text-2xl prose-h4:text-xl pb-8">
-            {{ .content | markdownify }}
+<div class="relative px-4 sm:px-6 lg:px-8 
+  {{ if eq .padding "top" }}pt-20 lg:pt-24{{ else if eq .padding "bottom" }}pb-20 lg:pb-24{{ else }}py-20 lg:py-24{{ end }} 
+  {{ if eq .color "light" }}text-white {{ else if eq .color "muted" }}text-sand-dark{{ else }}text-whale-regular{{ end }}"{{ with .background }} style="background: {{ . }}"{{ end }}>
+  <div class="mx-auto max-w-8xl">
+    <div class="max-w-4xl">
+      {{ with .heading }}
+        <h2 class="text-4xl font-bold leading-[1.1] sm:leading-[1.1] sm:text-[3.1669rem] mb-6 sm:mb-8">{{ . }}</h2>
+      {{ end }}
+      {{ range .faqs }}
+        <div x-data="{ expanded: false }" class="border-b border-sand-regular">
+          <h3>
+            <button x-on:click="expanded = ! expanded" class="w-full py-5 flex items-center text-left text-4xl font-bold leading-none sm:leading-none sm:text-[1.9169rem]" :class="{ 'text-rose-regular': expanded }">
+              <svg x-show="!expanded" xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 mt-1 mr-2 flex-none" fill="none" viewBox="0 0 24 24" stroke-width="4" stroke="currentColor" class="w-6 h-6">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M12 4.5v15m7.5-7.5h-15" />
+              </svg>
+
+              <svg x-show="expanded" xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 mt-1 mr-2 flex-none" fill="none" viewBox="0 0 24 24" stroke-width="4" stroke="currentColor" class="w-6 h-6">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 12h-15" />
+              </svg>
+
+              <span class="grow">{{ .title }}</span>
+            </button>
+          </h3>
+          <div x-show="expanded" x-collapse>
+            <div class="font-serif text-2xl sm:text-[1.8331rem] leading-snug sm:leading-snug pb-8">
+              {{ .content | markdownify }}
+            </div>
           </div>
         </div>
-      </div>
-    {{ end }}
+      {{ end }}
+    </div>
   </div>
 </div>
