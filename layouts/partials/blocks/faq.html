@@ -9,7 +9,7 @@
       {{ range .faqs }}
         <div x-data="{ expanded: false }" class="border-b border-sand-regular">
           <h3>
-            <button x-on:click="expanded = ! expanded" class="w-full py-5 flex items-center text-left text-4xl font-bold leading-none sm:leading-none sm:text-[1.9169rem]" :class="{ 'text-rose-regular': expanded }">
+            <button x-on:click="expanded = ! expanded" class="w-full py-5 flex items-center text-left text-3xl font-bold leading-none sm:leading-none sm:text-[1.9169rem]" :class="{ 'text-rose-regular': expanded }">
               <svg x-show="!expanded" xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 mt-1 mr-2 flex-none" fill="none" viewBox="0 0 24 24" stroke-width="4" stroke="currentColor" class="w-6 h-6">
                 <path stroke-linecap="round" stroke-linejoin="round" d="M12 4.5v15m7.5-7.5h-15" />
               </svg>
