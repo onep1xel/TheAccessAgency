@@ -67,7 +67,7 @@ blocks:
   heading: Contact us to find out more about how to communicate your access
   text: Lorem ipsum dolor sit amet, consectetuer adipiscing elitiam.
   button:
-    style: whale # whale mint sand
+    style: mint # whale mint sand
     text: See the video series
     url: "#"
             
