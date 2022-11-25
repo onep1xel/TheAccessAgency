@@ -34,7 +34,7 @@
 		<div class="space-y-1 px-6 sm:px-12">
 			{{ $currentPage := . }}
 			{{ range .Site.Menus.navbar }}
-					<a href="{{ .URL }}" class="block py-2 sm:py-3.5 {{ if $currentPage.HasMenuCurrent "navbar" . }}font-bold{{ else }}font-semibold{{ end }} hover:underline text-white text-4xl sm:text-[3.25rem]" 
+					<a href="{{ .URL }}" class="block py-2 sm:py-3.5 {{ if $currentPage.HasMenuCurrent "navbar" . }}font-bold{{ else }}font-semibold{{ end }} hover:underline text-sand-regular hover:text-white text-4xl sm:text-[3.25rem] underline-offset-8 decoration-2" 
 					{{ if in .URL "http" }} target="_blank"{{ end }}>{{ .Name }}</a>
 			{{ end }}
 		</div>
