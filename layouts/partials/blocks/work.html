@@ -1,0 +1,81 @@
+<div class="relative px-4 sm:px-6 lg:px-8 
+  {{ if eq .padding "top" }}pt-20 lg:pt-24{{ else if eq .padding "bottom" }}pb-20 lg:pb-24{{ else }}py-20 lg:py-24{{ end }}  
+  {{ if eq .color "light" }}text-white {{ else if eq .color "muted" }}text-sand-regular{{ else }}text-whale-regular{{ end }}"{{ with .background }} style="background: {{ . }}"{{ end }}>
+  <div class="mx-auto max-w-3xl {{ if eq .layout "vertical" }}lg:max-w-6xl{{ else }}lg:max-w-6xl{{ end }}">
+    {{ if eq .layout "vertical" }}
+      <div class="lg:w-1/2">
+        {{ if .image }}
+          <img src="{{ .image | absURL }}" alt="{{ .heading }}">
+        {{ end }}
+        {{ with .youtube }}
+          <div class="aspect-w-16 aspect-h-9">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ . }}?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          </div>
+        {{ end }}
+        {{ with .vimeo }}
+          <div class="aspect-w-16 aspect-h-9">
+            <iframe src="https://player.vimeo.com/video/{{ . }}?h=c3a6904a82&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+          </div>
+        {{ end }}
+      </div>
+      
+      <div class="lg:w-1/2 lg:ml-[25%] mt-12 lg:mt-16">
+        {{ with .superheading }}
+          <h2 class="text-4xl font-bold leading-tight sm:leading-none sm:text-[2.6875rem] text-rose-regular mb-2">{{ . }}</h2>
+        {{ end }}
+        {{ with .heading }}
+          <h2 class="font-serif font-semibold text-4xl sm:text-6xl leading-[1.15] sm:leading-[1.15]">{{ . }}</h2>
+        {{ end }}
+        {{ with .text }}
+          <div class="mt-4 font-serif leading-snug sm:leading-snug text-2xl sm:text-[2rem]">{{ . | markdownify }}</div>
+        {{ end }}
+        {{ with .link }}
+          <div class="mt-4">
+            <a href="{{ .url | relURL }}" class="inline-block font-serif text-2xl sm:text-3xl underline italic font-semibold hover:opacity-80">{{ .text }}</a>
+          </div>
+        {{ end }}
+      </div>
+    {{ else }}
+      <style scoped>
+        @media (min-width: 1024px) { 
+          .offset { margin-top: {{ .offset | default "0" }} };
+        }
+      </style>
+      <div class="grid lg:grid-cols-2 gap-12 lg:gap-16">
+        <div>
+          {{ if .image }}
+            <img src="{{ .image | absURL }}" alt="{{ .heading }}">
+          {{ end }}
+          {{ with .youtube }}
+            <div class="aspect-w-16 aspect-h-9">
+              <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ . }}?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+          {{ end }}
+          {{ with .vimeo }}
+            <div class="aspect-w-16 aspect-h-9">
+              <iframe src="https://player.vimeo.com/video/{{ . }}?h=c3a6904a82&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+            </div>
+          {{ end }}
+        </div>
+        
+        <div class="offset">
+          {{ with .superheading }}
+            <h2 class="text-4xl font-bold leading-tight sm:leading-none sm:text-[2.6875rem] text-rose-regular mb-2">{{ . }}</h2>
+          {{ end }}
+          {{ with .heading }}
+            <h2 class="font-serif font-semibold text-4xl sm:text-6xl leading-[1.15] sm:leading-[1.15]">{{ . }}</h2>
+          {{ end }}
+          {{ with .text }}
+            <div class="mt-4 font-serif leading-snug sm:leading-snug text-2xl sm:text-[2rem]">{{ . | markdownify }}</div>
+          {{ end }}
+          {{ with .link }}
+            <div class="mt-4">
+              <a href="{{ .url | relURL }}" class="inline-block font-serif text-2xl sm:text-3xl underline italic font-semibold hover:opacity-80">{{ .text }}</a>
+            </div>
+          {{ end }}
+        </div>
+      </div>
+    {{ end }}
+      
+  </div>
+</div>
