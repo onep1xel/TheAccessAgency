@@ -1829,6 +1829,10 @@ select {
   justify-content: space-between;
 }
 
+.justify-evenly {
+  justify-content: space-evenly;
+}
+
 .gap-8 {
   gap: 2rem;
 }
