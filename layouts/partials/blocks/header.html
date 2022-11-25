@@ -4,8 +4,9 @@
   <div class="mx-auto max-w-8xl">
     <div class="max-w-5xl">
       <h1 class="text-5xl sm:text-6xl font-bold leading-none sm:leading-none md:leading-none md:text-[5rem]">{{ .heading }}</h1>
-      {{ with .text }}
-        <div class="mt-6 font-serif text-3xl sm:text-[3.4169rem] leading-[1.3] sm:leading-[1.2]">{{ . | markdownify }}</div>
+      {{ if .text }}
+        <div class="mt-6 font-serif text-3xl sm:text-[3.4169rem] leading-[1.3] sm:leading-[1.2] 
+          {{ if eq .color "light" }}text-sand-regular{{ else }}text-muted-regular{{ end }}">{{ .text | markdownify }}</div>
       {{ end }}
     </div>
   </div>
