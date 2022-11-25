@@ -87,7 +87,8 @@ menu:
 
 params:
   description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
-  logo_navbar: "/images/logo-mark-light.svg"
+  logo_light: "/images/logo-mark-light.svg"
+  logo_dark: "https://dummyimage.com/600/ccc/ccc"
   logo_footer: "/images/logo-mark.svg"
   author: "OfficeGeek"
   github: "#"

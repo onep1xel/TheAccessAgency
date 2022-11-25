@@ -2471,6 +2471,16 @@ select {
   color: rgb(220 75 54 / var(--tw-text-opacity));
 }
 
+.text-gray-800 {
+  --tw-text-opacity: 1;
+  color: rgb(31 41 55 / var(--tw-text-opacity));
+}
+
+.text-gray-700 {
+  --tw-text-opacity: 1;
+  color: rgb(55 65 81 / var(--tw-text-opacity));
+}
+
 .underline {
   -webkit-text-decoration-line: underline;
           text-decoration-line: underline;
@@ -2739,6 +2749,11 @@ select {
 .hover\:text-gray-500:hover {
   --tw-text-opacity: 1;
   color: rgb(107 114 128 / var(--tw-text-opacity));
+}
+
+.hover\:text-whale-regular:hover {
+  --tw-text-opacity: 1;
+  color: rgb(37 49 72 / var(--tw-text-opacity));
 }
 
 .hover\:underline:hover {
