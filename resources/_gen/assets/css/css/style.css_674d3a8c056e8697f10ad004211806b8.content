@@ -1555,14 +1555,6 @@ select {
   margin-bottom: 0.5rem;
 }
 
-.mb-3 {
-  margin-bottom: 0.75rem;
-}
-
-.mt-\[50\%\] {
-  margin-top: 50%;
-}
-
 .block {
   display: block;
 }
@@ -1687,6 +1679,10 @@ select {
   width: 1rem;
 }
 
+.w-12 {
+  width: 3rem;
+}
+
 .max-w-4xl {
   max-width: 56rem;
 }
@@ -1729,10 +1725,6 @@ select {
 
 .max-w-\[56rem\] {
   max-width: 56rem;
-}
-
-.max-w-2xl {
-  max-width: 42rem;
 }
 
 .flex-none {
@@ -2238,10 +2230,6 @@ select {
 
 .pb-20 {
   padding-bottom: 5rem;
-}
-
-.pb-\[50\%\] {
-  padding-bottom: 50%;
 }
 
 .text-left {
@@ -3078,6 +3066,10 @@ select {
     height: 1.25rem;
   }
 
+  .sm\:h-14 {
+    height: 3.5rem;
+  }
+
   .sm\:w-\[36rem\] {
     width: 36rem;
   }
@@ -3141,6 +3133,16 @@ select {
   .sm\:px-7 {
     padding-left: 1.75rem;
     padding-right: 1.75rem;
+  }
+
+  .sm\:py-2\.5 {
+    padding-top: 0.625rem;
+    padding-bottom: 0.625rem;
+  }
+
+  .sm\:py-2 {
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
   }
 
   .sm\:pt-3\.5 {
@@ -3232,6 +3234,11 @@ select {
     font-size: 3.4169rem;
   }
 
+  .sm\:text-4xl {
+    font-size: 2.25rem;
+    line-height: 2.875rem;
+  }
+
   .sm\:leading-none {
     line-height: 1;
   }
@@ -3266,20 +3273,12 @@ select {
     margin-right: 8rem;
   }
 
-  .md\:mt-\[50\%\] {
-    margin-top: 50%;
-  }
-
   .md\:w-4\/5 {
     width: 80%;
   }
 
   .md\:grid-cols-3 {
     grid-template-columns: repeat(3, minmax(0, 1fr));
-  }
-
-  .md\:grid-cols-2 {
-    grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 
   .md\:flex-row {
@@ -3375,34 +3374,6 @@ select {
     margin-left: 1rem;
   }
 
-  .lg\:mt-\[50\%\] {
-    margin-top: 50%;
-  }
-
-  .lg\:-mt-\[50\%\] {
-    margin-top: -50%;
-  }
-
-  .lg\:-mt-\[25\%\] {
-    margin-top: -25%;
-  }
-
-  .lg\:-mt-\[26\%\] {
-    margin-top: -26%;
-  }
-
-  .lg\:mt-\[10rem\] {
-    margin-top: 10rem;
-  }
-
-  .lg\:mt-\[10\%\] {
-    margin-top: 10%;
-  }
-
-  .lg\:mt-\[28\%\] {
-    margin-top: 28%;
-  }
-
   .lg\:ml-\[25\%\] {
     margin-left: 25%;
   }
@@ -3421,10 +3392,6 @@ select {
 
   .lg\:h-\[40rem\] {
     height: 40rem;
-  }
-
-  .lg\:h-\[200\%\] {
-    height: 200%;
   }
 
   .lg\:w-0 {
@@ -3447,17 +3414,8 @@ select {
     max-width: 56rem;
   }
 
-  .lg\:max-w-8xl {
-    max-width: 82.5rem;
-  }
-
   .lg\:flex-1 {
     flex: 1 1 0%;
-  }
-
-  .lg\:-translate-y-1\/2 {
-    --tw-translate-y: -50%;
-    transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
   }
 
   .lg\:grid-cols-3 {

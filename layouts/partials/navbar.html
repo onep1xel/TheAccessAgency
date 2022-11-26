@@ -1,9 +1,9 @@
 <div class="z-10 relative" style="background-color: {{ if .Params.navbar.background }}{{ .Params.navbar.background }}{{ else }}#181818{{ end }}">
   <div class="px-4 sm:px-6 lg:px-8">
-    <div class="mx-auto max-w-8xl py-7 lg:py-8">
+    <div class="mx-auto max-w-7xl py-7">
       <div class="flex items-center justify-between lg:justify-start lg:space-x-10">
         <div class="flex justify-start lg:w-0 lg:flex-1">
-          <a href="{{ "/" | relURL }}" class="flex items-center space-x-3 font-bold text-4xl leading-none 
+          <a href="{{ "/" | relURL }}" class="flex items-center space-x-3 font-bold text-3xl leading-none 
             {{ if eq .Params.navbar.color "dark" }}text-whale-regular{{ else }}text-sand-regular{{ end }}">
             <img class="h-10 w-auto" src="{{ if eq .Params.navbar.color "dark" }}{{ .Site.Params.logo_dark | absURL }}{{ else }}{{ .Site.Params.logo_light | absURL }}{{ end }}" width="40" height="40" alt="{{ .Site.Title }}" />
             <span class="pb-1">{{ .Site.Title }}</span>
@@ -18,7 +18,7 @@
             aria-expanded="false"
           >
             <span class="sr-only">Toggle main menu</span>
-            <svg class="h-11 w-11" viewBox="0 0 97 66" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+            <svg class="h-10 w-10" viewBox="0 0 97 66" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
                 <g transform="matrix(2.66667,0,0,2.66667,-2821.08,-12097.1)">
                     <rect x="1057.9" y="4536.4" width="36.055" height="4.2" style="fill:currentColor"/>
                 </g>

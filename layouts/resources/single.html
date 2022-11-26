@@ -1,13 +1,13 @@
 {{define "main"}}
 {{ if .Params.image }}
   <div class="overflow-hidden bg-no-repeat bg-cover bg-center h-[20rem] sm:h-[30rem] lg:h-[40rem] px-4 sm:px-6 lg:px-8" style="background-image: url({{ .Params.image | relURL }})">
-    <div class="mx-auto max-w-8xl flex items-end h-full">
+    <div class="mx-auto max-w-7xl flex items-end h-full">
       <h1 class="text-5xl sm:text-6xl font-bold leading-none sm:leading-none md:leading-none md:text-[5rem] relative z-10 mb-10 sm:mb-20 text-white">{{ .Title }}</h1>
     </div>
   </div>
 {{ end }}   
 <div class="px-4 sm:px-6 lg:px-8">
-  <div class="mx-auto max-w-8xl pt-8 pb-8 lg:pb-16">
+  <div class="mx-auto max-w-7xl pt-8 pb-8 lg:pb-16">
     <nav class="flex" aria-label="Breadcrumb">
       <ol role="list" class="flex items-center space-x-3 text-[1.3331rem] font-serif italic">
         <li>

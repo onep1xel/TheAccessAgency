@@ -7,7 +7,7 @@
 			<div class="flex justify-start lg:w-0 lg:flex-1">
 				<a href="{{ "/" | relURL }}">
 					<span class="sr-only">{{ .Site.Title }}</span>
-					<img class="h-12 sm:h-16 w-auto" src="{{ .Site.Params.logo_footer | absURL }}" width="60" height="60" alt="{{ .Site.Title }}" />
+					<img class="h-12 sm:h-14 w-auto" src="{{ .Site.Params.logo_footer | absURL }}" width="60" height="60" alt="{{ .Site.Title }}" />
 				</a>
 			</div>
 			<div class="flex items-center">
@@ -19,7 +19,7 @@
 				>
 					<span class="sr-only">Toggle main menu</span>
 					<svg
-						class="h-14 w-14"
+						class="h-12 w-12"
 						xmlns="http://www.w3.org/2000/svg"
 						fill="none"
 						viewBox="0 0 24 24"
@@ -34,7 +34,7 @@
 		<div class="space-y-1 px-6 sm:px-12">
 			{{ $currentPage := . }}
 			{{ range .Site.Menus.navbar }}
-					<a href="{{ .URL }}" class="block py-2 sm:py-3.5 {{ if $currentPage.HasMenuCurrent "navbar" . }}font-bold{{ else }}font-semibold{{ end }} hover:underline text-sand-regular hover:text-white text-4xl sm:text-[3.25rem] underline-offset-8 decoration-2" 
+					<a href="{{ .URL }}" class="block py-2 sm:py-2.5 {{ if $currentPage.HasMenuCurrent "navbar" . }}font-bold{{ else }}font-semibold{{ end }} hover:underline text-sand-regular hover:text-white text-4xl sm:text-5xl underline-offset-8 decoration-2" 
 					{{ if in .URL "http" }} target="_blank"{{ end }}>{{ .Name }}</a>
 			{{ end }}
 		</div>

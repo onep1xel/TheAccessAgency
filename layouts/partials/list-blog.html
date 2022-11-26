@@ -1,5 +1,5 @@
 <div class="relative px-4 sm:px-6 lg:px-8 py-12 lg:py-16">
-  <div class="mx-auto max-w-8xl">
+  <div class="mx-auto max-w-7xl">
     <div class="max-w-4xl">
       <h1 class="text-5xl font-bold leading-none sm:leading-none sm:text-[4.9375rem] text-neutral-800">{{ .Title }}</h1>
       {{ with .Params.subheading }}
@@ -17,7 +17,7 @@
             <div class="h-96 lg:h-full overflow-hidden" style="background-image: url({{ .Params.image | relURL }})"></div>
           </div>
           <div class="lg:col-span-2 p-14 lg:p-[4.5rem] bg-whale-regular text-white">
-            <h3 class="text-4xl font-bold leading-none sm:leading-none sm:text-[2.6875rem]">{{ .Title }}</h3>
+            <h3 class="text-4xl font-bold leading-none sm:leading-none sm:text-4xl">{{ .Title }}</h3>
             <div class="mt-6 mx-auto font-serif text-2xl sm:text-3xl leading-[1.1] sm:leading-[1.1]">{{ .Summary }}</div>
             <div class="mt-6">
               <a href="{{ .Permalink }}" class="inline-block font-serif text-2xl sm:text-3xl underline italic font-semibold hover:opacity-80">{{ .Params.read }}</a>

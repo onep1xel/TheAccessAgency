@@ -4,7 +4,7 @@
       <img class="w-full h-full object-center object-cover" src="{{ .Params.image | relURL }}" alt="{{ .Title }}">
     </a>
   {{ end }}
-  <h3 class="text-4xl font-bold leading-none sm:leading-none sm:text-[2.6875rem] mt-7">{{ .Title }}</h3>
+  <h3 class="text-4xl font-bold leading-none sm:leading-none sm:text-4xl mt-7">{{ .Title }}</h3>
   <div class="mt-6 mx-auto font-serif text-2xl sm:text-3xl leading-tight sm:leading-tight">{{ .Summary }}</div>
   <div class="mt-6">
     <a href="{{ .Permalink }}" class="inline-block font-serif text-2xl sm:text-3xl underline italic font-semibold hover:opacity-80">{{ .Params.read | default "Read more" }}</a>
