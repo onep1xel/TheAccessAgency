@@ -35,7 +35,7 @@
   </div>
 </div>
 <div class="hidden lg:block">
-  <div class="flex font-medium text-[2.5625rem] divide-x-4 divide-sand-regular">
+  <div class="flex font-medium text-[2rem] divide-x-4 divide-sand-regular">
     <a class="{{ if in .Permalink "/resources/" }}underline{{ end }} text-whale-regular hover:underline decoration-whale-regular underline-offset-4 px-8 leading-none pb-2" href="{{ "/resources/" | relURL }}">All</a>
     {{ range site.Taxonomies.categories }}
       <a class="{{ if eq .Page.Permalink $.Permalink }}underline{{ end }} text-whale-regular hover:underline decoration-whale-regular underline-offset-4 px-8 leading-none pb-2" href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>

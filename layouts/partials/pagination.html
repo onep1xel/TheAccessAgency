@@ -21,8 +21,8 @@
     <nav class="flex items-center">
     <div class="flex">
     {{ if $paginator.HasPrev }}
-        <a href="{{ $paginator.Prev.URL }}" class="inline-flex items-center text-3xl font-bold text-whale-regular hover:text-whale-light -ml-4 mr-10 md:mr-32">
-            <svg class="w-16 h-16" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1" stroke="currentColor" class="w-6 h-6">
+        <a href="{{ $paginator.Prev.URL }}" class="inline-flex items-center text-2xl font-bold text-whale-regular hover:text-whale-light -ml-4 mr-10 md:mr-32">
+            <svg class="w-12 h-12" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
               <path stroke-linecap="round" stroke-linejoin="round" d="M15.75 19.5L8.25 12l7.5-7.5" />
             </svg>
 
@@ -85,9 +85,9 @@
     <div class="flex">
     {{ if $paginator.HasNext }}
 
-        <a href="{{ $paginator.Next.URL }}" class="inline-flex items-center text-3xl font-bold text-whale-regular hover:text-whale-light">
+        <a href="{{ $paginator.Next.URL }}" class="inline-flex items-center text-2xl font-bold text-whale-regular hover:text-whale-light">
             <span class="pb-1">Next</span>
-            <svg class="w-16 h-16" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
+            <svg class="w-12 h-12" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
               <path stroke-linecap="round" stroke-linejoin="round" d="M8.25 4.5l7.5 7.5-7.5 7.5" />
             </svg>
         </a>

@@ -54,8 +54,8 @@ module.exports = {
           css: {
             color: '#253148',
             fontWeight: 400,
-            lineHeight: 1.3,
-            fontSize: '1.8125rem',
+            lineHeight: 1.4,
+            fontSize: '1.5rem',
             fontFamily: 'Faustina',
             'h1, h2, h3, h4, h5, h6': { 
               marginBottom: '1.1669rem !important',

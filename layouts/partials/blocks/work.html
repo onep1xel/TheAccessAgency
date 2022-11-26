@@ -21,17 +21,17 @@
       
       <div class="lg:w-1/2 lg:ml-[25%] mt-12 lg:mt-16">
         {{ with .superheading }}
-          <h2 class="text-4xl font-bold leading-tight sm:leading-none sm:text-4xl text-rose-regular mb-2">{{ . }}</h2>
+          <h2 class="text-2xl font-bold leading-tight sm:leading-none sm:text-3xl text-rose-regular mb-3">{{ . }}</h2>
         {{ end }}
         {{ with .heading }}
-          <h2 class="font-serif font-semibold text-4xl sm:text-6xl leading-[1.15] sm:leading-[1.15]">{{ . }}</h2>
+          <h2 class="font-serif font-semibold text-4xl sm:text-5xl leading-[1.15] sm:leading-[1.15]">{{ . }}</h2>
         {{ end }}
         {{ with .text }}
-          <div class="mt-4 font-serif leading-snug sm:leading-snug text-2xl sm:text-[2rem]">{{ . | markdownify }}</div>
+          <div class="mt-5 font-serif leading-snug sm:leading-snug text-xl sm:text-2xl">{{ . | markdownify }}</div>
         {{ end }}
         {{ with .link }}
-          <div class="mt-4">
-            <a href="{{ .url | relURL }}" class="inline-block font-serif text-2xl sm:text-3xl underline italic font-semibold hover:opacity-80">{{ .text }}</a>
+          <div class="mt-5">
+            <a href="{{ .url | relURL }}" class="inline-block font-serif text-xl sm:text-2xl underline italic font-semibold hover:opacity-80">{{ .text }}</a>
           </div>
         {{ end }}
       </div>
@@ -60,17 +60,17 @@
         
         <div class="offset">
           {{ with .superheading }}
-            <h2 class="text-4xl font-bold leading-tight sm:leading-none sm:text-4xl text-rose-regular mb-2">{{ . }}</h2>
+            <h2 class="text-2xl font-bold leading-tight sm:leading-none sm:text-3xl text-rose-regular mb-3">{{ . }}</h2>
           {{ end }}
           {{ with .heading }}
-            <h2 class="font-serif font-semibold text-4xl sm:text-6xl leading-[1.15] sm:leading-[1.15]">{{ . }}</h2>
+            <h2 class="font-serif font-semibold text-4xl sm:text-5xl leading-[1.15] sm:leading-[1.15]">{{ . }}</h2>
           {{ end }}
           {{ with .text }}
-            <div class="mt-4 font-serif leading-snug sm:leading-snug text-2xl sm:text-[2rem]">{{ . | markdownify }}</div>
+            <div class="mt-5 font-serif leading-snug sm:leading-snug text-xl sm:text-2xl">{{ . | markdownify }}</div>
           {{ end }}
           {{ with .link }}
-            <div class="mt-4">
-              <a href="{{ .url | relURL }}" class="inline-block font-serif text-2xl sm:text-3xl underline italic font-semibold hover:opacity-80">{{ .text }}</a>
+            <div class="mt-5">
+              <a href="{{ .url | relURL }}" class="inline-block font-serif text-xl sm:text-2xl underline italic font-semibold hover:opacity-80">{{ .text }}</a>
             </div>
           {{ end }}
         </div>

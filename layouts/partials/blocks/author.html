@@ -9,13 +9,13 @@
         {{ end }}
       </div>
       <div class="md:col-span-2">
-        <h2 class="text-4xl font-bold leading-tight sm:text-4xl">{{ .heading }}</h2>
+        <h2 class="text-3xl font-bold leading-tight sm:text-4xl">{{ .heading }}</h2>
         {{ with .text }}
-          <div class="mt-4 mx-auto font-serif text-2xl sm:text-3xl leading-snug sm:leading-snug">{{ . | markdownify }}</div>
+          <div class="mt-4 mx-auto font-serif text-xl sm:text-2xl leading-snug sm:leading-snug">{{ . | markdownify }}</div>
         {{ end }}
         {{ with .link }}
           <div class="mt-4">
-            <a href="{{ .url | relURL }}" class="inline-block font-serif text-2xl sm:text-3xl underline italic font-semibold hover:opacity-80">{{ .text }}</a>
+            <a href="{{ .url | relURL }}" class="inline-block font-serif text-xl sm:text-2xl underline italic font-semibold hover:opacity-80">{{ .text }}</a>
           </div>
         {{ end }}
       </div>

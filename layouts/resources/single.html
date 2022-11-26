@@ -2,14 +2,14 @@
 {{ if .Params.image }}
   <div class="overflow-hidden bg-no-repeat bg-cover bg-center h-[20rem] sm:h-[30rem] lg:h-[40rem] px-4 sm:px-6 lg:px-8" style="background-image: url({{ .Params.image | relURL }})">
     <div class="mx-auto max-w-7xl flex items-end h-full">
-      <h1 class="text-5xl sm:text-6xl font-bold leading-none sm:leading-none md:leading-none md:text-[5rem] relative z-10 mb-10 sm:mb-20 text-white">{{ .Title }}</h1>
+      <h1 class="text-5xl sm:text-6xl font-bold leading-none sm:leading-none md:leading-none md:text-[4rem] relative z-10 mb-10 sm:mb-20 text-white max-w-6xl">{{ .Title }}</h1>
     </div>
   </div>
 {{ end }}   
 <div class="px-4 sm:px-6 lg:px-8">
   <div class="mx-auto max-w-7xl pt-8 pb-8 lg:pb-16">
     <nav class="flex" aria-label="Breadcrumb">
-      <ol role="list" class="flex items-center space-x-3 text-[1.3331rem] font-serif italic">
+      <ol role="list" class="flex items-center space-x-3 text-xl font-serif italic">
         <li>
           <div>
             <a class="ml-4 text-[#493654] hover:text-black" href="{{ "/" | relURL }}" class="text-gray-400 hover:text-gray-500">
@@ -45,7 +45,7 @@
     
     {{ with .Params.download }}
       <div class="mt-8 sm:mt-16">
-        <a href="{{ .url | relURL }}" class="inline-flex leading-none sm:leading-none px-4 sm:px-7 pt-2 pb-2.5 sm:pt-3.5 sm:pb-4 font-semibold text-xl sm:text-[1.6875rem] items-center space-x-4 sm:space-x-6
+        <a href="{{ .url | relURL }}" class="inline-flex leading-none sm:leading-none px-4 sm:px-7 pt-2 pb-2.5 sm:pt-3.5 sm:pb-4 font-semibold text-xl sm:text-2xl items-center space-x-4 sm:space-x-6
         text-whale-regular bg-mint-regular hover:bg-mint-light" target="_blank">
         <span>{{ .text }}</span>
         <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="3" stroke="currentColor" class="w-4 h-4 sm:w-5 sm:h-5 mt-0.5 rotate-90">
@@ -58,8 +58,8 @@
     <hr class="mt-16 sm:mt-28 border-t border-[#BCBCBC]">
     <div class="flex items-center mt-12 sm:mt-16">
       {{ with .NextInSection }}
-        <a href="{{ .Permalink }}" class="inline-flex items-center text-3xl font-bold text-whale-regular hover:text-whale-light -ml-4 mr-10 md:mr-32">
-            <svg class="w-16 h-16" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1" stroke="currentColor" class="w-6 h-6">
+        <a href="{{ .Permalink }}" class="inline-flex items-center text-2xl font-bold text-whale-regular hover:text-whale-light -ml-4 mr-10 md:mr-32">
+            <svg class="w-12 h-12" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
               <path stroke-linecap="round" stroke-linejoin="round" d="M15.75 19.5L8.25 12l7.5-7.5" />
             </svg>
         
@@ -69,9 +69,9 @@
         <div></div>
       {{ end }}      
       {{ with .PrevInSection }}
-        <a href="{{ .Permalink }}" class="inline-flex items-center text-3xl font-bold text-whale-regular hover:text-whale-light">
+        <a href="{{ .Permalink }}" class="inline-flex items-center text-2xl font-bold text-whale-regular hover:text-whale-light">
             <span class="pb-1">Next</span>
-            <svg class="w-16 h-16" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
+            <svg class="w-12 h-12" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
               <path stroke-linecap="round" stroke-linejoin="round" d="M8.25 4.5l7.5 7.5-7.5 7.5" />
             </svg>
         </a>
