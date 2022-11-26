@@ -5,7 +5,7 @@
     {{ with .heading }}
       <h2 class="text-xl uppercase font-bold text-center mb-5">{{ . }}</h2>
     {{ end }}
-    <div class="flex flex-wrap justify-between items-center">
+    <div class="flex flex-wrap justify-between items-center -ml-6">
       {{ range .logos }}
         <div class="p-6">
           <img src="{{ .image | absURL }}" alt="{{ .alt }}" />

@@ -1,6 +1,6 @@
 module.exports = {
   content: ["./layouts/**/*.html", "./content/**/*.md"],
-  // safelist: ["bg-blue-50"],
+  safelist: ["grid-cols-2"],
   darkMode: "class",
   media: false, // or 'media' or 'class'
   theme: {
