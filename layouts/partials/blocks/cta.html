@@ -6,8 +6,8 @@
       {{ with .heading }}
         <h2 class="text-3xl font-bold leading-[1.1] sm:leading-[1.1] sm:text-4xl">{{ . }}</h2>
       {{ end }}
-      {{ with .text }}
-        <div class="mt-4 font-serif leading-snug sm:leading-snug text-xl sm:text-2xl">{{ . | markdownify }}</div>
+      {{ if .text }}
+        <div class="mt-4 font-serif leading-snug sm:leading-snug text-xl sm:text-2xl {{ if eq .color "light" }}text-sand-regular{{ else }}text-muted-regular{{ end }}">{{ .text | markdownify }}</div>
       {{ end }}
       {{ with .button }}
         <div class="mt-14">
