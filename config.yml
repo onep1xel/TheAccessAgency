@@ -1,4 +1,4 @@
-baseURL: ""
+baseURL: "https://www.theaccessagency.com.au/"
 languageCode: "en-us"
 title: "The Access Agency"
 
@@ -30,18 +30,15 @@ menu:
   - name: Accessible Tourism
     url: "/accessible-tourism/"
     weight: 10
-  - name: About
-    url: "/about/"
+  - name: About + Services
+    url: "/about-services/"
     weight: 20
-  - name: Services
-    url: "/services/"
+  - name: Work
+    url: "/work/"
     weight: 30
   - name: Resources
     url: "/resources/"
     weight: 40
-  - name: Work
-    url: "/work/"
-    weight: 50
   - name: Freewheel Weekends
     url: "/freewheel-weekends/"
     weight: 60
@@ -87,8 +84,8 @@ menu:
 
 params:
   description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
-  logo_light: "/images/logo-mark-light.svg"
-  logo_dark: "https://dummyimage.com/600/ccc/ccc"
+  logo_light: "/images/logo-light.svg"
+  logo_dark: "/images/logo-dark.svg"
   logo_footer: "/images/logo-mark.svg"
   author: "OfficeGeek"
   github: "#"

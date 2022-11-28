@@ -1361,6 +1361,10 @@ select {
   position: relative;
 }
 
+.sticky {
+  position: sticky;
+}
+
 .inset-0 {
   top: 0px;
   right: 0px;
@@ -1539,6 +1543,10 @@ select {
   margin-bottom: 1.25rem;
 }
 
+.-ml-6 {
+  margin-left: -1.5rem;
+}
+
 .mt-2\.5 {
   margin-top: 0.625rem;
 }
@@ -1549,10 +1557,6 @@ select {
 
 .mb-3 {
   margin-bottom: 0.75rem;
-}
-
-.-ml-6 {
-  margin-left: -1.5rem;
 }
 
 .block {
@@ -1930,6 +1934,10 @@ select {
   border-radius: 0.75rem;
 }
 
+.rounded {
+  border-radius: 0.25rem;
+}
+
 .border {
   border-width: 1px;
 }
@@ -1969,6 +1977,16 @@ select {
 .border-sand-regular {
   --tw-border-opacity: 1;
   border-color: rgb(214 214 206 / var(--tw-border-opacity));
+}
+
+.border-red-400 {
+  --tw-border-opacity: 1;
+  border-color: rgb(248 113 113 / var(--tw-border-opacity));
+}
+
+.border-green-400 {
+  --tw-border-opacity: 1;
+  border-color: rgb(74 222 128 / var(--tw-border-opacity));
 }
 
 .bg-pink-600 {
@@ -2016,6 +2034,16 @@ select {
   background-color: rgb(214 214 206 / var(--tw-bg-opacity));
 }
 
+.bg-red-100 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(254 226 226 / var(--tw-bg-opacity));
+}
+
+.bg-green-100 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(220 252 231 / var(--tw-bg-opacity));
+}
+
 .bg-gradient-to-t {
   background-image: linear-gradient(to top, var(--tw-gradient-stops));
 }
@@ -2056,6 +2084,10 @@ select {
 
 .bg-no-repeat {
   background-repeat: no-repeat;
+}
+
+.fill-current {
+  fill: currentColor;
 }
 
 .object-cover {
@@ -2442,6 +2474,26 @@ select {
   color: rgb(104 104 103 / var(--tw-text-opacity));
 }
 
+.text-red-700 {
+  --tw-text-opacity: 1;
+  color: rgb(185 28 28 / var(--tw-text-opacity));
+}
+
+.text-red-500 {
+  --tw-text-opacity: 1;
+  color: rgb(239 68 68 / var(--tw-text-opacity));
+}
+
+.text-green-700 {
+  --tw-text-opacity: 1;
+  color: rgb(21 128 61 / var(--tw-text-opacity));
+}
+
+.text-green-500 {
+  --tw-text-opacity: 1;
+  color: rgb(34 197 94 / var(--tw-text-opacity));
+}
+
 .underline {
   -webkit-text-decoration-line: underline;
           text-decoration-line: underline;
@@ -2710,6 +2762,16 @@ select {
 .hover\:text-gray-500:hover {
   --tw-text-opacity: 1;
   color: rgb(107 114 128 / var(--tw-text-opacity));
+}
+
+.hover\:text-green-900:hover {
+  --tw-text-opacity: 1;
+  color: rgb(20 83 45 / var(--tw-text-opacity));
+}
+
+.hover\:text-green-700:hover {
+  --tw-text-opacity: 1;
+  color: rgb(21 128 61 / var(--tw-text-opacity));
 }
 
 .hover\:underline:hover {
@@ -3019,6 +3081,10 @@ select {
 
   .sm\:block {
     display: block;
+  }
+
+  .sm\:inline {
+    display: inline;
   }
 
   .sm\:h-14 {
@@ -3460,5 +3526,21 @@ select {
 @media (min-width: 1536px) {
   .\32xl\:-ml-\[6\.75rem\] {
     margin-left: -6.75rem;
+  }
+
+  .\32xl\:-ml-\[5\.75rem\] {
+    margin-left: -5.75rem;
+  }
+
+  .\32xl\:-ml-\[6rem\] {
+    margin-left: -6rem;
+  }
+
+  .\32xl\:-ml-\[5\.875rem\] {
+    margin-left: -5.875rem;
+  }
+
+  .\32xl\:-ml-\[5\.5rem\] {
+    margin-left: -5.5rem;
   }
 }

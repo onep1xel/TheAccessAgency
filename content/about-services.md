@@ -13,6 +13,12 @@ blocks:
   heading: Services + About Us
   text: We come from a consulting background but we get things done and we deliver world-class communications.
 
+- block: alert
+  background:  "#EFEFEF"
+  padding: top
+  text: |-
+    Helping you build and promote more inclusive visitor experiences.
+
 - block: text
   background:  "#EFEFEF"
   content: |-
@@ -40,7 +46,6 @@ blocks:
     link:
       text:
       url:
-
 
 - block: text
   background:  "#EFEFEF"
