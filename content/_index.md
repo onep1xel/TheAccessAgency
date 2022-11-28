@@ -1,14 +1,14 @@
 ---
 layout: blocks
-title: Lorem ipsum is placeholder text commonly used
+title: The Access Agency - Strategic Design for Universal Access in Tourism
 url: ""
-description: 
-image: 
+description:
+image:
 navbar:
   background: "#181818"
 blocks:
 - block: media
-  type: image # image video slider
+  type: slider # image video slider
   image: /images/hero.jpg
   alt: Lorem Ipsum
   video: https://assets.mixkit.co/videos/preview/mixkit-set-of-plateaus-seen-from-the-heights-in-a-sunset-26070-large.mp4
@@ -20,12 +20,12 @@ blocks:
 - block: feature
   background:  "#ffffff"
   color: dark # light dark muted
-  superheading: Why make tourism accessible?
-  heading: Reach more customers by providing accessible experiences & great information.
-  subheading: We’re award-winning creatives, qualified Access Consultants and we live with disability.
-  link: 
-    text: Want better better access?
-    url: "#"
+  superheading:
+  heading: Provide better access & <br>great information to draw more customers.
+  subheading: We’re award-winning creative communicators, qualified access consultants and disabled travellers.
+  link:
+    text: Want better access + more customers?
+    url: "/services/"
   #subtext: 1.Open Doors Organization, 2020  2.Open Doors Organization, 2020  3.Open Doors Organization, 2020  
 
 - block: cards
@@ -33,25 +33,23 @@ blocks:
   color: dark # light dark muted
   padding: bottom
   cards:
-  - heading: What is Accessible Tourism
-    text: Statistics and oportunity advice, advocacy and creative work for tourism and the visitor economy,
-      we make sure access brings people together.
-    link: 
-      text: See our work
-      url: "#"
+  - heading: What is Accessible Tourism?
+    text: The journey towards more universal accessibility in tourism means better societal inclusion and increased revenue for operators.
+    link:
+      text: More about Accessible Tourism
+      url: "accessible-tourism"
   - heading: Our work
-    text: Through advice, advocacy and creative work for tourism and the
-      visitor economy, we make sure access brings people together.
-    link: 
+    text: We’re super-proud of the work we’ve done to advocate for inclusion and provide information for better experiences through better universal access.
+    link:
       text: See our work
-      url: "#"
+      url: "work"
   - heading: Resources
     text: Through advice, advocacy and creative work for tourism and the
       visitor economy, we make sure access brings people together.
-    link: 
+    link:
       text: See our work
       url: "#"
-         
+
 - block: logos
   container: small
   background:  "#E8E8E8"
@@ -70,7 +68,7 @@ blocks:
     alt: Lorem
   - image: https://via.placeholder.com/200x70/333333
     alt: Lorem
-    
+
 - block: author
   background:  "#686867"
   color: light # light dark muted
@@ -93,16 +91,16 @@ blocks:
     style: mint # whale mint sand
     text: Get in touch
     url: "#"
-            
+
 faq:
   heading: FAQs
   faqs:
   - title: How does it work?
-    content: |- 
+    content: |-
       Everything is completely async, no time is wasted in meetings. Manage your project design and development queue using Trello. Share your design files, Google docs, wireframes, or videos directly in the Trello cards. View active, queued, and completed tasks with ease. Invite your team, so anyone can submit requests and track their progress. View work progress on staging server.
 
   - title: How fast will my project be completed?
-    content: |- 
+    content: |-
       On average, most are completed:
 
       - Essential package: 10 working days or less
@@ -110,20 +108,19 @@ faq:
       - Premium package: 25 working days or less
 
   - title: What tech stack do you use?
-    content: |- 
+    content: |-
       Tailwind CSS, Alpine.js, Hugo, Jekyll, Forestry CMS, Netlify, Vercel, GitHub.
 
   - title: Who are the designers and developers?
-    content: |- 
-      TailStack is an agency of one, which means you'll work directly with me, the founder of TailStack. 
+    content: |-
+      TailStack is an agency of one, which means you'll work directly with me, the founder of TailStack.
 
   - title: What if I don't like the design?
-    content: |- 
+    content: |-
       No worries! We'll continue to revise the design until you're 100% satisfied.
 
   - title: Are there any refunds if I don't like the service?
-    content: |- 
+    content: |-
       Due to the high-quality nature of the work, there will be no refunds issued.
 
 ---
-

@@ -2,26 +2,62 @@
 layout: blocks
 title: Lorem ipsum is placeholder text commonly used
 url: ""
-description: 
-image: 
+description:
+image:
 navbar:
   background: "#181818"
 blocks:
 - block: header
   background:  "#262626"
   color: light # light dark muted
-  heading: Visit Victoria
-  text: A social media takeover that showcases Australia’s premier accessible music festival.
-  
+  heading: Services + About Us
+  text: We come from a consulting background but we get things done and we deliver world-class communications.
+
 - block: text
   background:  "#EFEFEF"
   content: |-
-    ### Background
-    
-    Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in.
-    
+    ## Helping you build and promote more inclusive visitor experiences.
+
+
+- block: cards
+  background:  "#EFEFEF"
+  color: dark # light dark muted
+  padding: bottom
+  cards:
+  - heading: 1. Research / audit
+    text: Understanding the now – The journey towards more universal accessibility in tourism means better societal inclusion and increased revenue for operators.
+    link:
+      text:
+      url:
+  - heading: 2. Strategic Design (CX)
+    text: Designing useful materials and increasing accessibility. Design + build materials to bring visitors and increase loyalty. Train and mentor staff in best practice inclusion.
+    link:
+      text:
+      url:
+  - heading: 3. Promote
+    text: Through advice, advocacy and creative work for tourism and the
+      visitor economy, we make sure access brings people together.
+    link:
+      text:
+      url:
+
+
+- block: text
+  background:  "#EFEFEF"
+  content: |-
+    ## Helping you build and promote more inclusive visitor experiences.
+    #### Understanding the now
+
+    We revise and review existing physical access and communication materials.
+    Outlining the audience. Recognising and leveraging existing assets.
+
+    - First item
+    - Second item
+    - Third item
+
+
     ### Challenge
-    
+
     Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in.
 
 - block: video
@@ -29,7 +65,7 @@ blocks:
   padding: bottom
   youtube: 5gqEJT1lxgk
   vimeo: #771124484
-      
+
 - block: images
   columns: 2
   background:  "#EFEFEF"
@@ -39,7 +75,7 @@ blocks:
     alt: Lorem
   - image: https://via.placeholder.com/1000x600/666666
     alt: Lorem
-    
+
 - block: quote
   background:  "#E2E2E2"
   color: dark # light dark muted
@@ -54,7 +90,7 @@ blocks:
   images:
   - image: https://via.placeholder.com/1400x800/666666
     alt: Lorem
-         
+
 - block: cta
   background:  "#253148"
   color: light # light dark muted
@@ -64,6 +100,5 @@ blocks:
     style: mint # whale mint sand
     text: Get in touch
     url: "#"
-            
----
 
+---

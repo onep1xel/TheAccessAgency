@@ -2,8 +2,8 @@
 layout: blocks
 title: Lorem ipsum is placeholder text commonly used
 url: ""
-description: 
-image: 
+description:
+image:
 navbar:
   background: "#ffffff"
   color: dark # dark light (default light)
@@ -13,7 +13,7 @@ blocks:
   color: light # light dark muted
   heading: Our Work
   text: We provide access audits, create communications and help operators  meet more visitors.
-  
+
 - block: work
   background:  "#EFEEEF"
   color: dark # light dark muted
@@ -29,7 +29,7 @@ blocks:
     style: mint # whale mint sand
     text: Get in touch
     url: "#"
-    
+
 - block: work
   background:  "#243148"
   color: light # light dark muted
@@ -37,14 +37,14 @@ blocks:
   image: https://via.placeholder.com/1000x600/666666
   youtube: #5gqEJT1lxgk
   vimeo: #771124484
-  superheading: Parks Victoria
-  heading: All Abilities Video Series
+  superheading: Visit Victoria
+  heading: Accessible Tourism Marketing Overview
   text: We provide access audits, create communications and help operators  meet more visitors.
   link:
     style: mint # whale mint sand
     text: Get in touch
-    url: "#"
-       
+    url: "visit-victoria"
+
 - block: work
   background:  "#F6F6F6"
   color: dark # light dark muted
@@ -60,7 +60,7 @@ blocks:
     style: mint # whale mint sand
     text: Get in touch
     url: "#"
-          
+
 - block: cta
   background:  "#253148"
   color: light # light dark muted
@@ -70,6 +70,5 @@ blocks:
     style: mint # whale mint sand
     text: See the video series
     url: "#"
-            
----
 
+---
