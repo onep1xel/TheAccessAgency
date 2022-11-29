@@ -20,8 +20,8 @@ blocks:
   layout: horizontal # horizontal vertical
   offset: 26% # for horizontal layout set top spacing for text column in percentages eg 25%
   image: #https://via.placeholder.com/1000x600/666666
-  youtube: 5gqEJT1lxgk
-  vimeo: #771124484
+  youtube: #5gqEJT1lxgk
+  vimeo: 613481548
   superheading: Parks Victoria
   heading: All Abilities Video Series
   text: We provide access audits, create communications and help operators  meet more visitors.
@@ -29,6 +29,24 @@ blocks:
     style: mint # whale mint sand
     text: Get in touch
     url: "#"
+
+
+- block: logos
+  container: big
+  background:  "#E8E8E8"
+  color: muted # light dark muted
+  heading:
+  logos:
+  - image: https://via.placeholder.com/200x70/333333
+    alt: Lorem
+  - image: https://via.placeholder.com/200x70/333333
+    alt: Lorem
+  - image: https://via.placeholder.com/200x70/333333
+    alt: Lorem
+  - image: https://via.placeholder.com/200x70/333333
+    alt: Lorem
+
+
 
 - block: work
   background:  "#243148"
@@ -44,6 +62,24 @@ blocks:
     style: mint # whale mint sand
     text: Get in touch
     url: "visit-victoria"
+
+
+
+
+- block: logos
+  container: small
+  background:  "#ff0000"
+  color: dark # light dark muted
+  heading: these are some images
+  logos:
+  - image: https://via.placeholder.com/200x70/333333
+    alt: Lorem
+  - image: https://via.placeholder.com/200x70/333333
+    alt: Lorem
+  - image: https://via.placeholder.com/200x70/333333
+    alt: Lorem
+
+
 
 - block: work
   background:  "#F6F6F6"

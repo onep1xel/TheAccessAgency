@@ -8,7 +8,7 @@ navbar:
   background: "#181818"
 blocks:
 - block: media
-  type: slider # image video slider
+  type: video # image video slider
   image: /images/hero.jpg
   alt: Lorem Ipsum
   video: https://assets.mixkit.co/videos/preview/mixkit-set-of-plateaus-seen-from-the-heights-in-a-sunset-26070-large.mp4
@@ -34,12 +34,12 @@ blocks:
   padding: bottom
   cards:
   - heading: What is Accessible Tourism?
-    text: The journey towards more universal accessibility in tourism means better societal inclusion and increased revenue for operators.
+    text: The journey towards more *Universal accessibility* in tourism means better societal inclusion and increased revenue for operators.
     link:
       text: More about Accessible Tourism
       url: "accessible-tourism"
   - heading: Our work
-    text: We’re super-proud of the work we’ve done to advocate for inclusion and provide information for better experiences through better universal access.
+    text: We’re super-proud of the work we’ve done to advocate for inclusion and to help provide information for better experiences through better universal access.
     link:
       text: See our work
       url: "work"
@@ -80,7 +80,7 @@ blocks:
     at vero eros et accumsan et.
   link:
     text: Find out more
-    url: "#"
+    url: "/about-services#about-ryan"
 
 - block: cta
   background:  "#253148"

@@ -14,10 +14,12 @@ blocks:
   heading: Visit Victoria
   text: Spotlighting Inclusion and Accessibility at Victorias' premier tourism marketing program
 
-- block: text
+- block: alert
   background:  "#EFEFEF"
-  content: |-
-    ## Helping you build and promote more inclusive visitor experiences.
+  padding: bottom
+  text: |-
+    Helping you build and promote more [*our work*](/work/) inclusive visitor experiences.
+
 
 - block: text
   background:  "#EFEFEF"

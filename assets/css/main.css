@@ -60,7 +60,7 @@ font-display:auto;font-style:normal;font-weight:800;font-stretch:normal;
   @apply bg-white;
   @apply rounded-full;
   @apply p-10;
-  
+
 }
 .slider-resources.swiper-button-next:after, .slider-resources.swiper-button-prev:after {
   @apply font-extrabold;
@@ -69,7 +69,7 @@ font-display:auto;font-style:normal;font-weight:800;font-stretch:normal;
   @apply text-rose-regular !important;
 }
 
-/* @media (min-width: 1224px) { 
+/* @media (min-width: 1224px) {
   .slider-resources.swiper-button-next {
     margin-right: -10px;
   }

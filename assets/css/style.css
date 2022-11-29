@@ -809,7 +809,7 @@ select {
 
 .prose :where(h1):not(:where([class~="not-prose"] *)) {
   color: var(--tw-prose-headings);
-  font-weight: 800;
+  font-weight: 700;
   font-size: 2.25em;
   margin-top: 0;
   margin-bottom: 0.8888889em;
@@ -817,7 +817,7 @@ select {
 }
 
 .prose :where(h1 strong):not(:where([class~="not-prose"] *)) {
-  font-weight: 900;
+  font-weight: 700;
 }
 
 .prose :where(h2):not(:where([class~="not-prose"] *)) {
@@ -2678,7 +2678,7 @@ select {
   color: rgb(220 75 54 / var(--tw-text-opacity)) !important;
 }
 
-/* @media (min-width: 1224px) { 
+/* @media (min-width: 1224px) {
   .slider-resources.swiper-button-next {
     margin-right: -10px;
   }
