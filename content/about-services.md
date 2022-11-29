@@ -129,7 +129,7 @@ blocks:
 - block: images
   columns: 1
   background:  "#EFEFEF"
-  padding: both
+  padding: bottom
   images:
   - image: https://via.placeholder.com/1400x800/666666
     alt: Lorem
