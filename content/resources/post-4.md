@@ -1,7 +1,7 @@
 ---
-title: Doremen ipsum dolorem tavale
-image: https://dummyimage.com/600/ccc/ccc
-summary: The passage experienced a surge in popularity during the 1960s when Letraset used it on their dry-transfer sheets, and again during the 90s as desktop publishers.
+title: Disability representation in travel media
+image: https://via.placeholder.com/1000x600/666666
+summary: How are people represented in advertising and media for travel - and where are they?
 date: 2022-05-12
 categories:
 - articles

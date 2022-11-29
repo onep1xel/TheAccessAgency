@@ -57,7 +57,7 @@ module.exports = {
             lineHeight: 1.4,
             fontSize: '1.5rem',
             fontFamily: 'Faustina',
-            'h1, h2, h3, h4, h5, h6': { 
+            'h1, h2, h3, h4, h5, h6': {
               marginBottom: '1.1669rem !important',
               fontFamily: 'degular',
               lineHeight: 1,
@@ -66,7 +66,7 @@ module.exports = {
             h2: {
               fontWeight: 700,
               fontSize: '2.6875rem',
-              
+
             },
             h3: {
               fontWeight: 600,
@@ -77,15 +77,15 @@ module.exports = {
               fontSize: '2.3331rem',
             },
             h5: {
-              fontWeight: 800,
+              fontWeight: 700,
               fontSize: '1.75rem',
               textTransform: 'uppercase',
             },
           },
         },
       },
-      
-      
+
+
       // lineHeight: {
       //   tighter: '1.125',
       // },

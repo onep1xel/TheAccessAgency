@@ -1,6 +1,6 @@
 ---
-title: Lorem ipsum dolorem laren
-image: https://dummyimage.com/600/ccc/ccc
+title: Mapping for Accessibility
+image: https://via.placeholder.com/1000x600/666666
 summary: The passage experienced a surge in popularity during the 1960s when Letraset used it on their dry-transfer sheets, and again during the 90s as desktop publishers.
 date: 2022-05-12
 categories:

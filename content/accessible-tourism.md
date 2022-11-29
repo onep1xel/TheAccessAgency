@@ -11,30 +11,33 @@ blocks:
   background:  "#262626"
   color: light # light dark muted
   heading: Accessible Tourism
-  text: Opening up visitor experiences to be more equitable, accessible and profitable.
+  text: Open up visitor experiences to be more equitable, visitable and profitable.
 
 - block: text
   background:  "#E8E8E8"
   content: |-
-    ### What is Accessible Tourism?
+    ### Accessibility is key to the future of the visitor economy.
+    A growing number of travellers with access needs - and the resources to travel - are making their way into the market.
+    They want information, accessible experiences and innovative products.
+    They’ve high expectations and like us – they’re disabled yet evermore active.
+    As we grow older as a society this market is growing 22% year on year[^1].
 
-    Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in.
 
-    Hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et.
-    iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.
+
+    [^1]: Denise Broadey, *Forbes*, 2018.
 
 - block: feature
   background:  "#EFEFEF"
   color: dark # light dark muted
   superheading: Why make tourism accessible?
   heading: <span style="color:#493654">People with access needs and disabilities</span>
-    <span style="color:#8FC8B5">stay longer</span><span style="color:#493654">,</span> <span style="color:#DE4B37">travel with more people</span> <span style="color:#493654">and they’re <span style="color:#9FCBE9">very loyal.</span>
+    <span style="color:#8FC8B5" title="Tooltip here">stay longer<sup>1</sup></span><span style="color:#493654">,</span> <span style="color:#DE4B37">travel with more people<sup>2</sup></span> <span style="color:#493654">and they’re <span style="color:#9FCBE9">very loyal<sup>3</sup>.</span>
     <br>
-    <span style="color:#493654; margin-top:2rem; display:inline-block">In short, they’re</span> <span style="color:#7A6730">fantastic customers.</span>
+    <span style="color:#493654; margin-top:2rem; display:inline-block">In short, they’re</span> <span style="color:#7A6730">fantastic customers<sup>4</sup>.</span>
   subheading:
   link:
     text:
-    url: ""
+    url:
   subtext: 1.Open Doors Organization, 2020  2.Open Doors Organization, 2020  3.Open Doors Organization, 2020  
 
 - block: logos
@@ -74,16 +77,16 @@ blocks:
     background: "#243148"
     image:
 
-  - heading: 40%+
-    text: of baby boomers will be retiring with some form of disability
-    subtext: Open Doors Organization, 2020
+  - heading: 80%
+    text: of disabled travellers are likely to tell others about their experiences
+    subtext: The Access Survey, Euans Guide, 2019
     color: dark # dark light muted
     background: "#9FCBE9"
     image:
 
-  - heading: 40%+
-    text: of baby boomers will be retiring with some form of disability
-    subtext: Open Doors Organization, 2020
+  - heading: 22%
+    text: the amount the accessible travel market is growing by year on year
+    subtext: Denise Broadey writing in Forbes
     color: dark # dark light muted
     background: "#8FC7B5"
     image:
@@ -116,6 +119,7 @@ blocks:
     Iusto odio dignissim qui blandit prae-
     sent luptatum zzril delenit augue duis dolore te feugait nulla fac-
     ilisi.
+
 
 - block: images
   columns: 1

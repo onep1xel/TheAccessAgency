@@ -9,10 +9,17 @@ navbar:
   color: light # dark light (default light)
 blocks:
 - block: header
-  background:  "#cecece"
-  color: muted # light dark muted
+  background:  "#262626"
+  color: light # light dark muted
   heading: Visit Victoria
   text: Spotlighting Inclusion and Accessibility at Victorias' premier tourism marketing program
+
+- block: quote
+  background:  "#9fcbe9"
+  color: dark # light dark muted
+  padding: both
+  quote: I’ve done a lot of Instagram Stories, but this one has to be my favourite ...and if you’re interested in accessible tourism content creation, Ryan Smith is your guy
+  author: Nicole Cashman, Social & Digital Media, Visit Victoria
 
 - block: alert
   background:  "#EFEFEF"
@@ -21,6 +28,22 @@ blocks:
     Helping you build and promote more [*our work*](/work/) inclusive visitor experiences.
 
 
+- block: cards
+  background:  "#EFEFEF"
+  color: dark # light dark muted
+  padding: bottom
+  cards:
+  - heading: 1. Research / audit
+    text: Understanding the now – The journey towards more universal accessibility in tourism means better societal inclusion and increased revenue for operators.
+    link:
+      text:
+      url:
+  - heading: 2. Strategic Design (CX)
+    text: Designing useful materials and increasing accessibility. Design + build materials to bring visitors and increase loyalty. Train and mentor staff in best practice inclusion.
+    link:
+      text:
+      url:
+
 - block: text
   background:  "#EFEFEF"
   content: |-
@@ -28,9 +51,15 @@ blocks:
 
         Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. **bold text** Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo *italicized text* consequat. Duis autem vel eum iriure dolor in.
 
+        [Boostnote](https://github.com/BoostIO/Boostnote "This is Boostnote's repository")
+
+        [Boostnote](https://github.com/ "This is Boostnote's repository")
+
         > Someone said something and then - everything changed
 
         ## Consectetuer adipiscing elit, sed diam nonummy (h2)
+
+
 
         http://www.example.com
 

@@ -1,14 +1,14 @@
 ---
 layout: blocks
-title: Lorem ipsum is placeholder text commonly used
-url: ""
-description:
-image:
+title: Access, Design and Communication – The Access Agency
+url: "about-services"
+description: Better access and inclusion mean better business
+image: https://via.placeholder.com/1000x600/666666
 navbar:
-  background: "#253148"
+  background: "#1d2838"
 blocks:
 - block: header
-  background:  "#262626"
+  background:  "#253148"
   color: light # light dark muted
   heading: Services + About Us
   text: Helping you promote and create more inclusive visitor experiences.
@@ -44,7 +44,7 @@ blocks:
 
     # What we create
 
-    ### Access audits and reviews
+    ### Access Audits and Reviews
     We review desktop and on-site access in physical and digital spaces. Understanding existing circumstances allows for quick wins, a broader overview and the roadmap to more inclusive experiences.
 
     - Mystery shopping
@@ -74,22 +74,31 @@ blocks:
 
 
 - block: quote
-  background:  "#373838"
-  color: light # light dark muted
+  background:  "#9fcbe9"
+  color: dark # light dark muted
   padding: both
-  quote: I’ve done a lot of Instagram Stories, but this one has to be my favourite ...and if you’re interested in accessible tourism content creation, Ryan Smith is your guy
-  author: Nicole Cashman, Social & Digital Media, Visit Victoria
-
+  quote: …a Masterclass for every tourism business
+  author: Attendee at 'Marketing Accessibility' at AITCAP (Accessible Inclusive Conference)
 
 
 
 - block: text
   background:  "#EFEFEF"
   content: |-
-    ## About Ryan.{#about-ryan}
-    #### Understanding the now
 
-    Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in.
+    ## About Ryan{#about-ryan}
+
+    Our principle, Ryan Smith is a qualified Access Consultant and wheelchair user. He has 20+ years as a Creative Director in digital agencies working in design and strategy for the likes of Australia Post, Ford, Transport For London, Parks Victoria, Jetstar, Virgin Australia and many others.
+
+    He knows that clear messaging and solving problems with information is a big part of the access solution. Ryan is a board member, an advocate, an active member of the disabled community and an avid traveller.
+
+    We’re active in the disabled community and have colleagues, friends, and advisors in a range of disparate and connected fields. Across Access Consulting, Construction, Tourism, Disability, User Experience and Media and Communications we connect and share ideas. Within this network - and at every level - we have conversations about the same topics: access, equity and innovation within customer and visitor experiences.
+
+    Our network ranges from film-makers to policy advisors, from lawyers to actors – all with a focus on delivering exceptional experiences through better access and better information about access.
+
+    Our roster of professionals in communications strategy, marketing, design, videography are available to provide insight and advice.
+
+    [Boostnote](https://github.com/BoostIO/Boostnote "This is Boostnote's repository")
 
 
 - block: images
@@ -110,9 +119,9 @@ blocks:
   background:  "#EFEFEF"
   padding: bottom
   images:
-  - image: https://via.placeholder.com/1000x600/666666
+  - image: https://via.placeholder.com/500x500/666666
     alt: Lorem
-  - image: https://via.placeholder.com/1000x600/666666
+  - image: https://via.placeholder.com/500x500/666666
     alt: Lorem
 
 
@@ -125,14 +134,27 @@ blocks:
   - image: https://via.placeholder.com/1400x800/666666
     alt: Lorem
 
+
+- block: media
+  type: image # image video slider
+  image: /images/hero.jpg
+  alt: Lorem Ipsum
+  video: https://assets.mixkit.co/videos/preview/mixkit-set-of-plateaus-seen-from-the-heights-in-a-sunset-26070-large.mp4
+  slides:
+  - https://via.placeholder.com/1500x600/333333
+  - https://via.placeholder.com/1500x600/333333
+  - https://via.placeholder.com/1500x600/333333
+
+
+
 - block: cta
   background:  "#253148"
   color: light # light dark muted
-  heading: Contact us to find out more about how to communicate your access
-  text: Lorem ipsum dolor sit amet, consectetuer adipiscing elitiam.
+  heading: See how better access can improve your business
+  text: Reach out and we'll schedule a chat
   button:
     style: mint # whale mint sand
     text: Get in touch
-    url: "#"
+    url: "contact"
 
 ---

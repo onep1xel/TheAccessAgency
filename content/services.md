@@ -34,12 +34,7 @@ blocks:
     link:
       text:
       url:
-  - heading: 3. Promote
-    text: Through advice, advocacy and creative work for tourism and the
-      visitor economy, we make sure access brings people together.
-    link:
-      text:
-      url:
+
 
 
 - block: text

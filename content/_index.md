@@ -25,7 +25,7 @@ blocks:
   subheading: We’re award-winning creative communicators, qualified access consultants and disabled travellers.
   link:
     text: Want better access + more customers?
-    url: "/services/"
+    url: "/about-services/"
   #subtext: 1.Open Doors Organization, 2020  2.Open Doors Organization, 2020  3.Open Doors Organization, 2020  
 
 - block: cards
