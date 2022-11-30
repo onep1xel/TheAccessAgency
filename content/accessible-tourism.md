@@ -16,15 +16,33 @@ blocks:
 - block: text
   background:  "#E8E8E8"
   content: |-
+
+    The UNWTO have labelled it a [**‘great opportunity’**](https://github.com/BoostIO/Boostnote "UNWTO Accessible Tourism"), the EU say it’s a [**‘moral obligation’**](https://github.com/BoostIO/Boostnote "EU Accessible Tourism") and Tourism Australia refer to it as a [**‘Pillar of opportunity’**](https://github.com/BoostIO/Boostnote "EU Accessible Tourism").
+    Across in the UK, England wants to be the most accessible destination in Europe by 2026.
+
+    So, what’s all the excitement about?
+
+    Accessible tourism broadly refers to the notion of ***Tourism For All*** or ***Tourism Without Barriers***. The principle is that tourism services and products should be open to everyone.
+    In terms of access – yes that means ramps, toilets and parking. But it also means providing accessible information so people can make informed decisions.
+    Inclusion means enabling a customer service, a philosophy of operating that involves everyone.
+
     ### Accessibility is key to the future of the visitor economy.
     A growing number of travellers with access needs - and the resources to travel - are making their way into the market.
     They want information, accessible experiences and innovative products.
-    They’ve high expectations and like us – they’re disabled yet evermore active.
+    They’ve high expectations and like us – they’ve access needs but are evermore active.
     As we grow older as a society this market is growing 22% year on year[^1].
 
-
-
     [^1]: Denise Broadey, *Forbes*, 2018.
+
+
+- block: images
+  columns: 1
+  background:  "#EFEFEF"
+  padding: bottom
+  container: small
+  images:
+  - image: https://via.placeholder.com/1000x600/666666
+    alt: Lorem
 
 - block: feature
   background:  "#EFEFEF"
