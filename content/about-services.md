@@ -66,13 +66,6 @@ blocks:
     - Storytelling and Campaign Design
 
 
-- block: video
-  background:  "#EFEFEF"
-  padding: bottom
-  youtube: #5gqEJT1lxgk
-  vimeo: 613481548
-
-
 - block: quote
   background:  "#9fcbe9"
   color: dark # light dark muted
@@ -104,7 +97,7 @@ blocks:
 - block: images
   columns: 3
   background:  "#EFEFEF"
-  padding: bottom
+  padding: bottom top
   images:
   - image: https://via.placeholder.com/1000x600/666666
     alt: Lorem
@@ -119,9 +112,9 @@ blocks:
   background:  "#EFEFEF"
   padding: bottom
   images:
-  - image: https://via.placeholder.com/500x500/666666
+  - image: https://via.placeholder.com/900x900/666666
     alt: Lorem
-  - image: https://via.placeholder.com/500x500/666666
+  - image: https://via.placeholder.com/900x900/666666
     alt: Lorem
 
 

@@ -53,12 +53,9 @@ blocks:
 
         [Boostnote](https://github.com/BoostIO/Boostnote "This is Boostnote's repository")
 
-        [Boostnote](https://github.com/ "This is Boostnote's repository")
-
         > Someone said something and then - everything changed
 
         ## Consectetuer adipiscing elit, sed diam nonummy (h2)
-
 
 
         http://www.example.com

@@ -17,6 +17,7 @@ blocks:
   - https://via.placeholder.com/1500x600/333333
   - https://via.placeholder.com/1500x600/333333
 
+
 - block: feature
   background:  "#ffffff"
   color: dark # light dark muted

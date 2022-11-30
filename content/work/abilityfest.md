@@ -5,107 +5,57 @@ url: ""
 description:
 image:
 navbar:
-  background: "#181818"
+  background: "#1d2838"
 blocks:
+- block: media
+  type: video # image video slider
+  image: /images/hero.jpg
+  alt: Lorem Ipsum
+  video: https://assets.mixkit.co/videos/preview/mixkit-set-of-plateaus-seen-from-the-heights-in-a-sunset-26070-large.mp4
+  slides:
+  - https://via.placeholder.com/1500x600/333333
+  - https://via.placeholder.com/1500x600/333333
+  - https://via.placeholder.com/1500x600/333333
+
 - block: header
-  background:  "#262626"
+  background:  "#253148"
   color: light # light dark muted
-  heading: Accessible Tourism
-  text: Opening up visitor experiences to be more equitable, accessible and profitable.
+  heading: Ability Fest Social Takeover
+  text: Showcasing Australias' only purpose-made accessible music festival.
 
 - block: text
   background:  "#E8E8E8"
   content: |-
-    ### What is Accessible Tourism?
+    #### Challenge
 
-    Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in.
+    How does a Tourism organisation talk about access and inclusion at an event in a way that is authentic, energised and broad reaching? They commission someone with a disability to cover it.
 
-    Hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et.
-    iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.
+    #### Process
 
-- block: feature
-  background:  "#EFEFEF"
-  color: dark # light dark muted
-  superheading: Why make tourism accessible?
-  heading: <span style="color:#493654">People with access needs and disabilities</span>
-    <span style="color:#8FC8B5">stay longer</span><span style="color:#493654">,</span> <span style="color:#DE4B37">travel with more people</span> <span style="color:#493654">and they’re <span style="color:#9FCBE9">very loyal.</span>
-    <br>
-    <span style="color:#493654; margin-top:2rem; display:inline-block">In short, they’re</span> <span style="color:#7A6730">fantastic customers.</span>
-  subheading:
-  link:
-    text:
-    url: ""
-  subtext: 1.Open Doors Organization, 2020  2.Open Doors Organization, 2020  3.Open Doors Organization, 2020  
+    Visit Victoria/Visit Melbourne contacted The Access Agency to cover AbilityFest for their social media. AbilityFest - organised by the Dylan Alcott Foundation and untitled group – is Australia’s first and only completely accessible outdoor festival music festival. Ryan spoke with Dylan, volunteers and attendees at the festival conveying the excitement, scale and philosophy of the Event.
 
-- block: logos
-  background:  "#EFEFEF"
-  color: muted # light dark muted
+    #### Result
+
+    A video sequence was edited down to 14 stories that captured the day – from anticipation, to the practical accessibility through to the late night climax and fireworks. The piece also showcased other live music options throughout Melbourne – providing options all year round for those with access needs.
+
+
+- block: images
+  columns: 2
+  background:  "#E8E8E8"
   padding: bottom
-  heading:
-  logos:
-  - image: https://via.placeholder.com/100/666666
+  container: small
+  images:
+  - image: https://via.placeholder.com/1000x1000/666666
     alt: Lorem
-  - image: https://via.placeholder.com/100/666666
-    alt: Lorem
-  - image: https://via.placeholder.com/100/666666
-    alt: Lorem
-  - image: https://via.placeholder.com/100/666666
-    alt: Lorem  
-  - image: https://via.placeholder.com/100/666666
-    alt: Lorem
-  - image: https://via.placeholder.com/100/666666
-    alt: Lorem
-  - image: https://via.placeholder.com/100/666666
+  - image: https://via.placeholder.com/1000x1000/666666
     alt: Lorem
 
-- block: tiles
-  tiles:
-  - heading:
-    text:
-    subtext:
-    color: # dark light muted
-    background: ""
-    image: /images/tile-1.jpg
 
-  - heading: 40%+
-    text: of baby boomers will be retiring with some form of disability
-    subtext: Open Doors Organization, 2020
-    color: muted # dark light muted
-    background: "#243148"
-    image:
-
-  - heading: 40%+
-    text: of baby boomers will be retiring with some form of disability
-    subtext: Open Doors Organization, 2020
-    color: dark # dark light muted
-    background: "#9FCBE9"
-    image:
-
-  - heading: 40%+
-    text: of baby boomers will be retiring with some form of disability
-    subtext: Open Doors Organization, 2020
-    color: dark # dark light muted
-    background: "#8FC7B5"
-    image:
-
-  - heading:
-    text:
-    subtext:
-    color: # dark light muted
-    background: ""
-    image: /images/tile-5.jpg
-
-  - heading: 40%+
-    text: of baby boomers will be retiring with some form of disability
-    subtext: Open Doors Organization, 2020
-    color: muted # dark light muted
-    background: "#354549"
-    image:     
 
 - block: text
   background: "#EFEFEF"
   content: |-
-    ### Who needs good access?
+    ### Why use social media to talk about access?
 
     Ut wisi enim ad minim veniam, quis nostrud exerci tation ullam-
     corper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
@@ -117,60 +67,24 @@ blocks:
     sent luptatum zzril delenit augue duis dolore te feugait nulla fac-
     ilisi.
 
-- block: images
-  columns: 1
-  background:  "#EFEFEF"
-  padding: bottom
-  container: small
-  images:
-  - image: https://via.placeholder.com/1000x600/666666
-    alt: Lorem
 
-- block: faq
-  background:  "#EFEFEF"
+- block: quote
+  background:  "#9fcbe9"
   color: dark # light dark muted
-  padding: bottom
-  heading: Frequently Asked Questions
-  faqs:
-  - title: How does it work?
-    content: |-
-      Everything is completely async, no time is wasted in meetings. Manage your project design and development queue using Trello. Share your design files, Google docs, wireframes, or videos directly in the Trello cards. View active, queued, and completed tasks with ease. Invite your team, so anyone can submit requests and track their progress. View work progress on staging server.
+  padding: both
+  quote: I’ve done a lot of Instagram Stories, but this one has to be my favourite ...and if you’re interested in accessible tourism content creation, Ryan Smith is your guy
+  author: Nicole Cashman, Social & Digital Media, Visit Victoria
 
-  - title: How fast will my project be completed?
-    content: |-
-      On average, most are completed:
-
-      - Essential package: 10 working days or less
-      - Standard package: 20 working days or less
-      - Premium package: 25 working days or less
-
-  - title: What tech stack do you use?
-    content: |-
-      Tailwind CSS, Alpine.js, Hugo, Jekyll, Forestry CMS, Netlify, Vercel, GitHub.
-
-  - title: Who are the designers and developers?
-    content: |-
-      TailStack is an agency of one, which means you'll work directly with me, the founder of TailStack.
-
-  - title: What if I don't like the design?
-    content: |-
-      No worries! We'll continue to revise the design until you're 100% satisfied.
-
-  - title: Are there any refunds if I don't like the service?
-    content: |-
-      Due to the high-quality nature of the work, there will be no refunds issued.
 
 - block: images
   columns: 1
   background:  "#EFEFEF"
-  padding: bottom
+  padding: bottom top
   container: small
   images:
   - image: https://via.placeholder.com/1000x600/666666
     alt: Lorem
 
-- block: resources
-  background: "#D6D6CE"
 
 - block: cta
   background:  "#253148"
