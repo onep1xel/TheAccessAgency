@@ -5,11 +5,11 @@ url: ""
 description:
 image:
 navbar:
-  background: "#262626"
+  background: "#1d2838"
   color: light # dark light (default light)
 blocks:
 - block: header
-  background:  "#262626"
+  background:  "#253148"
   color: light # light dark muted
   heading: Contact details
   text:

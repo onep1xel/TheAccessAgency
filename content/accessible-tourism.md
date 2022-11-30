@@ -5,79 +5,26 @@ url: ""
 description:
 image:
 navbar:
-  background: "#181818"
+  background: "#1d2838"
 blocks:
 - block: header
-  background:  "#262626"
+  background:  "#253148"
   color: light # light dark muted
   heading: Accessible Tourism
-  text: Open up visitor experiences to be more equitable, visitable and profitable.
+  text: Making visitor experiences more equitable, visitable and profitable.
 
 - block: text
   background:  "#E8E8E8"
   content: |-
-
     The UNWTO have labelled it a [**‘great opportunity’**](https://github.com/BoostIO/Boostnote "UNWTO Accessible Tourism"), the EU say it’s a [**‘moral obligation’**](https://github.com/BoostIO/Boostnote "EU Accessible Tourism") and Tourism Australia refer to it as a [**‘Pillar of opportunity’**](https://github.com/BoostIO/Boostnote "EU Accessible Tourism").
     Across in the UK, England wants to be the most accessible destination in Europe by 2026.
 
     So, what’s all the excitement about?
 
-    Accessible tourism broadly refers to the notion of ***Tourism For All*** or ***Tourism Without Barriers***. The principle is that tourism services and products should be open to everyone.
+    Accessible Tourism is broadly the notion of ***Tourism For All*** or ***Tourism Without Barriers***. The principle is that tourism services and products should be open to everyone.
     In terms of access – yes that means ramps, toilets and parking. But it also means providing accessible information so people can make informed decisions.
     Inclusion means enabling a customer service, a philosophy of operating that involves everyone.
 
-    ### Accessibility is key to the future of the visitor economy.
-    A growing number of travellers with access needs - and the resources to travel - are making their way into the market.
-    They want information, accessible experiences and innovative products.
-    They’ve high expectations and like us – they’ve access needs but are evermore active.
-    As we grow older as a society this market is growing 22% year on year[^1].
-
-    [^1]: Denise Broadey, *Forbes*, 2018.
-
-
-- block: images
-  columns: 1
-  background:  "#EFEFEF"
-  padding: bottom
-  container: small
-  images:
-  - image: https://via.placeholder.com/1000x600/666666
-    alt: Lorem
-
-- block: feature
-  background:  "#EFEFEF"
-  color: dark # light dark muted
-  superheading: Why make tourism accessible?
-  heading: <span style="color:#493654">People with access needs and disabilities</span>
-    <span style="color:#8FC8B5" title="Tooltip here">stay longer<sup>1</sup></span><span style="color:#493654">,</span> <span style="color:#DE4B37">travel with more people<sup>2</sup></span> <span style="color:#493654">and they’re <span style="color:#9FCBE9">very loyal<sup>3</sup>.</span>
-    <br>
-    <span style="color:#493654; margin-top:2rem; display:inline-block">In short, they’re</span> <span style="color:#7A6730">fantastic customers<sup>4</sup>.</span>
-  subheading:
-  link:
-    text:
-    url:
-  subtext: 1.Open Doors Organization, 2020  2.Open Doors Organization, 2020  3.Open Doors Organization, 2020  
-
-- block: logos
-  background:  "#EFEFEF"
-  color: muted # light dark muted
-  padding: bottom
-  heading:
-  logos:
-  - image: https://via.placeholder.com/100/666666
-    alt: Lorem
-  - image: https://via.placeholder.com/100/666666
-    alt: Lorem
-  - image: https://via.placeholder.com/100/666666
-    alt: Lorem
-  - image: https://via.placeholder.com/100/666666
-    alt: Lorem  
-  - image: https://via.placeholder.com/100/666666
-    alt: Lorem
-  - image: https://via.placeholder.com/100/666666
-    alt: Lorem
-  - image: https://via.placeholder.com/100/666666
-    alt: Lorem
 
 - block: tiles
   tiles:
@@ -116,49 +63,68 @@ blocks:
     background: ""
     image: /images/tile-5.jpg
 
-  - heading: 40%+
-    text: of baby boomers will be retiring with some form of disability
-    subtext: Open Doors Organization, 2020
+  - heading: $3.3b
+    text: The overall tourism expenditure of people with disability in Australia
+    subtext: Accessible Tourism in Victoria and Queensland, Tourism Research Australia, National Visitor Survey, 2018.
     color: muted # dark light muted
     background: "#354549"
-    image:     
-
-- block: text
-  background: "#EFEFEF"
-  content: |-
-    ### Who needs good access?
-
-    Ut wisi enim ad minim veniam, quis nostrud exerci tation ullam-
-    corper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
-    Duis autem vel eum iriure dolor in hendrerit in vulputate velit
-    esse molestie consequat, vel illum dolore eu feugiat nulla facilisis
-    at vero eros et accumsan et.
-
-    Iusto odio dignissim qui blandit prae-
-    sent luptatum zzril delenit augue duis dolore te feugait nulla fac-
-    ilisi.
+    image:
 
 
 - block: images
-  columns: 1
-  background:  "#EFEFEF"
-  padding: bottom
+  columns: 2
+  background:  "#E8E8E8"
+  padding: top
   container: small
   images:
-  - image: https://via.placeholder.com/1000x600/666666
+  - image: https://via.placeholder.com/1000x800/666666
+    alt: Lorem
+  - image: https://via.placeholder.com/1000x800/666666
+    alt: Lorem
+  - image: https://via.placeholder.com/1000x800/666666
+    alt: Lorem
+  - image: https://via.placeholder.com/1000x800/666666
     alt: Lorem
 
+
+
+- block: text
+  background:  "#E8E8E8"
+  content: |-
+
+    ## What does it mean for operators?
+
+    In everyday terms, providing better access and inclusion is about improving the visitor experince both online and in-person.
+    It's about recognising and respecting difference, removing barriers and enhancing independence and dignity.   
+
+    For operators big and small, this may mean –
+
+    - Looking at your existing physical environment to reduce barriers
+    - Reviewing printed materials and digital resources so access information is provided
+    - Ensuring visitor materials are provided in an accessible format
+    - Investing in quick access wins (like proving a clear path of travel)
+    - Ensuring planned, new developments are accessible
+    - Providing employees with the confidence to eguage with different and disbled visitors
+    - Marketing your accessibility and inclusive approach
+
+    To find out more, you can see a video from our presentation on [Marketing Accessibility](/resources) Marketing Access here.
+    If you want to get started with a self-assessment, you can find a basic checklist here
+
+    We’ve got some great reading in our resources section.
+
+
+
 - block: faq
-  background:  "#EFEFEF"
-  color: dark # light dark muted
-  padding: bottom
-  heading: Frequently Asked Questions
+  background:  "#4a3754"
+  color: light # light dark muted
+  padding: bottom top
+  heading: Busting some myths
   faqs:
-  - title: How does it work?
+  - title: It's only for people in wheelchairs
     content: |-
       Everything is completely async, no time is wasted in meetings. Manage your project design and development queue using Trello. Share your design files, Google docs, wireframes, or videos directly in the Trello cards. View active, queued, and completed tasks with ease. Invite your team, so anyone can submit requests and track their progress. View work progress on staging server.
 
-  - title: How fast will my project be completed?
+  - title: People with disabilities don’t spend
     content: |-
       On average, most are completed:
 
@@ -166,30 +132,74 @@ blocks:
       - Standard package: 20 working days or less
       - Premium package: 25 working days or less
 
-  - title: What tech stack do you use?
+  - title: It’s too difficult & expensive
     content: |-
       Tailwind CSS, Alpine.js, Hugo, Jekyll, Forestry CMS, Netlify, Vercel, GitHub.
 
-  - title: Who are the designers and developers?
+  - title: The market is too small
     content: |-
       TailStack is an agency of one, which means you'll work directly with me, the founder of TailStack.
 
-  - title: What if I don't like the design?
+  - title: We don't have to be accessible, it's not our market
     content: |-
       No worries! We'll continue to revise the design until you're 100% satisfied.
 
-  - title: Are there any refunds if I don't like the service?
+  - title: We can't promote oursleves as accessible because we have stairs
     content: |-
       Due to the high-quality nature of the work, there will be no refunds issued.
 
-- block: images
-  columns: 1
+
+
+- block: feature
   background:  "#EFEFEF"
-  padding: bottom
-  container: small
+  color: dark # light dark muted
+  superheading:
+  heading: <span style="color:#493654">People with access needs and disabilities</span>
+    <span style="color:#8FC8B5" title="Tooltip here">stay longer<sup>1</sup></span><span style="color:#493654">,</span> <span style="color:#DE4B37">travel with more people<sup>2</sup></span> <span style="color:#493654">and they’re <span style="color:#9FCBE9">very loyal<sup>3</sup>.</span>
+    <br>
+    <span style="color:#493654; margin-top:2rem; display:inline-block">In short, they’re</span> <span style="color:#7A6730">fantastic customers.</span>
+  subheading:
+  link:
+    text:
+    url:
+  subtext: 1.Open Doors Organization, 2020  2.Open Doors Organization, 2020  3.Open Doors Organization, 2020  
+
+
+
+
+- block: images
+  columns: 2
+  background:  "#EFEFEF"
+  padding: bottom top
+  container: big
   images:
   - image: https://via.placeholder.com/1000x600/666666
     alt: Lorem
+  - image: https://via.placeholder.com/1000x600/666666
+    alt: Lorem
+
+
+- block: cards
+  background:  "#EFEFEF"
+  color: dark # light dark muted
+  padding: bottom
+  cards:
+  - heading: go NYC
+    text: The official guide to New York City is a great example of how an *'access hub'* can be intergrated into a visitor site.
+    link:
+      text: Take a look at this great example
+      url: "https://www.nycgo.com/plan-your-trip/basic-information/accessibility/"
+  - heading: Tropical North Queensland
+    text: The website accessibility page has a range of accessible activities and itineraries, alongside support connections and accomodation options.
+    link:
+      text: See the FNQ example  
+      url: "https://www.tropicalnorthqueensland.org.au/plan-your-trip/accessible-travel/"
+  - heading: Hotel Brooklyn
+    text: A world-class access hub for visitors to this Manchester Hotel. Containing access galleries, Transport resources, virtual tours, video, an accessibilty statement and more.
+    link:
+      text: See this Hotels' excellent example
+      url: "https://hotelbrooklynmcr.co.uk/accessibility/"
+
 
 - block: resources
   background: "#D6D6CE"

@@ -31,7 +31,7 @@ blocks:
   color: light # light dark muted
   layout: vertical # horizontal vertical
   offset: 26% # for horizontal layout set top spacing for text column in percentages eg 25%
-  image: https://via.placeholder.com/300x300/666666
+  image: https://via.placeholder.com/400x400/666666
   youtube: #5gqEJT1lxgk
   vimeo: #613481548
   superheading: City of Melbourne
@@ -48,7 +48,7 @@ blocks:
   color: dark # light dark muted
   layout: horizontal # horizontal vertical
   offset: 26% # for horizontal layout set top spacing for text column in percentages eg 25%
-  image: https://via.placeholder.com/800x800/666666
+  image: https://via.placeholder.com/700x700/666666
   youtube: #5gqEJT1lxgk
   vimeo: #771124484
   superheading: Mornington Peninsula
@@ -75,8 +75,6 @@ blocks:
     style: mint # whale mint sand
     text: Take a look at the project
     url: "work/abilityfest"
-
-
 
 
 

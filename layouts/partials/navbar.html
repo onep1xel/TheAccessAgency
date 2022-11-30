@@ -1,4 +1,4 @@
-<div class="z-10 sticky top-0" style="background-color: {{ if .Params.navbar.background }}{{ .Params.navbar.background }}{{ else }}#181818{{ end }}">
+<div class="z-10 sticky top-0" style="background-color: {{ if .Params.navbar.background }}{{ .Params.navbar.background }}{{ else }}#253148{{ end }}">
   <div class="px-4 sm:px-6 lg:px-8">
     <div class="mx-auto max-w-7xl py-7">
       <div class="flex items-center justify-between lg:justify-start lg:space-x-10">
@@ -11,7 +11,7 @@
           <button
             @click="mobile = ! mobile"
             type="button"
-            class="inline-flex items-center justify-center focus:outline-none 
+            class="inline-flex items-center justify-center focus:outline-none
             {{ if eq .Params.navbar.color "dark" }}text-whale-regular hover:text-whale-light{{ else }}text-sand-regular hover:text-white{{ end }}"
             aria-expanded="false"
           >
