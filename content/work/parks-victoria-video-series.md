@@ -5,13 +5,13 @@ url: ""
 description:
 image:
 navbar:
-  background: "#181818"
+  background: "#1d2838"
 blocks:
 - block: media
   type: video # image video slider
   image: /images/hero.jpg
   alt: Lorem Ipsum
-  video: https://assets.mixkit.co/videos/preview/mixkit-set-of-plateaus-seen-from-the-heights-in-a-sunset-26070-large.mp4
+  video: /video/website-video_final.mp4
   slides:
   - https://via.placeholder.com/1500x600/333333
   - https://via.placeholder.com/1500x600/333333
@@ -20,23 +20,26 @@ blocks:
 - block: header
   background:  "#253148"
   color: light # light dark muted
-  heading: Mornington Peninsula Shire - Funding for Better Access   
-  text: What does access mean to small and medium businesses and how can you encourage more of it?
+  heading: ‘All Abilities Access’ Video Series - Parks Victoria
+  text: Encouraging participation in our parks.
+
+
 
 - block: text
   background:  "#E8E8E8"
   content: |-
     #### Challenge
 
-    How does a Tourism organisation talk about access and inclusion at an event in a way that is authentic, energised and broad reaching? They commission someone with a disability to cover it.
+    Parks Victoria wanted to showcase the ‘all abilities access’ of 10 selected parks. Scattered around the state and not all strictly ‘accessible’, each have their own appeal.
 
     #### Process
 
-    Visit Victoria/Visit Melbourne contacted The Access Agency to cover AbilityFest for their social media. AbilityFest - organised by the Dylan Alcott Foundation and untitled group – is Australia’s first and only completely accessible outdoor festival music festival. Ryan spoke with Dylan, volunteers and attendees at the festival conveying the excitement, scale and philosophy of the Event.
+    We worked closely with Parks staff and with members of the disability community to write, shoot and produce the videos in a way that showcased access while providing the genuine excitement in visiting these beautiful places.
 
     #### Result
 
-    A video sequence was edited down to 14 stories that captured the day – from anticipation, to the practical accessibility through to the late night climax and fireworks. The piece also showcased other live music options throughout Melbourne – providing options all year round for those with access needs.
+    The first video was released on ‘International Wheelchair Day’ in March 2021 and within three days had reached 2,000+ people.
+    Three months later it had reached 10K views. Moreover, the first video was shared widely between friends, family and people with reduced mobility - those who benefit the most are getting the information they need to plan and visit parks with confidence.
 
 
 - block: images
@@ -89,8 +92,8 @@ blocks:
 - block: cta
   background:  "#253148"
   color: light # light dark muted
-  heading: Contact us to find out more about how to communicate your access
-  text: Lorem ipsum dolor sit amet, consectetuer adipiscing elitiam.
+  heading: Find out how to use your accessibility as an asset
+  text: Contact us today.
   button:
     style: mint # whale mint sand
     text: Get in touch
