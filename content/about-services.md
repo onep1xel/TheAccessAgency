@@ -81,17 +81,15 @@ blocks:
 
     ## About Ryan{#about-ryan}
 
-    Our principle, Ryan Smith is a qualified Access Consultant and wheelchair user. He has 20+ years as a Creative Director in digital agencies working in design and strategy for the likes of Australia Post, Ford, Transport For London, Parks Victoria, Jetstar, Virgin Australia and many others.
+    Ryan is a creative director, an avid traveller, and wheelchair user.
+    He started writing about access in tourism in 2018 through his blog [***Freewheel Weekends***](http://www.freewheelweekends.com.au "Visit Freewheel Weekends").
 
-    He knows that clear messaging and solving problems with information is a big part of the access solution. Ryan is a board member, an advocate, an active member of the disabled community and an avid traveller.
+    His design career has spanned 25 years working as a designer and communication consultant for Ford, Australia Post, Jetstar, and many other organisations.
+    As a qualified access consultant, he understands and advocates for universal access and as a designer he loves to create innovative, elegant solutions.
+    He also makes a mean café late and is fond of birds.
 
-    We’re active in the disabled community and have colleagues, friends, and advisors in a range of disparate and connected fields. Across Access Consulting, Construction, Tourism, Disability, User Experience and Media and Communications we connect and share ideas. Within this network - and at every level - we have conversations about the same topics: access, equity and innovation within customer and visitor experiences.
-
-    Our network ranges from film-makers to policy advisors, from lawyers to actors – all with a focus on delivering exceptional experiences through better access and better information about access.
 
     Our roster of professionals in communications strategy, marketing, design, videography are available to provide insight and advice.
-
-    [Boostnote](https://github.com/BoostIO/Boostnote "This is Boostnote's repository")
 
 
 - block: images

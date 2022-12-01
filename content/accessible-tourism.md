@@ -94,8 +94,8 @@ blocks:
 
     ## What does it mean for operators?
 
-    In everyday terms, providing better access and inclusion is about improving the visitor experince both online and in-person.
-    It's about recognising and respecting difference, removing barriers and enhancing independence and dignity.   
+    In everyday terms, it's about improving the visitor experience both online and in-person -
+    recognising and respecting difference, removing barriers and enhancing independence and dignity.   
 
     For operators big and small, this may mean –
 
@@ -104,13 +104,21 @@ blocks:
     - Ensuring visitor materials are provided in an accessible format
     - Investing in quick access wins (like proving a clear path of travel)
     - Ensuring planned, new developments are accessible
-    - Providing employees with the confidence to eguage with different and disbled visitors
+    - Providing employees with the confidence to engage with different and disabled visitors
     - Marketing your accessibility and inclusive approach
 
     To find out more, you can see a video from our presentation on [Marketing Accessibility](/resources) Marketing Access here.
-    If you want to get started with a self-assessment, you can find a basic checklist here
+    If you want to get started with a self-assessment, you can find a basic [checklist here](https://www.example.com)
 
-    We’ve got some great reading in our resources section.
+    We’ve got some great reading in our [resources section](https://www.example.com).
+
+
+- block: quote
+  background:  "#9fcbe9"
+  color: dark # light dark muted
+  padding: both
+  quote: Smart brands will adapt to the changing demands of aging customers, the wealthiest demographic in human history.
+  author: Rich Donovan, Return on Disability
 
 
 
@@ -118,11 +126,12 @@ blocks:
   background:  "#4a3754"
   color: light # light dark muted
   padding: bottom top
-  heading: Busting some myths
+  heading: Let’s bust some myths
   faqs:
-  - title: It's only for people in wheelchairs
+  - title: It’s only for people in wheelchairs
     content: |-
-      Everything is completely async, no time is wasted in meetings. Manage your project design and development queue using Trello. Share your design files, Google docs, wireframes, or videos directly in the Trello cards. View active, queued, and completed tasks with ease. Invite your team, so anyone can submit requests and track their progress. View work progress on staging server.
+      Most disabilities are invisible. Most mobility problems people face don't involve wheelchairs. Barriers to participation or great experiences include
+
 
   - title: People with disabilities don’t spend
     content: |-
@@ -155,63 +164,27 @@ blocks:
   color: dark # light dark muted
   superheading:
   heading: <span style="color:#493654">People with access needs and disabilities</span>
-    <span style="color:#8FC8B5" title="Tooltip here">stay longer<sup>1</sup></span><span style="color:#493654">,</span> <span style="color:#DE4B37">travel with more people<sup>2</sup></span> <span style="color:#493654">and they’re <span style="color:#9FCBE9">very loyal<sup>3</sup>.</span>
+    <span style="color:#8FC8B5" title="Tooltip here">stay longer<sup>1</sup></span><span style="color:#493654">,</span> <span style="color:#1d2838">travel with more people<sup>2</sup></span> <span style="color:#493654">and they’re <span style="color:#9FCBE9">very loyal<sup>3</sup>.</span>
     <br>
-    <span style="color:#493654; margin-top:2rem; display:inline-block">In short, they’re</span> <span style="color:#7A6730">fantastic customers.</span>
+    <span style="color:#493654; margin-top:2rem; display:inline-block">In short, they’re</span> <span style="color:#7A6730">fantastic customers.</span><br>
+    <span style="color:#DE4B37; margin-top:2rem; display:inline-block;">But they’re not getting what they need to travel well.</span>
   subheading:
   link:
     text:
     url:
-  subtext: 1.Open Doors Organization, 2020  2.Open Doors Organization, 2020  3.Open Doors Organization, 2020  
+  subtext: 1 - According to the Austrade report on Accessible Travel. 2 - People with access need travel with family members, friends and sometimes support workers. Travel parties consist of an average 3.2 people. 3 – Once disabled travellers something they like that suits their needs, they return. They're 50% more loyal according to Kantar Futures.  
 
 
 
-
-- block: images
-  columns: 2
-  background:  "#EFEFEF"
-  padding: bottom top
-  container: big
-  images:
-  - image: https://via.placeholder.com/1000x600/666666
-    alt: Lorem
-  - image: https://via.placeholder.com/1000x600/666666
-    alt: Lorem
-
-
-- block: cards
-  background:  "#EFEFEF"
-  color: dark # light dark muted
-  padding: bottom
-  cards:
-  - heading: go NYC
-    text: The official guide to New York City is a great example of how an *'access hub'* can be intergrated into a visitor site.
-    link:
-      text: Take a look at this great example
-      url: "https://www.nycgo.com/plan-your-trip/basic-information/accessibility/"
-  - heading: Tropical North Queensland
-    text: The website accessibility page has a range of accessible activities and itineraries, alongside support connections and accomodation options.
-    link:
-      text: See the FNQ example  
-      url: "https://www.tropicalnorthqueensland.org.au/plan-your-trip/accessible-travel/"
-  - heading: Hotel Brooklyn
-    text: A world-class access hub for visitors to this Manchester Hotel. Containing access galleries, Transport resources, virtual tours, video, an accessibilty statement and more.
-    link:
-      text: See this Hotels' excellent example
-      url: "https://hotelbrooklynmcr.co.uk/accessibility/"
-
-
-- block: resources
-  background: "#D6D6CE"
 
 - block: cta
   background:  "#253148"
   color: light # light dark muted
-  heading: Contact us to find out more about how to communicate your access
-  text: Lorem ipsum dolor sit amet, consectetuer adipiscing elitiam.
+  heading: Ready to help customers visit better? Ready to increase visitation with better access?
+  text: Contact us for a chat today
   button:
     style: mint # whale mint sand
     text: Get in touch
-    url: "#"
+    url: "contact"
 
 ---
