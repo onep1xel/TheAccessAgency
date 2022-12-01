@@ -42,7 +42,7 @@ blocks:
         <button type="submit">Send</button>
       
       </form>
-
+      
 - block: cta
   background:  "#8fc8b5"
   color: dark # light dark muted
