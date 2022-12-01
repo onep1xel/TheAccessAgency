@@ -1,6 +1,6 @@
 ---
 title: Marketing Accessibility
-image: https://via.placeholder.com/1000x600/666666
+image: images/post-bgs/test-post-bg.jpg
 summary: check out our video on marketing accessibility
 date: 2022-05-12
 categories:
