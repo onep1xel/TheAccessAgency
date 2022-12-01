@@ -33,7 +33,7 @@ blocks:
     subtext:
     color: # dark light muted
     background: ""
-    image: /images/bgs/bg-army-wheelchair.jpg
+    image: /images/tile-1.jpg
 
   - heading: 40%+
     text: of baby boomers will be retiring with some form of disability
@@ -61,7 +61,7 @@ blocks:
     subtext:
     color: # dark light muted
     background: ""
-    image: /images/bgs/bg-plum-Braille.jpg
+    image: /images/tile-5.jpg
 
   - heading: $3.3b
     text: The overall tourism expenditure of people with disability in Australia
