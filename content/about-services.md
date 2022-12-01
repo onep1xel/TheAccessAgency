@@ -13,8 +13,6 @@ blocks:
   heading: Services + About Us
   text: Helping you promote and create more inclusive visitor experiences.
 
-
-
 - block: cards
   background:  "#373838"
   color: light # light dark muted
