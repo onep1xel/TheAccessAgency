@@ -77,6 +77,30 @@ hr {
 Add the correct text decoration in Chrome, Edge, and Safari.
 */
 
+
+
+a.markdown-btn {
+  font-size: inherit;
+  font-family: degular;
+  color: #ffffff;
+  backgrounD-color: #253148;
+  border-radius: $border-radius;
+  text-align: center;
+  padding: 5px 1em 7px 1em;
+  text-decoration: none;
+  border: none;
+  cursor: pointer;
+
+  &:hover,
+  &:active {
+    text-decoration: none;
+    background-color: #9fcbe9;
+    color: #ff0000;
+  }
+}
+
+
+
 abbr:where([title]) {
   -webkit-text-decoration: underline dotted;
           text-decoration: underline dotted;

@@ -7,10 +7,10 @@ date: 2022-05-12
 featured: true
 categories:
 - articles
-
 download:
   text: Download checklist (94kb, PDF)
   url: "#"
+
 blocks:
 - block: cta
   background:  "#253148"

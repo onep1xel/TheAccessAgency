@@ -7,6 +7,9 @@ image:
 navbar:
   background: "#1d2838"
   color: light # dark light (default light)
+download:
+  text: Download checklist (94kb, PDF)
+  url: "#"
 blocks:
 - block: header
   background:  "#253148"
@@ -32,8 +35,8 @@ blocks:
         </form>
 
 - block: code
-  background:  "#EFEFEF"
-  padding: bottom
+  background:  "#dedede"
+  padding: bottom top
   content: |-
       <form action="{https://getform.io/f/1512ba6c-05c0-40ee-9b67-eb3e78da2878}" method="POST">
 
@@ -44,6 +47,12 @@ blocks:
       <input type="hidden" name="_gotcha" style="display:none !important">
       <button type="submit">Send</button>
       </form>
+
+      <p>
+      <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+      <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+      <a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/the-access-agency/initial-consult'});return false;">Schedule a free 15 minute chat with Calendly</a>
+
 
 
 - block: code

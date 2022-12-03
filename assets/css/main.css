@@ -42,6 +42,29 @@ font-display:auto;font-style:normal;font-weight:800;font-stretch:normal;
   }
 }
 
+
+a.markdown-btn {
+  font-size: inherit;
+  font-family: inherit;
+  color: var(--font-color);
+  background-color: var(--md-bg-color-dark);
+  border-radius: $border-radius;
+  text-align: center;
+  padding: 5px 1em 5px 1em;
+  text-decoration: none;
+  border: none;
+  cursor: pointer;
+
+  &:hover,
+  &:active {
+    text-decoration: none;
+    background-color: var(--primary-color);
+    color: var(--bg-color);
+  }
+}
+
+
+
 .swiper-pagination-bullet {
   @apply bg-sand-regular !important;
 }
