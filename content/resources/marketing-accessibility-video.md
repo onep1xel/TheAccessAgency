@@ -1,7 +1,7 @@
 ---
-title: Marketing Accessibility
+title: Marketing Inclusion Video (AITCAP)
 image: images/post-bgs/test-post-bg.jpg
-summary: check out our video on marketing accessibility
+summary: At The Accessible and Inclusive Tourism Conference (AITCAP) I spoke about utilising accessibiity informatiuon in the marekting mix. You can watch it there.
 date: 2022-05-12
 categories:
 - resources
