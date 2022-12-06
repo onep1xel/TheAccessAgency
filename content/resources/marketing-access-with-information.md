@@ -40,6 +40,8 @@ And remember, customers with access needs want to travel independently where the
 
 ![Lorem](https://dummyimage.com/1200x600/ccc/ccc)
 
+{{< figure src="/images/logo.svg" title="image caption" alt="Loren" width="300" attr="somewhere altribution text">}}
+
 So where to start – and how to do it? Information about the physical environment is incredibly important.
 
 Photos are good, videos are great, and in some cases measurements will be crucial. Virtual video tours, allowing prospective visitors to imagine themselves at your destination, can be as valuable for someone who uses a walker as they are for someone with autism.
