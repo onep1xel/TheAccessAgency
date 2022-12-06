@@ -88,7 +88,7 @@ blocks:
 
     Facebook, Instagram, Tic-toc are all great platforms to talk about access. On one hand, that's where your audience are when they're looking to be inspired. **That spark, that flash when a visitor decides to shop for travel – for some, that can comes from video or imagery showing accessibility.**
 
-    We did a specific social take over for the day of Dylan Alcott's AbilityFest take a look
+    We did a specific social take over for the day of Dylan Alcott's [AbilityFest](/work/abilityfest/) take a look
 
 
 - block: cta

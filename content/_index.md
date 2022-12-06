@@ -23,7 +23,7 @@ blocks:
   color: dark # light dark muted
   superheading:
   heading: Provide better access & <br>great information to draw more customers.
-  subheading: We’re award-winning creative communicators, qualified access consultants and disabled travellers.
+  subheading: We develop content, provide expert advice and guide operators towards better visitor access and inclusion.
   link:
     text: Want better access + more customers?
     url: "/about-services/"
@@ -57,28 +57,26 @@ blocks:
   color: muted # light dark muted
   heading: Clients we’ve worked with
   logos:
-  - image: https://via.placeholder.com/200x70/333333
+  - image: /images/logos/logo-Visit-Victoria.png
     alt: Lorem
-  - image: https://via.placeholder.com/200x70/333333
+  - image: /images/logos/logo-City-of-Melbourne.png
     alt: Lorem
-  - image: https://via.placeholder.com/200x70/333333
+  - image: /images/logos/logo-Parks-Victoria.png
     alt: Lorem
-  - image: https://via.placeholder.com/200x70/333333
+  - image: /images/logos/logo-Aust-Red-Cross.png
     alt: Lorem  
-  - image: https://via.placeholder.com/200x70/333333
+  - image: /images/logos/logo-Sovereign-Hill.png
     alt: Lorem
-  - image: https://via.placeholder.com/200x70/333333
+  - image: /images/logos/logo-Mornington-Peninsula-Shire.png
     alt: Lorem
 
 - block: author
   background:  "#686867"
   color: light # light dark muted
   padding: both # top bottom both (default)
-  image: /images/ryan.jpg
+  image: /images/Ryan.png
   heading: Ryan Smith
-  text: Duis autem vel eum iriure dolor in hendrerit in vulputate velit
-    esse molestie consequat, vel illum dolore eu feugiat nulla facilisis
-    at vero eros et accumsan et.
+  text: Founder Ryan Smith has 20+ years in design and strategic communications and is a qualified access consultant.
   link:
     text: Find out more
     url: "/about-services#about-ryan"
@@ -86,42 +84,12 @@ blocks:
 - block: cta
   background:  "#253148"
   color: light # light dark muted
-  heading: Contact us to find out more about how to communicate your access
-  text: Lorem ipsum dolor sit amet, consectetuer adipiscing elitiam.
+  heading: We provide expert guidance, develop visitor materials and consult on access.
+  text: Let’s talk about reaching this $10B visitor segment.
   button:
     style: mint # whale mint sand
     text: Get in touch
-    url: "#"
+    url: "/contact"
 
-faq:
-  heading: FAQs
-  faqs:
-  - title: How does it work?
-    content: |-
-      Everything is completely async, no time is wasted in meetings. Manage your project design and development queue using Trello. Share your design files, Google docs, wireframes, or videos directly in the Trello cards. View active, queued, and completed tasks with ease. Invite your team, so anyone can submit requests and track their progress. View work progress on staging server.
-
-  - title: How fast will my project be completed?
-    content: |-
-      On average, most are completed:
-
-      - Essential package: 10 working days or less
-      - Standard package: 20 working days or less
-      - Premium package: 25 working days or less
-
-  - title: What tech stack do you use?
-    content: |-
-      Tailwind CSS, Alpine.js, Hugo, Jekyll, Forestry CMS, Netlify, Vercel, GitHub.
-
-  - title: Who are the designers and developers?
-    content: |-
-      TailStack is an agency of one, which means you'll work directly with me, the founder of TailStack.
-
-  - title: What if I don't like the design?
-    content: |-
-      No worries! We'll continue to revise the design until you're 100% satisfied.
-
-  - title: Are there any refunds if I don't like the service?
-    content: |-
-      Due to the high-quality nature of the work, there will be no refunds issued.
 
 ---

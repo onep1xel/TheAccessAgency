@@ -11,7 +11,7 @@ blocks:
   type: video # image video slider
   image: /images/hero.jpg
   alt: Lorem Ipsum
-  video: https://assets.mixkit.co/videos/preview/mixkit-set-of-plateaus-seen-from-the-heights-in-a-sunset-26070-large.mp4
+  video: /video/MornPen-web-clip.mp4
   slides:
   - https://via.placeholder.com/1500x600/333333
   - https://via.placeholder.com/1500x600/333333

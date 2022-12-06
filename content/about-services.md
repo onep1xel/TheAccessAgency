@@ -10,7 +10,7 @@ blocks:
 - block: header
   background:  "#253148"
   color: light # light dark muted
-  heading: Services + About Us
+  heading: About Us + Services
   text: Helping you promote and create more inclusive visitor experiences.
 
 - block: cards
@@ -53,12 +53,12 @@ blocks:
 
     ### Strategic Communication Design
 
-    Providing on-brand, inspiring and informative materials is the key to better visitation. Aligning expectations, enhancing good-will and
+    Providing on-brand, inspiring and informative materials, we inspire better visitation. Aligning expectations, enhancing good-will and
 
     - Custom access marketing and messaging
     - ‘Our Access’ webpage content and design
     - Region accessible itineraries (Inclusive Itineraries)
-    - Map design and wayfinding
+    - Map design and way-finding
     - Video design and production
     - Digital design and artwork (custom icon sets, language style guides, )
     - Storytelling and Campaign Design
@@ -82,12 +82,9 @@ blocks:
     Ryan is a creative director, an avid traveller, and wheelchair user.
     He started writing about access in tourism in 2018 through his blog [***Freewheel Weekends***](http://www.freewheelweekends.com.au "Visit Freewheel Weekends").
 
-    His design career has spanned 25 years working as a designer and communication consultant for Ford, Australia Post, Jetstar, and many other organisations.
+    His design career has spanned 25 years working as a designer and communication consultant for Qantas, STA Travel, TFE Hotels, Jetstar, Visit Ballarat, Virgin Australia,  and many other organisations.
     As a qualified access consultant, he understands and advocates for universal access and as a designer he loves to create innovative, elegant solutions.
     He also makes a mean café late and is fond of birds.
-
-
-    Our roster of professionals in communications strategy, marketing, design, videography are available to provide insight and advice.
 
 
 - block: images

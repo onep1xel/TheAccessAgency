@@ -80,6 +80,18 @@ blocks:
     ilisi.
 
 
+- block: media
+  type: slider # image video slider
+  image: /images/hero.jpg
+  alt: Parks Victoria
+  video: /video/website-video_final.mp4
+  slides:
+  - /images/work/Visit-Victoria-carousel-01.jpg
+  - /images/work/Visit-Victoria-carousel-02.jpg
+  - /images/work/Visit-Victoria-carousel-03.jpg
+  - /images/work/Visit-Victoria-carousel-04.jpg
+  - /images/work/Visit-Victoria-carousel-05.jpg
+
 - block: quote
   background:  "#9fcbe9"
   color: dark # light dark muted
