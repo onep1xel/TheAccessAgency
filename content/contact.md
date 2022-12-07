@@ -31,20 +31,22 @@ blocks:
       <form action="https://getform.io/f/1512ba6c-05c0-40ee-9b67-eb3e78da2878" method="POST">
 
       <label for="first_name">Enter your first name</br>
-      <input type="text" name="first_name" placeholder="First name" size="45" class="contact-text-input"></label></p>
+      <input type="text" name="first_name" placeholder="First name" size="45" class="contact-text-input" required="required"></label></p>
 
       <label for="last_name">..and your last name</br>
-      <input type="text" name="last_name" placeholder="Last name" size="45" class="contact-text-input"></label></p>
+      <input type="text" name="last_name" placeholder="Last name" size="45" class="contact-text-input" required="required"></label></p>
 
       <label for="email">Enter your email</br>
-      <input type="email" name="email" placeholder="yourname@youremail.com" size="45" class="contact-text-input"></label></p>
+      <input type="email" name="email" placeholder="yourname@youremail.com" size="45" class="contact-text-input" required="required"></label></p>
 
 
-      <!-- add hidden Honeypot input to prevent spams -->
+      <!-- add hidden Honeypot input to prevent spams and CAPTCHA -->
       <input type="hidden" name="_gotcha" style="display:none !important">
+      <input type="hidden" id="captchaResponse" name="g-recaptcha-response">
+
 
       <label for="text-area">Tell us about your journey to better access:</br>
-      <textarea name="comment" rows="4" cols="45" placeholder="Describe your project and how better access and information can help..." class="contact-text-input"></textarea><br>
+      <textarea name="comment" rows="7" cols="45" placeholder="Describe your project and how better access and information can help..." class="contact-text-input" required="required"></textarea><br>
 
       <!-- select field handle -->
 
@@ -54,8 +56,21 @@ blocks:
           <option value="afternoon">Afternoon</option>
       </select><p>
 
-      <button type="submit" class="button2">Send</button>
+      <button type="submit" class="button2"
+      data-sitekey="reCAPTCHA_site_key"
+      data-callback='onSubmit'
+      data-action='submit'>Send</button>
+
       </form>
+      <script>
+         grecaptcha.ready(function() {
+             grecaptcha.execute('6Le1Ql8jAAAAAM3Ldvn_-H6vrvniv2FgMKuESv3g', {action: 'http://www.theaccessagency.com.au'})
+             .then(function(token) {
+               document.getElementById('captchaResponse').value = token;
+             });
+           });
+      </script>
+
 
       <p>
       <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">

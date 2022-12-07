@@ -49,7 +49,7 @@
 {{ if eq .Section "blog" }}
 
 <!-- Pagination meta tags for list pages only -->
-{{ $paginator := .Paginate (where .Pages "Section" "blog") }} 
+{{ $paginator := .Paginate (where .Pages "Section" "blog") }}
 {{ if $paginator }}
   <link rel="first" href="{{ $paginator.First.URL }}" />
   <link rel="last" href="{{ $paginator.Last.URL }}" />
@@ -151,3 +151,13 @@
 
 <script defer src="https://unpkg.com/@alpinejs/collapse@3.x.x/dist/cdn.min.js"></script>
 <script defer src="https://unpkg.com/alpinejs@3.x.x/dist/cdn.min.js"></script>
+<script src="https://www.google.com/recaptcha/api.js?render=reCAPTCHA_site_key"></script>
+
+<script>
+   grecaptcha.ready(function() {
+       grecaptcha.execute('6Le1Ql8jAAAAAM3Ldvn_-H6vrvniv2FgMKuESv3g', {action: 'http://www.theaccessagency.com.au'})
+       .then(function(token) {
+         document.getElementById('captchaResponse').value = token;
+       });
+     });
+</script>
