@@ -1,9 +1,9 @@
 ---
 layout: blocks
-title: Access, Design and Communication – The Access Agency
+title: About Us and Our Services
 url: "about-services"
-description: Better access and inclusion mean better business
-image: https://via.placeholder.com/1000x600/666666
+description: Better access and inclusion means better business
+image: /images/TheAccessAgency_thumbnail.png
 navbar:
   background: "#1d2838"
 blocks:

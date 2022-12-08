@@ -1,9 +1,9 @@
 ---
 layout: blocks
-title: Lorem ipsum is placeholder text commonly used
+title: Mornington Peninsula Shire - Grants for Better Accessibility
 url: ""
 description:
-image:
+image: /images/TheAccessAgency_thumbnail.png
 navbar:
   background: "#181818"
 blocks:
@@ -20,7 +20,7 @@ blocks:
 - block: header
   background:  "#253148"
   color: light # light dark muted
-  heading: Mornington Peninsula Shire - Funding for Better Access   
+  heading: Mornington Peninsula Shire - Grants for Better Accessibility   
   text: What does access mean to small and medium businesses and how can you encourage more of it?
 
 - block: text

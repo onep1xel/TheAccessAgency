@@ -1,9 +1,9 @@
 ---
 layout: blocks
-title: Lorem ipsum is placeholder text commonly used
+title: Design, Access and Communications
 url: ""
 description:
-image:
+image: /images/TheAccessAgency_thumbnail.png
 navbar:
   background: "#262626"
   color: light # dark light (default light)

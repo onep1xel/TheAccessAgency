@@ -2,7 +2,7 @@ baseURL: "https://beta.theaccessagency.com.au/"
 languageCode: "en-us"
 title: "The Access Agency"
 
-copyright: "2022 Copyright Terms and Conditions"
+copyright: "© Copyright 2022 | The Access Agency"
 
 enableEmoji: true
 enableGitInfo: true
@@ -83,18 +83,19 @@ menu:
     weight: 80
 
 params:
-  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+  description: "The Access Agency – Design, Access and Communications"
   logo_light: "/images/logo-light.svg"
   logo_dark: "/images/logo-dark.svg"
   logo_footer: "/images/logo-mark.svg"
-  author: "OfficeGeek"
+  author: "elHefe"
   github: "#"
-  ogimage: "/images/og.png"
-  sitename: "OfficeGeek"
+  ogimage: "/images/TheAccessAgency_thumbnail.png"
+  sitename: "TheAccessAgency"
   twitter: "#"
-  email: support@workcation.com
-  phone: +1 555 123-4567
-  address: Long street 24, London E16GH, United Kingdom
+  email: hello@theaccessagency.com.au
+  phone: "#"
+  address: Albert Park, Melbourne, Australia
   footer_text: |-
     The Access Agency acknowledges and pays respect to the past, present and future Traditional Custodians and Elders of this nation. We live and work on Wurundjeri and Woiwurrung land and acknowledge the continuation of cultural, spiritual and educational practices of Aboriginal and Torres Strait Islander peoples.
-    We're continually working to make our website more accessible, if you have any complaints or comments please send them through to [hello[at]theaccessagency.com.au.](mailto:hello@theaccessagency.com.au) 
+
+    We're continually working to make our website more accessible, if you have any complaints or comments please send them through to [hello[at]theaccessagency.com.au.](mailto:hello@theaccessagency.com.au)

@@ -1,9 +1,9 @@
 ---
 layout: blocks
-title: Lorem ipsum is placeholder text commonly used
+title: Accessible Dining in Melbourne Video
 url: ""
 description:
-image:
+image: /images/TheAccessAgency_thumbnail.png
 navbar:
   background: "#181818"
 blocks:
@@ -20,7 +20,7 @@ blocks:
 - block: header
   background:  "#253148"
   color: light # light dark muted
-  heading: Accessible Dining in Melbourne
+  heading: Accessible Dining in Melbourne Video
   text: Drawing visitors back, with confindence through access.
 
 

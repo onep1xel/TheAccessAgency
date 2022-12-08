@@ -1,9 +1,9 @@
 ---
 layout: blocks
-title: Lorem ipsum is placeholder text commonly used
+title: Ability Fest - Social Media Video Takeover
 url: ""
 description:
-image:
+image: /images/TheAccessAgency_thumbnail.png
 navbar:
   background: "#1d2838"
 blocks:
@@ -20,7 +20,7 @@ blocks:
 - block: header
   background:  "#253148"
   color: light # light dark muted
-  heading: Ability Fest Social Takeover
+  heading: Ability Fest - Social Media Video Takeover
   text: Showcasing Australias' only purpose-made accessible music festival.
 
 - block: text

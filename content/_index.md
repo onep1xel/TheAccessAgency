@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: The Access Agency - Strategic Design for Universal Access in Tourism
+title: The Access Agency - Design, Access and Communications
 url: ""
 description:
 image:

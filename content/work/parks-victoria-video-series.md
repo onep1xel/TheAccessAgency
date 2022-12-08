@@ -1,9 +1,9 @@
 ---
 layout: blocks
-title: Lorem ipsum is placeholder text commonly used
+title: ‘All Abilities Access’ Video Series - Parks Victoria
 url: ""
 description:
-image:
+image: /images/TheAccessAgency_thumbnail.png
 navbar:
   background: "#1d2838"
 blocks:
