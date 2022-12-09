@@ -20,25 +20,23 @@ blocks:
 - block: header
   background:  "#253148"
   color: light # light dark muted
-  heading: Ability Fest - Social Media Video Takeover
-  text: Showcasing Australias' only purpose-made accessible music festival.
+  heading: Marketing Inclusion - Communicating Access for Marketing
+  text: Presenting for the Visit Victoria program, Marketing Excellence.
 
 - block: text
   background:  "#E8E8E8"
   content: |-
-    #### Challenge
+    #### Heading
 
-    How does a Tourism organisation talk about access and inclusion at an event in a way that is authentic, energised and broad reaching? They commission someone with a disability to cover it.
+    We were honoured to be engaged by Visit Victoria to talk about accessible tourism as part of their Marketing Excellence program, a 4-day workshop for best-in-class operators.
 
-    #### Process
+    Designed to identify outstanding product offerings in Victoria – the program ensures operators have the tools and capability to excel in their communication to consumers. The goal is to empower them to deliver an exceptional experience throughout the visitor’s journey with them.
 
-    Visit Victoria/Visit Melbourne contacted The Access Agency to cover AbilityFest for their social media. AbilityFest - organised by the Dylan Alcott Foundation and untitled group – is Australia’s first and only completely accessible outdoor festival music festival. Ryan spoke with Dylan, volunteers and attendees at the festival conveying the excitement, scale and philosophy of the Event.
+    Ryan spoke at the two sessions in 2022 – sharing insights, impact and getting started in accessible and inclusive tourism. Statistics, revenue and obligations were followed up by international and local examples and getting started in the practise.
 
-    {{< button relref="http://www.theaccessagency.com.au/" >}}Get Home{{< /button >}}
 
-    #### Result
+    *#Access #Inclusion #AccessibelTourismGuidance #MarketingAccessibility*
 
-    A video sequence was edited down to 14 stories that captured the day – from anticipation, to the practical accessibility through to the late night climax and fireworks. The piece also showcased other live music options throughout Melbourne – providing options all year round for those with access needs.
 
 - block: button
   background:  "#E8E8E8"
@@ -67,17 +65,13 @@ blocks:
 - block: text
   background: "#EFEFEF"
   content: |-
-    ### Why use social media to talk about access?
+    ### Why is internal capacity and confidence building the starting point?
 
-    Ut wisi enim ad minim veniam, quis nostrud exerci tation ullam-
-    corper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
-    Duis autem vel eum iriure dolor in hendrerit in vulputate velit
-    esse molestie consequat, vel illum dolore eu feugiat nulla facilisis
-    at vero eros et accumsan et.
+    Disability in tourism can be a messy topic – it crosses through customer experience, human rights, revenue, building codes, health and safety, human resources, and marketing.
 
-    Iusto odio dignissim qui blandit prae-
-    sent luptatum zzril delenit augue duis dolore te feugait nulla fac-
-    ilisi.
+    Which is why the best place to start is with internal training and awareness.
+    Not a dull, mountain of slides but real-life experiences shared to illustrate key factors.
+    Our presentations are delivered by a person with a disability who understands how to make the complex simple and provide valuable tools and insights to take away.
 
 
 - block: media

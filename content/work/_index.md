@@ -15,12 +15,12 @@ blocks:
   color: dark # light dark muted
   layout: horizontal # horizontal vertical
   offset: 26% # for horizontal layout set top spacing for text column in percentages eg 25%
-  image: https://via.placeholder.com/700x700/666666
+  image: images/work/thumbnail-Parks-700x700.png
   youtube: #5gqEJT1lxgk
   vimeo: #613481548
   superheading: Parks Victoria
   heading: All Abilities Video Series
-  text: Ten parks, ten videos and an *infinite* way to enjoy the parks of victoria.
+  text: Twelve Apostles, Wilsons Prom, The Grampians and more – Ten iconic Victorian Parks visited and showcased through the eyes of a visitors with reduced mobility.
   link:
     style: mint # whale mint sand
     text: See the project
@@ -29,14 +29,14 @@ blocks:
 - block: work
   background:  "#253148"
   color: light # light dark muted
-  layout: vertical # horizontal vertical
+  layout: horizontal # horizontal vertical
   offset: 26% # for horizontal layout set top spacing for text column in percentages eg 25%
-  image: https://via.placeholder.com/400x400/666666
+  image: images/work/thumbnail-CoM-700x700.png
   youtube: #5gqEJT1lxgk
   vimeo: #613481548
   superheading: City of Melbourne
   heading: Accessible Dining Video
-  text: We provide access audits, create communications and help operators  meet more visitors.
+  text: Bringing people together to dine and drink in the city – showcasing options for all budgets, all tastes, and all abilities.
   link:
     style: mint # whale mint sand
     text: Take a look at the project
@@ -44,11 +44,11 @@ blocks:
 
 
 - block: work
-  background:  "#ffffff"
+  background:  "#EFEEEF"
   color: dark # light dark muted
   layout: horizontal # horizontal vertical
   offset: 26% # for horizontal layout set top spacing for text column in percentages eg 25%
-  image: https://via.placeholder.com/700x700/666666
+  image: images/work/thumbnail-work_Morn_pen-700x700.jpg
   youtube: #5gqEJT1lxgk
   vimeo: #771124484
   superheading: Mornington Peninsula
@@ -57,26 +57,57 @@ blocks:
   link:
     style: whale # whale mint sand
     text: Take a look at the project
-    url: "work/mornington-peninsula-access-funding"
+    url: "work/mornington-peninsula-grants-for-accessibility"
+
+
+- block: work
+  background:  "#253148"
+  color: light # light dark muted
+  layout: horizontal # horizontal vertical
+  offset: 26% # for horizontal layout set top spacing for text column in percentages eg 25%
+  image: https://via.placeholder.com/700x700/666666
+  youtube: #5gqEJT1lxgk
+  vimeo: #771124484
+  superheading: Visit Victoria
+  heading: Ability Fest Social Takeover
+  text: We provide access audits, create communications and help operators  meet more visitors.
+  link:
+    style: mint # whale mint sand
+    text: Take a look at the project
+    url: "work/ability-fest"
 
 
 - block: work
   background:  "#EFEEEF"
   color: dark # light dark muted
-  layout: vertical # horizontal vertical
+  layout: horizontal # horizontal vertical
   offset: 26% # for horizontal layout set top spacing for text column in percentages eg 25%
-  image: https://via.placeholder.com/400x400/666666
+  image: images/work/thumbnail-work_Morn_pen-700x700.jpg
+  youtube: #5gqEJT1lxgk
+  vimeo: #771124484
+  superheading: Get Skilled Access
+  heading: Accessible Content Guidelines
+  text: We created the go-to guide for state government and tourism operators in Queensland. Working with Get Skilled Access on the Accessibe Tourism Project.
+  link:
+    style: whale # whale mint sand
+    text: Take a look at the project
+    url: "work/accessible-content-guidelines"
+
+- block: work
+  background:  "#253148"
+  color: light # light dark muted
+  layout: horizontal # horizontal vertical
+  offset: 26% # for horizontal layout set top spacing for text column in percentages eg 25%
+  image: https://via.placeholder.com/700x700/666666
   youtube: #5gqEJT1lxgk
   vimeo: #771124484
   superheading: Visit Victoria
-  heading: AbilityFest Social Takeover
+  heading: Marketing Excellence Sessions
   text: We provide access audits, create communications and help operators  meet more visitors.
   link:
     style: mint # whale mint sand
     text: Take a look at the project
-    url: "work/abilityfest"
-
-
+    url: "work/visit-victoria-marketing-excellence"
 
 
 - block: logos

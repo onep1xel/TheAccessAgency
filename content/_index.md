@@ -1,9 +1,9 @@
 ---
 layout: blocks
-title: The Access Agency - Design, Access and Communications
+title: Design, Access and Communications
 url: ""
 description:
-image:
+image: /images/TheAccessAgency_thumbnail.png
 navbar:
   background: "#181818"
 blocks:
@@ -84,7 +84,7 @@ blocks:
 - block: cta
   background:  "#253148"
   color: light # light dark muted
-  heading: We provide expert guidance, develop visitor materials and consult on access.
+  heading: Expert guidance, accesible visitor materials and access consulting.
   text: Let’s talk about reaching this $10B visitor segment.
   button:
     style: mint # whale mint sand

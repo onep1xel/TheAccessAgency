@@ -24,31 +24,23 @@ blocks:
   text: Encouraging participation in our parks.
 
 
-
 - block: text
   background:  "#E8E8E8"
   content: |-
+    Victorian Parks are for everyone.
+    They’re beautiful, regenerative and should be easy for everyone to visit. The problem is, most people don’t know what to expect if they have access needs. Why should we visit? How’s the surfaces? Are there allocated car parks and toilets?
 
-    ## Victorian Parks are for everyone.
-    ## They’re beautiful, regenerative and should be easy for everyone to visit.
-    ## The problem is, most people don’t know what to expect if they have access needs.
-    ## Why should we visit? How’s the surfaces? Are there allocated car parks and toilets?
-
-    #
-    ##
-
-    ##### Process
-
-    We worked with John Kenwright in the Access team and Nick Esser in Marketing along with staff and rangers to understand the history and uniqueness of each park.
+    We worked with John Kenwright in the Access team at [Parks Victoria](https://www.parks.vic.gov.au) and Nick Esser in Marketing along with staff and rangers to understand the history and uniqueness of each park.
     Inviting friends from the disabled community and family to join the filming, the job was then to co-ordinate and produce the work. We wrote scripts, planned visits and filmed across a 6-month period through COVID lock downs.
-
-
-    ##### Result
 
     The first video was released on *‘International Wheelchair Day’* in March 2021 and within three days had reached 2,000+ people.
     Three months later it had reached 10K views. Moreover, the first video was shared widely between friends, family and people with reduced mobility - those who benefit the most are getting the information they need to plan and visit parks with confidence.
 
+    The series was featured during a presentation for the UNWTO and ENAT.
+
     The series paved the way as a pilot with plans to develop similar content showcasing other disabilities in other parks.
+
+    *#AcccessibleTourism   #ParksForAll   #AccessibleParks*
 
 
 - block: images

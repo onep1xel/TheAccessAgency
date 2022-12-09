@@ -4,8 +4,10 @@ title: Design, Access and Communications
 url: ""
 description:
 image: /images/TheAccessAgency_thumbnail.png
+
 navbar:
   background: "#181818"
+
 blocks:
 - block: header
   background:  "#262626"
@@ -37,8 +39,11 @@ blocks:
 
 
 
+
+
+
 - block: text
-  background:  "#EFEFEF"
+  background:  "#E8E8E8"
   content: |-
     ## Helping you build and promote more inclusive visitor experiences.
     #### Understanding the now
@@ -55,15 +60,26 @@ blocks:
 
     Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in.
 
+
+- block: button
+  background:  "#E8E8E8"
+  padding: bottom
+  color: dark # light dark muted
+  button:
+    style: whale # whale mint sand
+    text: Get in touch
+    url: http://www.theaccessagency.com.au
+
+
 - block: video
-  background:  "#EFEFEF"
+  background:  "#E8E8E8"
   padding: bottom
   youtube: 5gqEJT1lxgk
   vimeo: #771124484
 
 - block: images
   columns: 2
-  background:  "#EFEFEF"
+  background:  "#E8E8E8"
   padding: bottom
   images:
   - image: https://via.placeholder.com/1000x600/666666
@@ -77,6 +93,9 @@ blocks:
   padding: both
   quote: I’ve done a lot of Instagram Stories, but this one has to be my favourite ...and if you’re interested in accessible tourism content creation, Ryan Smith is your guy
   author: Nicole Cashman, Social & Digital Media, Visit Victoria
+
+
+
 
 - block: images
   columns: 1
