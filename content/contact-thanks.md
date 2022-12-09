@@ -1,12 +1,12 @@
 ---
 layout: blocks
-title: Thanks for reaching out 
+title: Thanks for reaching out
 url: ""
 description:
 image: /images/TheAccessAgency_thumbnail.png
 navbar:
-  background: "#1d2838"
-  color: light # dark light (default light)
+  background: "#ffffff"
+  color: dark # dark light (default light)
 download:
   text: Download checklist (94kb, PDF)
   url: "#"

@@ -29,15 +29,17 @@ blocks:
   content: |-
     #### Challenge
 
-    How does a Tourism organisation talk about access and inclusion at an event in a way that is authentic, energised and broad reaching? They commission someone with a disability to cover it.
+    The last few years have played havoc with the visitation of Australia’s large cities. Lockdowns have seen residents steer-clear and visitor numbers plummet.
 
-    #### Process
+    The [City of Melbourne](https://melbourne.vic.gov.au) (CoM), through their magazine [***What’s on Melbourne***](https://whatson.melbourne.vic.gov.au) has pushed forward with activation programs, large-scale events and continual messaging through digital channels – drawing people back into the heart of our city.
 
-    Visit Victoria/Visit Melbourne contacted The Access Agency to cover AbilityFest for their social media. AbilityFest - organised by the Dylan Alcott Foundation and untitled group – is Australia’s first and only completely accessible outdoor festival music festival. Ryan spoke with Dylan, volunteers and attendees at the festival conveying the excitement, scale and philosophy of the Event.
+    We approached City of Melbourne with the aim of showcasing accessible experiences for visitors with access needs. Approximately one-quarter of national and international visitors to the CBD are aged 55 years and over[^1] and showcasing accessible dining options to customers of all stripes is a good idea.
 
-    #### Result
+    After some reconosence trips to review access The Access Agency, planned the shoot, storyboarding key elements, sourced talent and wrote the script for the video that showcased the multitude of accessible dining on offer.
 
-    A video sequence was edited down to 14 stories that captured the day – from anticipation, to the practical accessibility through to the late night climax and fireworks. The piece also showcased other live music options throughout Melbourne – providing options all year round for those with access needs.
+    We worked with a talented team that included the CoM Team at [***What’s on Melbourne***](https://whatson.melbourne.vic.gov.au) and their oft used video and photo team. Plus the lovely people with disabilities (* and without) in front of the screen Jay Knight, Emily Dove and Maya Dove.
+
+    [^1]: Melbourne: A Great Place to Age, City Of Melbourne 2020.
 
 
 - block: images

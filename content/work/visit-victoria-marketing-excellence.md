@@ -20,7 +20,7 @@ blocks:
 - block: header
   background:  "#253148"
   color: light # light dark muted
-  heading: Marketing Inclusion - Communicating Access for Marketing
+  heading: Access and Inclusion in the marketing mix
   text: Presenting for the Visit Victoria program, Marketing Excellence.
 
 - block: text

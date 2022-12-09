@@ -21,7 +21,7 @@ blocks:
   background:  "#253148"
   color: light # light dark muted
   heading: Get Skilled Access - Accessible Content Guidelines
-  text: A go-to guide to making content accessible
+  text: A go-to guide for making visitor content inclusive and accessible
 
 - block: text
   background:  "#E8E8E8"

@@ -15,7 +15,7 @@ blocks:
   color: dark # light dark muted
   layout: horizontal # horizontal vertical
   offset: 26% # for horizontal layout set top spacing for text column in percentages eg 25%
-  image: images/work/thumbnail-Parks-700x700.png
+  image: images/work/thumbnail-work_PV-700x700-2.jpg
   youtube: #5gqEJT1lxgk
   vimeo: #613481548
   superheading: Parks Victoria
@@ -31,7 +31,7 @@ blocks:
   color: light # light dark muted
   layout: horizontal # horizontal vertical
   offset: 26% # for horizontal layout set top spacing for text column in percentages eg 25%
-  image: images/work/thumbnail-CoM-700x700.png
+  image: images/work/thumbnail-work_CoM-700x700.jpg
   youtube: #5gqEJT1lxgk
   vimeo: #613481548
   superheading: City of Melbourne
@@ -48,12 +48,12 @@ blocks:
   color: dark # light dark muted
   layout: horizontal # horizontal vertical
   offset: 26% # for horizontal layout set top spacing for text column in percentages eg 25%
-  image: images/work/thumbnail-work_Morn_pen-700x700.jpg
+  image: images/work/thumbnail-work_Morn_pen-700x700-2.jpg
   youtube: #5gqEJT1lxgk
   vimeo: #771124484
   superheading: Mornington Peninsula
   heading: Accessible Tourism Marketing Overview
-  text: We provide access audits, create communications and help operators  meet more visitors.
+  text: Making accessibility a priority, empowering operators and providing funding.
   link:
     style: whale # whale mint sand
     text: Take a look at the project
@@ -65,7 +65,7 @@ blocks:
   color: light # light dark muted
   layout: horizontal # horizontal vertical
   offset: 26% # for horizontal layout set top spacing for text column in percentages eg 25%
-  image: https://via.placeholder.com/700x700/666666
+  image: images/work/thumbnail-work-Ability-Fest-700x700.jpg
   youtube: #5gqEJT1lxgk
   vimeo: #771124484
   superheading: Visit Victoria
@@ -82,7 +82,7 @@ blocks:
   color: dark # light dark muted
   layout: horizontal # horizontal vertical
   offset: 26% # for horizontal layout set top spacing for text column in percentages eg 25%
-  image: images/work/thumbnail-work_Morn_pen-700x700.jpg
+  image: images/work/thumbnail-work_GSA-700x700.jpg
   youtube: #5gqEJT1lxgk
   vimeo: #771124484
   superheading: Get Skilled Access
@@ -98,7 +98,7 @@ blocks:
   color: light # light dark muted
   layout: horizontal # horizontal vertical
   offset: 26% # for horizontal layout set top spacing for text column in percentages eg 25%
-  image: https://via.placeholder.com/700x700/666666
+  image: images/work/thumbnail-work_VV-Excellence-700x700.jpg
   youtube: #5gqEJT1lxgk
   vimeo: #771124484
   superheading: Visit Victoria
@@ -129,11 +129,11 @@ blocks:
 - block: cta
   background:  "#253148"
   color: light # light dark muted
-  heading: Contact us to find out more about how to communicate your access
-  text: Lorem ipsum dolor sit amet, consectetuer adipiscing elitiam.
+  heading: See something you like for your business?
+  text: Get in touch and we can provide better travel for everyone.
   button:
     style: mint # whale mint sand
-    text: See the video series
-    url: "#"
+    text: Go to the Contact page
+    url: "contact"
 
 ---
