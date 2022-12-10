@@ -12,16 +12,38 @@ blocks:
   background:  "#000000"
   color: light # light dark muted
   heading: Freewheel Weekends
-  text: Spotlighting Inclusion and Accessibility at Victorias' premier tourism marketing program
+  text: Vlogs and articles of first-hand travel experiences
 
 
 - block: text
   background:  "#EFEFEF"
   content: |-
 
+        ### Overview & background
+
+        Freewheel Weekends (FWW) is a vlog / guide for travellers with reduced mobility. There are video guides to The Pyramid of Giza, from Jerusalem’s Old City from New Zealand’s Bay of Islands and more.
+        The Directory has listings of Melbourne’s best accessible experiences – from restaurants to museums and galleries.
+
+        FWW started as a diary in 2017 and grew into a useful resource with first-hand guides to some great travel experiences.
+
+- block: video
+  background:  "#EFEFEF"
+  padding: bottom
+  youtube: Wwd6LQrzUfk
+  vimeo: #613481548
+
+- block: video
+  background:  "#EFEFEF"
+  padding: bottom
+  youtube: FwZC_Xe7160
+  vimeo: #613481548
 
 
-        ##### The start of my trip to Berlin was a nightmare.
+- block: text
+  background:  "#EFEFEF"
+  content: |-
+
+        ### The start of my trip to Berlin was a nightmare.
 
         Ten years ago, I was travelling in my wheelchair solo, halfway around the world to the German capital. With 3 weeks annual leave, some savings and a passion for Deutsch design culture, I was more than excited.
 
@@ -32,42 +54,32 @@ blocks:
 
         For the record I had a great time in Berlin, but this is not a unique story. Everyone with access needs has had similar problems.
 
-        ### I started Freewheel Weekends to create the kind of material I look for when I’m planning travel. It’s the questions that aren’t answered by travel sites, that I feature in my reviews and videos.
+        I started Freewheel Weekends to create the kind of material I look for when I’m planning travel. It’s the questions that aren’t answered by travel sites, that I feature in my reviews and videos.
 
-        ### What are the surfaces like? Are the paths steep? Where are the accessible toilets?
+        What are the surfaces like? Are the paths steep? Where are the accessible toilets?
 
-        ![Lorem](https://dummyimage.com/900x400/ccc/ccc)
+        {{< figure src="/images/fww/fww-screen-1.jpg" title="" alt="Freewheel Weekends homepage screen shot" width="800" attr="The Homepage of Freewheel Weekends">}}
+
+        {{< figure src="/images/fww/fww-screen-2.jpg" title="" alt="Freewheel Weekends Features and Stories screen shot" width="800" attr="Freewheel Weekends Features and Stories screen shot">}}
 
         #
         Freewheel Weekends is a passion project and I hope you enjoy it.
         We don’t have sponsors we're not paid for posts and we’re not beholden to advertisers.
 
-        ---
-        #### H4 Something goes here
-        Ut wisi enim ad minim veniam, quis nostrud exerci [the website link](https://www.example.com) tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in.
-
-        Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. 'Ut wisi enim ad minim veniam'[^2], quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in.
-
-        [^2]: Author, "Title of the Article", *This is the title of Publication*, 2010.
-
-        ![Lorem](https://dummyimage.com/1200x600/ccc/ccc)
 
 
-- block: cards
+
+
+
+
+- block: button
   background:  "#EFEFEF"
+  padding: bottom
   color: dark # light dark muted
-  padding: top
-  cards:
-  - heading: 1. Research / audit
-    text: Understanding the now – The journey towards more universal accessibility in tourism means better societal inclusion and increased revenue for operators.
-    link:
-      text:
-      url:
-  - heading: 2. Strategic Design (CX)
-    text: Designing useful materials and increasing accessibility. Design + build materials to bring visitors and increase loyalty. Train and mentor staff in best practice inclusion.
-    link:
-      text:
-      url:
+  button:
+    style: whale # whale mint sand
+    text: Visit Freewheel Weekends
+    url: https://www.freewheelweekends.com.au
 
 
 - block: cta

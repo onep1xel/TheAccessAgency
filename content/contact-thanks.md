@@ -27,6 +27,9 @@ blocks:
         In the meantime, why not check out some of our resouces and articles.
 
 
+- block: resources
+  background: "#D6D6CE"
+
 
 - block: cta
   background:  "#8fc8b5"
