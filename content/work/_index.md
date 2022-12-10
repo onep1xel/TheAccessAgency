@@ -52,11 +52,11 @@ blocks:
   youtube: #5gqEJT1lxgk
   vimeo: #771124484
   superheading: Mornington Peninsula
-  heading: Accessible Tourism Marketing Overview
-  text: Making accessibility a priority, empowering operators and providing funding.
+  heading: Accessibility Grants – Communications and promotions
+  text: Communicating the importance of access to traders and operators to drive grant applications and better visitor experiences.
   link:
     style: whale # whale mint sand
-    text: Take a look at the project
+    text: View the project
     url: "work/mornington-peninsula-grants-for-accessibility"
 
 
@@ -70,7 +70,7 @@ blocks:
   vimeo: #771124484
   superheading: Visit Victoria
   heading: Ability Fest Social Takeover
-  text: We provide access audits, create communications and help operators  meet more visitors.
+  text: Capturing the sound, energy, excitement – and accessibility – at Australia’s premier accessible music festival.
   link:
     style: mint # whale mint sand
     text: Take a look at the project
@@ -103,7 +103,7 @@ blocks:
   vimeo: #771124484
   superheading: Visit Victoria
   heading: Marketing Excellence Sessions
-  text: We provide access audits, create communications and help operators  meet more visitors.
+  text: The modern marketing mix for tourism should include accessibility. We provided sessions to Victoria best operators to show how to get started.
   link:
     style: mint # whale mint sand
     text: Take a look at the project
