@@ -5,8 +5,8 @@ url: ""
 description: Our Passion Project that started everything
 image: /images/TheAccessAgency_thumbnail.png
 navbar:
-  background: "#262626"
-  color: light # dark light (default light)
+  background: "#ffffff"
+  color: dark # dark light (default light)
 blocks:
 - block: header
   background:  "#000000"
@@ -21,10 +21,20 @@ blocks:
 
         ### Overview & background
 
-        Freewheel Weekends (FWW) is a vlog / guide for travellers with reduced mobility. There are video guides to The Pyramid of Giza, from Jerusalem’s Old City from New Zealand’s Bay of Islands and more.
-        The Directory has listings of Melbourne’s best accessible experiences – from restaurants to museums and galleries.
+        [***Freewheel Weekends (FWW)***](https://www.freewheelweekends.com "This is Boostnote's repository") is a website, a vlog, travel guide and directory for travellers with reduced mobility. There are video guides to The Pyramid of Giza, from Jerusalem’s Old City from New Zealand’s Bay of Islands and more. There’s also first-hand accounts of trying new stuff – like indoor climbing or sled hockey.
+        The Directory covers some of Melbourne’s best accessible experiences – from restaurants to museums and galleries.
 
-        FWW started as a diary in 2017 and grew into a useful resource with first-hand guides to some great travel experiences.
+        In 2017 Freewheel Weekends began when I took a year off after finishing at a large tech company. The idea started as a way of recording new experiences and grew into a magazine for people with reduced mobility. Deciding to be editorially independent and not beholden to advertisers meant self-funding but it also meant creative control.
+
+
+- block: button
+  background:  "#EFEFEF"
+  padding: bottom
+  color: dark # light dark muted
+  button:
+    style: whale # whale mint sand
+    text: Visit Freewheel Weekends
+    url: https://www.freewheelweekends.com.au
 
 - block: video
   background:  "#EFEFEF"
@@ -62,34 +72,15 @@ blocks:
 
         {{< figure src="/images/fww/fww-screen-2.jpg" title="" alt="Freewheel Weekends Features and Stories screen shot" width="800" attr="Freewheel Weekends Features and Stories screen shot">}}
 
-        #
-        Freewheel Weekends is a passion project and I hope you enjoy it.
-        We don’t have sponsors we're not paid for posts and we’re not beholden to advertisers.
-
-
-
-
-
-
-
-- block: button
-  background:  "#EFEFEF"
-  padding: bottom
-  color: dark # light dark muted
-  button:
-    style: whale # whale mint sand
-    text: Visit Freewheel Weekends
-    url: https://www.freewheelweekends.com.au
-
 
 - block: cta
   background:  "#8fc8b5"
   color: dark # light dark muted
-  heading: Contact us to find out more about how to communicate your access
-  text: Lorem ipsum dolor sit amet, consectetuer adipiscing elitiam.
+  heading: Contact us
+  text: Shoot us an email or drop a line.
   button:
     style: whale # whale mint sand
-    text: Return to the portfolio
-    url: "#"
+    text: Contact Us
+    url: "contact"
 
 ---

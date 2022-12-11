@@ -94,34 +94,16 @@ a.markdown-btn {
   text-decoration: none;
   border: none;
   cursor: pointer;
-
-  &:hover,
-  &:active {
-    text-decoration: none;
-    background-color: #9fcbe9;
-    color: #ff0000;
-  }
 }
 
-.markdown-btn {
-  font-size: inherit;
-  font-family: degular;
-  color: #ffffff;
-  background-color: #253148;
-  border-radius: $border-radius;
-  text-align: center;
-  padding: 5px 1em 7px 1em;
-  text-decoration: none;
-  border: none;
-  cursor: pointer;
 
-  &:hover,
-  &:active {
+.markdown-btn:hover{
     text-decoration: none;
-    background-color: #9fcbe9;
-    color: #ff0000;
-  }
+    color: #ffffff !important;
+    background-color: #9dc9e6 !important;
 }
+
+
 
 .button2 {
   font-size: inherit;
@@ -153,7 +135,7 @@ RYAN ADD FORM FORMATTING
   font-family: degular, sans-serif;
   font-weight: 100;
   color: #1f1f1f;
-
+  font-size: 1.4rem;
 }
 
 

@@ -31,13 +31,13 @@ blocks:
       <form action="https://getform.io/f/1512ba6c-05c0-40ee-9b67-eb3e78da2878" method="POST">
 
       <label for="first_name">Enter your first name</br>
-      <input type="text" name="first_name" placeholder="First name" size="35" class="contact-text-input" required="required"></label></p>
+      <input type="text" name="first_name" placeholder="First name"  size="35" class="submissionfield w-full p-2.5" required="required" style="font-size:15pt; font-weight:400;" ></label></p>
 
       <label for="last_name">..and your last name</br>
-      <input type="text" name="last_name" placeholder="Last name" size="35" class="contact-text-input" required="required"></label></p>
+      <input type="text" name="last_name" placeholder="Last name" size="35" class="col-75" required="required" style="font-size:15pt; font-weight:Regular;"></label></p>
 
       <label for="email">Enter your email</br>
-      <input type="email" name="email" placeholder="yourname@youremail.com" size="35" class="contact-text-input" required="required"></label></p>
+      <input type="email" name="email" placeholder="yourname@youremail.com" size="35" class="contact-text-input" required="required" style="font-size:15pt; font-weight:400;"></label></p>
 
 
       <!-- add hidden Honeypot input to prevent spams and CAPTCHA -->
@@ -46,7 +46,7 @@ blocks:
 
 
       <label for="text-area">Tell us about your journey to better access:</br>
-      <textarea name="comment" rows="7" cols="45" placeholder="Describe your project and how better access and information can help..." class="contact-text-input" required="required"></textarea><p>
+      <textarea name="comment" rows="7" cols="45" placeholder="Describe your project and how better access and information can help..." class="contact-text-input w-full p-2.5" required="required" style="font-size:15pt; font-weight:200;"></textarea><p>
 
       <button type="submit" class="button2"
       data-sitekey="reCAPTCHA_site_key"
