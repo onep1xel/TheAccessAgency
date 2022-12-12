@@ -1,5 +1,5 @@
-<div class="relative px-4 sm:px-6 lg:px-8 
-  {{ if eq .padding "top" }}pt-20 lg:pt-24{{ else if eq .padding "bottom" }}pb-20 lg:pb-24{{ else }}py-20 lg:py-24{{ end }} 
+<div class="relative px-4 sm:px-6 lg:px-8
+  {{ if eq .padding "top" }}pt-20 lg:pt-24{{ else if eq .padding "bottom" }}pb-20 lg:pb-24{{ else }}py-20 lg:py-24{{ end }}
   {{ if eq .color "light" }}text-white {{ else if eq .color "muted" }}text-[#686867]{{ else }}text-whale-regular{{ end }}"{{ with .background }} style="background: {{ . }}"{{ end }}>
   <div class="mx-auto max-w-7xl">
     <div class="max-w-4xl">
@@ -9,7 +9,7 @@
       {{ range .faqs }}
         <div x-data="{ expanded: false }" class="border-b border-sand-regular">
           <h3>
-            <button x-on:click="expanded = ! expanded" class="w-full py-5 flex items-center text-left text-2xl font-bold leading-none sm:leading-none sm:text-3xl" :class="{ 'text-rose-regular': expanded }">
+            <button x-on:click="expanded = ! expanded" class="w-full py-5 flex items-center text-left text-2xl leading-none sm:leading-none sm:text-3xl" :class="{ 'text-sky-regular': expanded }">
               <svg x-show="!expanded" xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 mt-1 mr-2 flex-none" fill="none" viewBox="0 0 24 24" stroke-width="4" stroke="currentColor" class="w-6 h-6">
                 <path stroke-linecap="round" stroke-linejoin="round" d="M12 4.5v15m7.5-7.5h-15" />
               </svg>

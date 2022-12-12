@@ -2486,6 +2486,11 @@ select {
   color: rgb(37 49 72 / var(--tw-text-opacity));
 }
 
+.text-sky-regular {
+  --tw-text-opacity: 1;
+  color: rgb(159 203 233 / var(--tw-text-opacity));
+}
+
 .text-sand-regular {
   --tw-text-opacity: 1;
   color: rgb(214 214 206 / var(--tw-text-opacity));

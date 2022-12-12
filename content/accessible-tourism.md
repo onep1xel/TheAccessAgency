@@ -11,19 +11,19 @@ blocks:
   background:  "#253148"
   color: light # light dark muted
   heading: Accessible Tourism
-  text: Making visitor experiences more equitable, visitable and profitable.
+  text: What is it, why is it important and how is it done?
 
 - block: text
   background:  "#E8E8E8"
   content: |-
-    The UNWTO have labelled it a [**‘great opportunity’**](https://github.com/BoostIO/Boostnote "UNWTO Accessible Tourism"), the EU say it’s a [**‘moral obligation’**](https://github.com/BoostIO/Boostnote "EU Accessible Tourism") and Tourism Australia refer to it as a [**‘Pillar of opportunity’**](https://github.com/BoostIO/Boostnote "EU Accessible Tourism").
-    Across in the UK, England wants to be the most accessible destination in Europe by 2026.
+    The [UNWTO](https://www.unwto.org/accessibility "United Nations World Tourism Organization") have labelled it a [**‘exceptional business opportunity’**](https://www.unwto.org/accessibility "UNWTO Accessible Tourism Page"), the EU say it will [**‘boost competitiveness’**](https://single-market-economy.ec.europa.eu/sectors/tourism/offer/accessible-tourism_en "EU Enhancing Tourism") and Tourism Australia feature it heavily in their [**‘Future of Demand’**](https://www.tourism.australia.com/en/insights/consumer-research/future-of-demand.html "Tourism Australia, Future of Demand Report") report.
+    Over in the UK, they’re on a mission to become [‘the most accessible destination in Europe by 2025’](https://www.visitbritain.org/tourism-sector-deal "Visit Britain, Tourism Sector Deal")‘.
 
-    So, what’s all the excitement about?
+    **So what’s all the excitement about?**
 
-    Accessible Tourism is broadly the notion of ***Tourism For All*** or ***Tourism Without Barriers***. The principle is that tourism services and products should be open to everyone.
+    Accessible Tourism is broadly the notion of *Tourism For All* or *Tourism Without Barriers*. The principle is that tourism services and products should be open to everyone.
     In terms of access – yes that means ramps, toilets and parking. But it also means providing accessible information so people can make informed decisions.
-    Inclusion means enabling a customer service, a philosophy of operating that involves everyone.
+    Inclusive tourism means enabling a holistic, universal customer experience, a philosophy of operating that welcomes everyone.
 
 
 - block: tiles
@@ -99,18 +99,17 @@ blocks:
 
     For operators big and small, this may mean –
 
-    - Looking at your existing physical environment to reduce barriers
+    - Looking at the existing physical environment to reduce barriers
     - Reviewing printed materials and digital resources so access information is provided
     - Ensuring visitor materials are provided in an accessible format
-    - Investing in quick access wins (like proving a clear path of travel)
+    - Investing in quick access wins (like providing a clear path of travel)
     - Ensuring planned, new developments are accessible
     - Providing employees with the confidence to engage with different and disabled visitors
-    - Marketing your accessibility and inclusive approach
+    - Marketing accessibility and inclusivity as a significant visitor benefit
 
-    To find out more, you can see a video from our presentation on [Marketing Accessibility](/resources) Marketing Access here.
-    If you want to get started with a self-assessment, you can find a basic [checklist here](https://www.example.com)
+    To find out more, you can see a video from our presentation on [Marketing Accessibility](/resources).
 
-    We’ve got some great reading in our [resources section](https://www.example.com).
+    We’ve got some great reading in our [resources section](/resources).
 
 
 - block: quote
@@ -130,32 +129,41 @@ blocks:
   faqs:
   - title: It’s only for people in wheelchairs
     content: |-
-      Most disabilities are invisible. Most mobility problems people face don't involve wheelchairs. Barriers to participation or great experiences include
+        Most disabilities are invisible.
 
+        And most mobility problems don’t involve wheelchairs.
+
+        Barriers that stop visitors enjoying themselves are varied.
+        They can be a result of frailty, low-vision, concentration, strength, hearing-loss, even mood.
+
+        **Just like beach matting for wheelchair users, accessibility features usually come to benefit everyone.**
 
   - title: People with disabilities don’t spend
     content: |-
-      On average, most are completed:
-
-      - Essential package: 10 working days or less
-      - Standard package: 20 working days or less
-      - Premium package: 25 working days or less
+      People with disabilities (PwDs) account for more than 11% of revenue in the travel sector  [*(Source: )*](https://www.tourism.australia.com). This is predicted to reach 25% in coming years. Twenty-five percent.
 
   - title: It’s too difficult & expensive
     content: |-
-      Tailwind CSS, Alpine.js, Hugo, Jekyll, Forestry CMS, Netlify, Vercel, GitHub.
+      In many cases there isn’t an accessibility problem, there’s an access information problem.
+      By providing better information, a more inclusive customer experience and some access adjustments, destinations can make customers with disabilities feel welcomed and valued.
+
+      Also, when you do invest, every dollar spent returns $30 when investing in Universal Design [*(Source: City Of Melboune)*](https://www.tourism.australia.com).
 
   - title: The market is too small
     content: |-
-      TailStack is an agency of one, which means you'll work directly with me, the founder of TailStack.
+      **$AUD10BN per year.** That’s the value of this segment to the Australian economy.
+      People with access needs take more than 54,000 trips per year and stay longer than able-bodied travellers.
+      And they’re 50% more loyal than regular customers.
 
-  - title: We don't have to be accessible, it's not our market
-    content: |-
-      No worries! We'll continue to revise the design until you're 100% satisfied.
+      **The market is significant and growing 22% year-on-year.**
 
-  - title: We can't promote oursleves as accessible because we have stairs
+
+  - title: We can't promote accessibility because we have stairs
     content: |-
-      Due to the high-quality nature of the work, there will be no refunds issued.
+      What’s accessible for one person may not be for another.
+      And there’s certainly no such thing as 100% accessible.
+      Destinations can begin by having an audit conducted and illustrating what they have in place – allowing visitors to decide for themselves if it’s ‘accessible’.
+
 
 
 

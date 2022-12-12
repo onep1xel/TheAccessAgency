@@ -21,10 +21,13 @@ blocks:
 
         ### Overview & background
 
-        [***Freewheel Weekends (FWW)***](https://www.freewheelweekends.com "This is Boostnote's repository") is a website, a vlog, travel guide and directory for travellers with reduced mobility. There are video guides to The Pyramid of Giza, from Jerusalem’s Old City from New Zealand’s Bay of Islands and more. There’s also first-hand accounts of trying new stuff – like indoor climbing or sled hockey.
-        The Directory covers some of Melbourne’s best accessible experiences – from restaurants to museums and galleries.
+        [***Freewheel Weekends (FWW)***](https://www.freewheelweekends.com.au "Visit Freewheel Weekends") is a website, a vlog, travel guide and directory for travellers with reduced mobility.
 
-        In 2017 Freewheel Weekends began when I took a year off after finishing at a large tech company. The idea started as a way of recording new experiences and grew into a magazine for people with reduced mobility. Deciding to be editorially independent and not beholden to advertisers meant self-funding but it also meant creative control.
+        It began in 2017, when I took a year off after finishing at a large tech company. The idea started as a way of recording new experiences and grew into a magazine for people with reduced mobility. It includes a directory covering some of Melbourne’s best accessible experiences – from restaurants to museums and galleries.
+
+        Further abroad there are video guides to The Pyramid of Giza, from Jerusalem’s Old City from New Zealand’s Bay of Islands and more. There’re also first-hand accounts of trying new stuff – like indoor climbing or sled hockey.
+
+        Deciding to be editorially independent and not beholden to advertisers meant self-funding, but it also meant creative control. The content proved valuable and visitors grew month on month. It’s still updated, however infrequently – though much of the content remains relevant and, we hope, useful in providing information and maybe some inspiration to travel and explore.
 
 
 - block: button
