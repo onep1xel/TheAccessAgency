@@ -5,17 +5,19 @@ url: ""
 description:
 image: /images/TheAccessAgency_thumbnail.png
 navbar:
-  background: "#1d2838"
+  background: "#ffffff"
+  color: dark # dark light (default light)
 blocks:
 - block: media
-  type: video # image video slider
+  type: slider # image video slider
   image: /images/hero.jpg
   alt: Lorem Ipsum
   video: /video/website-video_final.mp4
   slides:
-  - https://via.placeholder.com/1500x600/333333
-  - https://via.placeholder.com/1500x600/333333
-  - https://via.placeholder.com/1500x600/333333
+  - /images/work/PV/Parks-Victoria-carousel-01.jpg
+  - /images/work/PV/Parks-Victoria-carousel-02.jpg
+  - /images/work/PV/Parks-Victoria-carousel-03.jpg
+  - /images/work/PV/Parks-Victoria-carousel-04.jpg
 
 - block: header
   background:  "#253148"
@@ -49,21 +51,14 @@ blocks:
   padding: bottom
   container: small
   images:
-  - image: https://via.placeholder.com/1000x1000/666666
+  - image: /images/work/PV/Parks02-800x800.jpg
     alt: Lorem
-  - image: https://via.placeholder.com/1000x1000/666666
+  - image: /images/work/PV/Parks01-800x800.jpg
     alt: Lorem
-
-
-- block: media
-  type: slider # image video slider
-  image: /images/hero.jpg
-  alt: Parks Victoria
-  video: /video/website-video_final.mp4
-  slides:
-  - /images/work/Parks-Victoria-carousel-01.jpg
-  - /images/work/Parks-Victoria-carousel-02.jpg
-  - /images/work/Parks-Victoria-carousel-03.jpg
+  - image: /images/work/PV/Parks03-800x800.jpg
+    alt: Lorem
+  - image: /images/work/PV/Parks04-800x800.jpg
+    alt: Lorem
 
 
 - block: quote
@@ -73,6 +68,66 @@ blocks:
   quote: Ryan’s great to work with - he’s meticulously prepared, open-minded and adaptable.
   author: Nick Esser, Senior Marketing Officer, Parks Victoria
 
+
+- block: work
+  background:  "#E8E8E8"
+  color: dark # light dark muted
+  layout: horizontal # horizontal vertical
+  offset: 26% # for horizontal layout set top spacing for text column in percentages eg 25%
+  image: #
+  youtube: 6x3fJ6k_R4k
+  vimeo: #613481548
+  superheading: All Abilities Access Video Series
+  heading: Wilsons Promontory
+  text: World class national park with, accessible cabins, beacha wheelchairs and the off-road *Trailrider* wheelchair.
+  link:
+    style: mint # whale mint sand
+    text: #
+    url: #
+
+- block: work
+  background:  "#191919"
+  color: light # light dark muted
+  layout: horizontal # horizontal vertical
+  offset: 26% # for horizontal layout set top spacing for text column in percentages eg 25%
+  image: #
+  youtube: o9ikF8Yid-8
+  vimeo: #613481548
+  superheading: All Abilities Access Video Series
+  heading: Ngamadjidj Shelter Walk
+  text: Get up-close to paintings by first-nations peoples on the short accessible walk within the Grampians National Park.
+  link:
+    style: mint # whale mint sand
+    text: #
+    url: #
+
+- block: work
+  background:  "#E8E8E8"
+  color: dark # light dark muted
+  layout: horizontal # horizontal vertical
+  offset: 26% # for horizontal layout set top spacing for text column in percentages eg 25%
+  image: #
+  youtube: wwduIQ170i4
+  vimeo: #613481548
+  superheading: All Abilities Access Video Series
+  heading: Werribee Park and the Victoria State Rose Garden
+  text: A slice of history awaits at this mansion on wide manacured gardens – adjacent to the Victorian State Rose Garden.
+  link:
+    style: mint # whale mint sand
+    text: #
+    url: #
+
+- block: button
+  background:  "#1d2838"
+  padding: bottom top
+  color: light # light dark muted
+  button:
+    style: mint # whale mint sand
+    text: Watch other videos from the series
+    url: https://www.youtube.com/playlist?list=PLWTnHc7pcIKei10KpWfb4tk0ABCWvx5wP
+
+
+
 - block: text
   background: "#EFEFEF"
   content: |-
@@ -80,7 +135,7 @@ blocks:
 
     Facebook, Instagram, Tic-toc are all great platforms to talk about access. On one hand, that's where your audience are when they're looking to be inspired. **That spark, that flash when a visitor decides to shop for travel – for some, that can comes from video or imagery showing accessibility.**
 
-    We did a specific social take over for the day of Dylan Alcott's [Ability Fest](/work/ability-fest/) take a look
+    We did a specific social take over for the day of [Ability Fest](/work/ability-fest/) take a look
 
 
 - block: cta

@@ -5,17 +5,21 @@ url: ""
 description:
 image: /images/TheAccessAgency_thumbnail.png
 navbar:
-  background: "#181818"
+  background: "#ffffff"
+  color: dark # dark light (default light)
 blocks:
 - block: media
-  type: video # image video slider
+  type: slider # image video slider
   image: /images/hero.jpg
   alt: Lorem Ipsum
   video: https://assets.mixkit.co/videos/preview/mixkit-set-of-plateaus-seen-from-the-heights-in-a-sunset-26070-large.mp4
   slides:
-  - https://via.placeholder.com/1500x600/333333
-  - https://via.placeholder.com/1500x600/333333
-  - https://via.placeholder.com/1500x600/333333
+  - /images/work/CoM/CoM-01-1700x1300.jpg
+  - /images/work/CoM/CoM-02-1700x1300.jpg
+  - /images/work/CoM/CoM-03-1700x1300.jpg
+  - /images/work/CoM/CoM-04-1700x1300.jpg
+  - /images/work/CoM/CoM-05-1700x1300.jpg
+  - /images/work/CoM/CoM-06-1700x1300.jpg
 
 - block: header
   background:  "#253148"
@@ -27,7 +31,7 @@ blocks:
 - block: text
   background:  "#E8E8E8"
   content: |-
-    
+
     The last few years have played havoc with the visitation of Australia’s large cities. Lockdowns have seen residents steer-clear and visitor numbers plummet.
 
     The [City of Melbourne](https://melbourne.vic.gov.au) (CoM), through their magazine [***What’s on Melbourne***](https://whatson.melbourne.vic.gov.au) has pushed forward with activation programs, large-scale events and continual messaging through digital channels – drawing people back into the heart of our city.
@@ -41,61 +45,29 @@ blocks:
     [^1]: *Melbourne: A Great Place to Age*, City Of Melbourne 2020.
 
 
-- block: images
-  columns: 2
-  background:  "#E8E8E8"
-  padding: bottom
-  container: small
-  images:
-  - image: https://via.placeholder.com/1000x1000/666666
-    alt: Lorem
-  - image: https://via.placeholder.com/1000x1000/666666
-    alt: Lorem
-
-
-
-- block: text
-  background: "#EFEFEF"
-  content: |-
-    ### Why use social media to talk about access?
-
-    Ut wisi enim ad minim veniam, quis nostrud exerci tation ullam-
-    corper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
-    Duis autem vel eum iriure dolor in hendrerit in vulputate velit
-    esse molestie consequat, vel illum dolore eu feugiat nulla facilisis
-    at vero eros et accumsan et.
-
-    Iusto odio dignissim qui blandit prae-
-    sent luptatum zzril delenit augue duis dolore te feugait nulla fac-
-    ilisi.
+- block: video
+  background:  "#191919"
+  padding: bottom top
+  youtube: qzgd7t6HnKs
+  vimeo: #613481548
 
 
 - block: quote
   background:  "#9fcbe9"
   color: dark # light dark muted
   padding: both
-  quote: I’ve done a lot of Instagram Stories, but this one has to be my favourite ...and if you’re interested in accessible tourism content creation, Ryan Smith is your guy
-  author: Nicole Cashman, Social & Digital Media, Visit Victoria
-
-
-- block: images
-  columns: 1
-  background:  "#EFEFEF"
-  padding: bottom top
-  container: small
-  images:
-  - image: https://via.placeholder.com/1000x600/666666
-    alt: Lorem
+  quote: Approximately 25% of national and international visitors to the CBD are aged 55 years and over
+  author: Melbourne - A Great Place to Age, City Of Melbourne 2020
 
 
 - block: cta
   background:  "#253148"
   color: light # light dark muted
-  heading: Contact us to find out more about how to communicate your access
-  text: Lorem ipsum dolor sit amet, consectetuer adipiscing elitiam.
+  heading: Showcase your accessibility with video
+  text: Find out how we can help
   button:
     style: mint # whale mint sand
-    text: Get in touch
-    url: "#"
+    text: Email or phone us
+    url: "contact"
 
 ---

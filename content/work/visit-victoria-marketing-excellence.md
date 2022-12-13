@@ -5,13 +5,14 @@ url: ""
 description:
 image: /images/TheAccessAgency_thumbnail.png
 navbar:
-  background: "#1d2838"
+  background: "#ffffff"
+  color: dark # dark light (default light)
 blocks:
 - block: media
-  type: video # image video slider
-  image: /images/hero.jpg
+  type: image # image video slider
+  image: /images/work/VV/VV-01-1700x1100-2.jpg
   alt: Lorem Ipsum
-  video: https://assets.mixkit.co/videos/preview/mixkit-set-of-plateaus-seen-from-the-heights-in-a-sunset-26070-large.mp4
+  video: #
   slides:
   - https://via.placeholder.com/1500x600/333333
   - https://via.placeholder.com/1500x600/333333
@@ -26,7 +27,7 @@ blocks:
 - block: text
   background:  "#E8E8E8"
   content: |-
-    #### Heading
+    #### Overview
 
     We were honoured to be engaged by Visit Victoria to talk about accessible tourism as part of their Marketing Excellence program, a 4-day workshop for best-in-class operators.
 
@@ -49,19 +50,6 @@ blocks:
 
 
 
-- block: images
-  columns: 2
-  background:  "#E8E8E8"
-  padding: bottom
-  container: small
-  images:
-  - image: https://via.placeholder.com/1000x1000/666666
-    alt: Lorem
-  - image: https://via.placeholder.com/1000x1000/666666
-    alt: Lorem
-
-
-
 - block: text
   background: "#EFEFEF"
   content: |-
@@ -74,44 +62,22 @@ blocks:
     Our presentations are delivered by a person with a disability who understands how to make the complex simple and provide valuable tools and insights to take away.
 
 
-- block: media
-  type: slider # image video slider
-  image: /images/hero.jpg
-  alt: Parks Victoria
-  video: /video/website-video_final.mp4
-  slides:
-  - /images/work/Visit-Victoria-carousel-01.jpg
-  - /images/work/Visit-Victoria-carousel-02.jpg
-  - /images/work/Visit-Victoria-carousel-03.jpg
-  - /images/work/Visit-Victoria-carousel-04.jpg
-  - /images/work/Visit-Victoria-carousel-05.jpg
-
 - block: quote
   background:  "#9fcbe9"
   color: dark # light dark muted
   padding: both
-  quote: I’ve done a lot of Instagram Stories, but this one has to be my favourite ...and if you’re interested in accessible tourism content creation, Ryan Smith is your guy
-  author: Nicole Cashman, Social & Digital Media, Visit Victoria
-
-
-- block: images
-  columns: 1
-  background:  "#EFEFEF"
-  padding: bottom top
-  container: small
-  images:
-  - image: https://via.placeholder.com/1000x600/666666
-    alt: Lorem
+  quote: It was a great session... Very insightful and lots of ideas!
+  author: Lucy Cameron, Great Ocean Road Resort, Linkedin
 
 
 - block: cta
   background:  "#253148"
   color: light # light dark muted
-  heading: Contact us to find out more about how to communicate your access
-  text: Lorem ipsum dolor sit amet, consectetuer adipiscing elitiam.
+  heading: Need training, mentoring or internal engagement sessions?
+  text: Email or call to find out how we can help.
   button:
     style: mint # whale mint sand
     text: Get in touch
-    url: "#"
+    url: "/contact"
 
 ---

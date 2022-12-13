@@ -5,7 +5,8 @@ url: ""
 description:
 image: /images/TheAccessAgency_thumbnail.png
 navbar:
-  background: "#181818"
+  background: "#ffffff"
+  color: dark # dark light (default light)
 blocks:
 - block: media
   type: video # image video slider
@@ -21,22 +22,22 @@ blocks:
   background:  "#253148"
   color: light # light dark muted
   heading: Mornington Peninsula Shire - Grants for Better Accessibility   
-  text: What does access mean to small and medium businesses and how can you encourage more of it?
+  text: What does access mean to business - and how can adoption be encouraged?
 
 - block: text
   background:  "#E8E8E8"
   content: |-
-    #### Challenge
 
-    How does a Tourism organisation talk about access and inclusion at an event in a way that is authentic, energised and broad reaching? They commission someone with a disability to cover it.
+    Mornington Peninsula Shire believes strongly in access and inclusion. Virginia Richardson, heading up the area, is a long-time advocate, Universal Design professional and champion of inclusion. The council grants were available for business to improve their access – physical and virtual – but how to get word out? And what does accessibility mean to local traders?
 
-    #### Process
+    The Access Agency worked with the Mornington Peninsula Shire Disability Advisory Committee (DAC), ‘MP Business’ members and local council to see what messaging would cut through to encourage submissions.
+    We needed to tap into a trader/operator mindset to see what resonated. Several sessions were held with the DAC and Council until the script for an explanatory video was developed.
+    The video was accompanied by three access checklists – created by Virginia - to
+    enable businesses to self-assess.
 
-    Visit Victoria/Visit Melbourne contacted The Access Agency to cover AbilityFest for their social media. AbilityFest - organised by the Dylan Alcott Foundation and untitled group – is Australia’s first and only completely accessible outdoor festival music festival. Ryan spoke with Dylan, volunteers and attendees at the festival conveying the excitement, scale and philosophy of the Event.
+    The video was shared on social media, and through digital channels – leading to the checklists and to the grant applications.
+    Not only did the community of businesses respond to the funding opportunities, they also developed an understanding of how access can help business efforts in the future.
 
-    #### Result
-
-    A video sequence was edited down to 14 stories that captured the day – from anticipation, to the practical accessibility through to the late night climax and fireworks. The piece also showcased other live music options throughout Melbourne – providing options all year round for those with access needs.
 
 
 - block: images
@@ -72,8 +73,8 @@ blocks:
   background:  "#9fcbe9"
   color: dark # light dark muted
   padding: both
-  quote: I’ve done a lot of Instagram Stories, but this one has to be my favourite ...and if you’re interested in accessible tourism content creation, Ryan Smith is your guy
-  author: Nicole Cashman, Social & Digital Media, Visit Victoria
+  quote: Ryan brings both lived and professional experience to his work which is a valued and sought-after combination
+  author: Virginia Richardson, Mornington Peninsula Shire
 
 
 - block: images
