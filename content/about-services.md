@@ -5,7 +5,8 @@ url: "about-services"
 description: Better access and inclusion means better business
 image: /images/TheAccessAgency_thumbnail.png
 navbar:
-  background: "#1d2838"
+  background: "#ffffff"
+  color: dark # dark light (default light)
 blocks:
 - block: header
   background:  "#253148"
@@ -80,7 +81,7 @@ blocks:
     ## About Ryan{#about-ryan}
 
     Ryan is a creative director, an avid traveller, and wheelchair user.
-    He started writing about access in tourism in 2018 through his blog [***Freewheel Weekends***](http://www.freewheelweekends.com.au "Visit Freewheel Weekends").
+    He started writing about access in tourism in 2018 through his blog [***Freewheel Weekends***](/freewheel-weekends "Visit Freewheel Weekends").
 
     His design career has spanned 25 years working as a designer and communication consultant for Qantas, STA Travel, TFE Hotels, Jetstar, Visit Ballarat, Virgin Australia,  and many other organisations.
     As a qualified access consultant, he understands and advocates for universal access and as a designer he loves to create innovative, elegant solutions.
