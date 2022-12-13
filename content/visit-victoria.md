@@ -5,8 +5,8 @@ url: ""
 description:
 image: /images/TheAccessAgency_thumbnail.png
 navbar:
-  background: "#262626"
-  color: light # dark light (default light)
+  background: "#ffffff"
+  color: dark # dark light (default light)
 blocks:
 - block: header
   background:  "#262626"

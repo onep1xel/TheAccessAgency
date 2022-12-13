@@ -56,8 +56,8 @@ blocks:
 - block: cta
   background:  "#253148"
   color: light # light dark muted
-  heading: Supply customer information everyone can use.
-  text: Accessible information, delivered in a way everyone can use.
+  heading: Supply customer information everyone can use
+  text: Accessible information, delivered in a way everyone can use
   button:
     style: mint # whale mint sand
     text: Get in touch

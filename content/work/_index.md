@@ -20,7 +20,7 @@ blocks:
   vimeo: #613481548
   superheading: Parks Victoria
   heading: All Abilities Video Series
-  text: Twelve Apostles, Wilsons Prom, The Grampians and more – Ten iconic Victorian Parks visited and showcased through the eyes of a visitors with reduced mobility.
+  text: The Twelve Apostles, Wilsons Prom, The Grampians and more – Ten iconic Victorian Parks visited and showcased through the eyes of someone with reduced mobility.
   link:
     style: mint # whale mint sand
     text: See the project
@@ -53,7 +53,7 @@ blocks:
   vimeo: #771124484
   superheading: Mornington Peninsula
   heading: Accessibility Grants – Communications and promotions
-  text: Communicating the importance of access to traders and operators to drive grant applications and better visitor experiences.
+  text: Communicating the importance of access to traders and operators to drive grant applications and ultimately, better visitor experiences.
   link:
     style: whale # whale mint sand
     text: View the project
