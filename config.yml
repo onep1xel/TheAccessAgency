@@ -48,11 +48,11 @@ menu:
 
   social:
   - name: Instagram
-    url: "#"
+    url: "https://www.instagram.com/freewheelweekends/"
     pre: instagram
     weight: 20
   - name: Linkedin
-    url: "#"
+    url: "https://www.linkedin.com/in/ryansmith-au/"
     pre: linkedin
     weight: 30
 
