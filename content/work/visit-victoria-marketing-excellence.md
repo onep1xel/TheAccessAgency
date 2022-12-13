@@ -39,16 +39,6 @@ blocks:
     *#Access #Inclusion #AccessibelTourismGuidance #MarketingAccessibility*
 
 
-- block: button
-  background:  "#E8E8E8"
-  padding: bottom
-  color: dark # light dark muted
-  button:
-    style: whale # whale mint sand
-    text: Get in touch
-    url: http://www.theaccessagency.com.au
-
-
 
 - block: text
   background: "#EFEFEF"

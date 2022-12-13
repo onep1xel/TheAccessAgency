@@ -103,7 +103,7 @@ blocks:
   vimeo: #771124484
   superheading: Visit Victoria
   heading: Marketing Excellence Sessions
-  text: The modern marketing mix for tourism should include accessibility. We provided sessions to Victoria best operators to show how to get started.
+  text: The modern marketing mix for tourism should include accessibility. We provided sessions to Victorian tourism operators, so they can get started.
   link:
     style: mint # whale mint sand
     text: Take a look at the project
