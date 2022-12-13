@@ -14,7 +14,6 @@ blocks:
   alt: Lorem Ipsum
   video: /video/website-video_final.mp4
   slides:
-  - /images/work/PV/Parks-Victoria-carousel-01.jpg
   - /images/work/PV/Parks-Victoria-carousel-02.jpg
   - /images/work/PV/Parks-Victoria-carousel-03.jpg
   - /images/work/PV/Parks-Victoria-carousel-04.jpg
@@ -142,7 +141,7 @@ blocks:
   background:  "#253148"
   color: light # light dark muted
   heading: Find out how to use your accessibility as an asset
-  text: Contact us today.
+  text: Contact us today via email or phone
   button:
     style: mint # whale mint sand
     text: Get in touch

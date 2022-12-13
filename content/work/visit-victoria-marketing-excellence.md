@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: Ability Fest - Social Media Video Takeover
+title: Visit Victoria - Marketing Excellence
 url: ""
 description:
 image: /images/TheAccessAgency_thumbnail.png
@@ -11,12 +11,10 @@ blocks:
 - block: media
   type: image # image video slider
   image: /images/work/VV/VV-01-1700x1100-2.jpg
-  alt: Lorem Ipsum
+  alt: Small squares with photos of Ryan presenting 
   video: #
-  slides:
-  - https://via.placeholder.com/1500x600/333333
-  - https://via.placeholder.com/1500x600/333333
-  - https://via.placeholder.com/1500x600/333333
+  slides: #
+
 
 - block: header
   background:  "#253148"
@@ -56,8 +54,8 @@ blocks:
   background:  "#9fcbe9"
   color: dark # light dark muted
   padding: both
-  quote: It was a great session... Very insightful and lots of ideas!
-  author: Lucy Cameron, Great Ocean Road Resort, Linkedin
+  quote: It was a great session... very insightful and lots of ideas!
+  author: Lucy Cameron, Great Ocean Road Resort, (via Linkedin)
 
 
 - block: cta
