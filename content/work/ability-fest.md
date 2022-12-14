@@ -9,10 +9,10 @@ navbar:
   color: dark # dark light (default light)
 blocks:
 - block: media
-  type: slider # image video slider
-  image: #
+  type: video # image video slider
+  image: 
   alt: Visit Victoria - Ability Fest
-  video: #
+  video: video/ability-fest-video-4.mp4
   slides:
   - /images/work/Visit-Victoria-carousel-02.jpg
   - /images/work/Visit-Victoria-carousel-03.jpg

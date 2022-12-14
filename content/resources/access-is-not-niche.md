@@ -20,10 +20,8 @@ Add to this the fact that we tend travel in parties of three to four people, and
 ### Myth Number Two: The dollars aren’t there ###
 The market is not only larger but more valuable than you think – and there is plenty of evidence to prove it.
 
-https://amadeus.com/en/insights/blog/accessible-travel-report
-
-A recent report by Amadeus found that in Europe and the United States alone, travellers with access needs are worth about $US70 billion.
-Meanwhile, a 2018 Austrade report pegged the sector’s combined potential value in Victoria and Queensland at $AU8 billion.
+A [recent report by Amadeus](https://amadeus.com/en/insights/blog/accessible-travel-report) found that in Europe and the United States alone, travellers with access needs are worth about $US70 billion.
+Meanwhile, a [2018 Austrade report](https://www.tra.gov.au/Archive-TRA-Old-site/Research/View-all-publications/All-Publications/Destination-Visitor-Survey-results/Strategic-regional-research-reports/accessible-tourism-victoria-queensland)  pegged the sector’s combined potential value in Victoria and Queensland at $AU8 billion.
 
 It found that disabled travellers and their companions alone account for 14 per cent of the market for travel experiences and services related to overnight stays or day trips.
 

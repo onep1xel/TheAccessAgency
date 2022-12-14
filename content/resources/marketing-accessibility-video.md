@@ -1,20 +1,27 @@
 ---
-title: Marketing Inclusion Video (AITCAP)
+title: Adding access to the marketing mix (AITCAP Video)
 image: images/post-bgs/test-post-bg.jpg
-summary: At The Accessible and Inclusive Tourism Conference (AITCAP) I spoke about utilising accessibiity informatiuon in the marekting mix. You can watch it there.
+summary: At The Accessible and Inclusive Tourism Conference (AITCAP) I spoke about utilising accessibiity informatiuon in the marketing mix.
 date: 2022-05-12
 featured: false
 categories:
 - resources
 
+blocks:
+- block: quote
+  background:  "#9fcbe9"
+  color: dark # light dark muted
+  padding: both
+  quote: This is incredible Ryan, thank you for sharing your wealth of knowledge. So many things I’ve never considered.
+  author: AITCAP Conference Attendee
+
 ---
 
+The Accessible and Inclusive Tourism Conference Asia Pacific is a 3-day conference held in-person and virtually.
+Ryan presented at the 2021 virtual conference on the topic of using access in marketing materials. Included were examples, process and approaches.
 
-Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book. It usually begins with:
 
-{{< video src="/video/website-video_final.mp4" type="video/mp4" preload="auto" >}}
+{{< video src="/video/AITCAP-intro2.mp4" type="video/mp4" preload="auto" >}}
 
-“Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.”
-The purpose of lorem ipsum is to create a natural looking block of text (sentence, paragraph, page, etc.) that doesn't distract from the layout. A practice not without controversy, laying out pages with meaningless filler text can be very useful when the focus is meant to be on design, not content.
 
 The passage experienced a surge in popularity during the 1960s when Letraset used it on their dry-transfer sheets, and again during the 90s as desktop publishers bundled the text with their software. Today it's seen all around the web; on templates, websites, and stock designs. Use our generator to get your own, or read on for the authoritative history of lorem ipsum.
