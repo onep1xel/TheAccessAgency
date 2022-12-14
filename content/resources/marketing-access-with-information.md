@@ -1,13 +1,13 @@
 ---
 title: Informative marketing wins in the accessibility sector
-image: images/post-bgs/post-information-billboard-2.jpg 
+image: images/post-bgs/post-information-billboard-2.jpg
 summary: You don't need a budget the size of Disneyworld to promote the visitability of your business. But you do need to provide accurate information.
 date: 2022-05-12
 categories:
 - articles
 ---
 
-# “Most places don’t have an access problem – they have an access information problem.”
+**“Most places don’t have an access problem – they have an access information problem.”**
 
 This is what TravAbility founder Bill Forrester told the Accessible Melbourne event I attended in 2017. It’s a truth I’m reminded of every time I’m planning a trip and everytime I talk to operators.
 
@@ -37,10 +37,6 @@ Treat each enquiry and each customer individually, and see accessibility and acc
 And remember, customers with access needs want to travel independently where they can. They don’t want to unnecessarily burden anyone and they absolutely want to be treated with respect and dignity.
 
 ## Devil’s in the details
-
-![Lorem](https://dummyimage.com/1200x600/ccc/ccc)
-
-{{< figure src="/images/logo.svg" title="image caption" alt="Loren" width="300" attr="somewhere altribution text">}}
 
 So where to start – and how to do it? Information about the physical environment is incredibly important.
 
