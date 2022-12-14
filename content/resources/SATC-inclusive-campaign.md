@@ -7,9 +7,6 @@ date: 2022-05-12
 featured: true
 categories:
 - articles
-download:
-  text: Download checklist (94kb, PDF)
-  url: "#"
 
 blocks:
 - block: resources
@@ -22,6 +19,8 @@ People with disability only travel when they’re on their way to the Paralympic
 But a campaign for the South Australian Tourism Commission is helping to change this – with subtlety, sensitivity and power.
 
 We chatted to Joe Godsell, Managing Director of TBWA\Adelaide, the agency behind the [For Those Who Want a Little More campaign](https://www.youtube.com/watch?v=KwWIivI3xVA&t=1s) – a masterclass in inclusive tourism advertising.
+
+{{< youtube KwWIivI3xVA >}}
 
 While the diversity of humans in the ad is broad, it doesn’t feel laboured or like it’s driven by an inclusion checklist.  The opposite, it’s a masterclass in tourism advertising.
 

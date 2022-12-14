@@ -1,6 +1,6 @@
 ---
 title: Hitting the town
-image: https://via.placeholder.com/1000x600/666666
+image: images/post-bgs/post-Hit-the-town-2.jpg
 summary: A few tips for travellers with access needs
 date: 2022-05-12
 categories:
