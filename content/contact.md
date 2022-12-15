@@ -67,9 +67,10 @@ blocks:
       <p>
       <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
       <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
-      <span style="font-size:80%"><strong>Don't want to email?</strong> Why not <a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/the-access-agency/initial-consult'});return false;">schedule a free 15 minute chat?</a></br>
+      <span style="font-size:80%"><strong>Don't want to email?</strong> Why not <a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/the-access-agency/15min-chat'});return false;">schedule a free 15 minute chat?</a></br>
 
       <span><strong>Or call us</strong> on<a href="tel:0423058273"> +61 042 358 273.</a>
+      <span><strong>Or call us</strong> on<a href="/calendar"> schedule</a>
 
 
 ---
