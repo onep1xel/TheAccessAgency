@@ -26,21 +26,21 @@ menu:
   navbar:
   - name: Home
     url: "/"
-    weight: 5
+    weight: 10
   - name: Accessible Tourism
     url: "/accessible-tourism/"
-    weight: 10
-  - name: About + Services
-    url: "/about-services/"
     weight: 20
+  - name: About Us
+    url: "/about-us/"
+    weight: 30
+  - name: Our Services
+    url: "/services/"
+    weight: 40
   - name: Work
     url: "/work/"
-    weight: 30
+    weight: 50
   - name: Resources
     url: "/resources/"
-    weight: 40
-  - name: Freewheel Weekends
-    url: "/freewheel-weekends/"
     weight: 60
   - name: Contact
     url: "/contact/"
@@ -63,17 +63,17 @@ menu:
   - name: Accessible Tourism
     url: "/accessible-tourism/"
     weight: 20
-  - name: About + Services
-    url: "/about-services"
+  - name: About Us
+    url: "/about-us/"
     weight: 30
-  - name: Resources
-    url: "/resources/"
+  - name: Services
+    url: "/services/"
     weight: 40
   - name: Work
     url: "/work/"
     weight: 50
-  - name: Freewheel Weekends
-    url: "/freewheel-weekends/"
+  - name: Resources
+    url: "/resources/"
     weight: 60
   - name: Contact
     url: "/contact/"
