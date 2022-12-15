@@ -80,7 +80,7 @@ blocks:
 
     ## About Ryan{#about-ryan}
 
-    Ryan is a creative director, an avid traveller, and wheelchair user.
+    Ryan is a creative director, an avid traveller, an access consultant and wheelchair user.
     He started writing about access in tourism in 2018 through his blog [***Freewheel Weekends***](/freewheel-weekends "Visit Freewheel Weekends").
 
     His design career has spanned 25 years working as a designer and communication consultant for Qantas, STA Travel, TFE Hotels, Jetstar, Visit Ballarat, Virgin Australia,  and many other organisations.

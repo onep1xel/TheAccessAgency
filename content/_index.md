@@ -25,9 +25,9 @@ blocks:
   heading: Provide better access & <br>great information to draw more customers.
   subheading: We develop content, provide expert advice and guide operators towards better visitor access and inclusion.
   link:
-    text: Want better access + more customers?
-    url: "/about-services/"
-  #subtext: 1.Open Doors Organization, 2020  2.Open Doors Organization, 2020  3.Open Doors Organization, 2020  
+    text: #
+    url: #
+    #subtext: 1.Open Doors Organization, 2020  2.Open Doors Organization, 2020  3.Open Doors Organization, 2020  
 
 - block: cards
   background:  "#ffffff"
@@ -35,21 +35,20 @@ blocks:
   padding: bottom
   cards:
   - heading: What is Accessible Tourism?
-    text: The journey towards more *Universal accessibility* in tourism means better societal inclusion and increased revenue for operators.
+    text: More universal access in travel means no one is left behind. It’s more inclusive and it boosts revenue. Tourism for all, access for everyone.
     link:
       text: More about Accessible Tourism
       url: "accessible-tourism"
   - heading: Our work
-    text: We’re super-proud of the work we’ve done to advocate for inclusion and to help provide information for better experiences through better universal access.
+    text: We’re very proud of the work we do. We help organisations provide wonderful, thoughtful experiences and we persistently advocate for inclusion.
     link:
       text: See our work
       url: "work"
   - heading: Resources
-    text: Through advice, advocacy and creative work for tourism and the
-      visitor economy, we make sure access brings people together.
+    text: Have a read – our thoughts on better access, authentic representation, and including accessibility in the marketing mix.
     link:
-      text: See our work
-      url: "#"
+      text: Take a look
+      url: "resources"
 
 - block: logos
   container: small
@@ -85,7 +84,7 @@ blocks:
   background:  "#253148"
   color: light # light dark muted
   heading: Expert guidance, accesible visitor materials and access consulting.
-  text: Let’s talk about reaching this $10B visitor segment.
+  text: Let’s talk about reaching this $10B visitor group.
   button:
     style: mint # whale mint sand
     text: Get in touch
