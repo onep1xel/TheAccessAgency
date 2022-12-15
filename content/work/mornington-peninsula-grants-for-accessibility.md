@@ -18,22 +18,25 @@ blocks:
 - block: header
   background:  "#253148"
   color: light # light dark muted
-  heading: Mornington Peninsula Shire - Grants for Better Accessibility   
-  text: What does access mean to business - and how can adoption be encouraged?
+  heading: Accessible Business Grants – promotional materials   
+  text: Mornington Peninsula Shire
 
 - block: text
   background:  "#E8E8E8"
   content: |-
 
-    Mornington Peninsula Shire believes strongly in access and inclusion. Virginia Richardson, heading up the area, is a long-time advocate, Universal Design professional and champion of inclusion. The council grants were available for business to improve their access – physical and virtual – but how to get word out? And what does accessibility mean to local traders?
+    **What does accessibility mean to businesses on the Mornington Peninsula – and how can we encourage better accessibility?**
 
-    The Access Agency worked with the Mornington Peninsula Shire Disability Advisory Committee (DAC), ‘MP Business’ members and local council to see what messaging would cut through to encourage submissions.
-    We needed to tap into a trader/operator mindset to see what resonated. Several sessions were held with the DAC and Council until the script for an explanatory video was developed.
-    The video was accompanied by three access checklists – created by Virginia - to
-    enable businesses to self-assess.
+    [**$5,000 grants**](https://www.mornpen.vic.gov.au/Community-Services/Disability-Access-and-Inclusion/Accessible-Business) were up for grabs when the [Mornington Peninsula Shire](https://www.mornpen.vic.gov.au/) (MPS) announced a program for businesses to become more accessible.
+    Virginia Richardson, Diversity and Inclusion Manager at MPS and long-time advocate of Universal Design, headed up the push. We worked alongside Virginia and the Disability Advisory Committee (DAC) to see what messaging would cut through to business owners while being sensitive to the disability community.
 
-    The video was shared on social media, and through digital channels – leading to the checklists and to the grant applications.
-    Not only did the community of businesses respond to the funding opportunities, they also developed an understanding of how access can help business efforts in the future.
+    Three topic areas emerged – ***Accessible Information***, ***Attitudes and Awareness*** and ***Physical Access***. A colour palette, icon set, and visual language was developed to help identify the main areas. Next, we to co-create an introductory video on the topic and design branded artwork for the online and printed checklists. 
+
+    Tapping into the mindset of a local trader, sessions with the DAC and Council helped us formulate the script for the video and Virginia produced the items in the available self- assessment checklists.
+
+    The video played part of the digital awareness campaign and lead to the webpage with the checklists and grant applications.
+    Not only did the community respond to the funding opportunity, they also developed an understanding of how access can benefit their business and their community in the future.
+
 
 
 

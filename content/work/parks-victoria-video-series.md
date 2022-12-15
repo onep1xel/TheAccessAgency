@@ -28,15 +28,16 @@ blocks:
 - block: text
   background:  "#E8E8E8"
   content: |-
-    Parks should be for everyone. They’re claming, regenerative and should be easy for everyone to visit. The tricky thing is, the terrain can be a barrier and most people don’t know what to expect when they visit.
+    **Parks should be for everyone. They’re calming, regenerative and should be easy for everyone to visit.**
 
-    ***What’s there? How’s the surface? Are there allocated accessible car parks and toilets?***
+    The tricky thing is, the terrain can be a barrier and most people don’t know what to expect when they visit.
+    *What’s there? How’s the surface? Are there allocated accessible car parks and toilets?*
 
     [**Parks Victoria**](https://www.parks.vic.gov.au/ "Parks Victoria website") engaged us to research, write, edit and produce videos for 10 selected parks –showcasing the access for mobility.
 
     We worked with John Kenwright in the Parks Victoria Access and Inclusion team and Nick Esser in Marketing - along with staff and rangers - to understand the history, biodiversity and uniqueness of each park.
 
-    After inviting family and our friends from the disabled community - we got to fliming. Across a 6-month period dodging COVID lock downs we shot at these wonderful public parks – some of them iconic Victorian destinations in their own right. We provided planning, talent, voice-over, camera work, motion graphics, edits and final output
+    After inviting family and our friends from the disabled community - we got to filming. Across a 6-month period dodging COVID lockdowns we shot at these wonderful public parks – some of them iconic Victorian destinations in their own right. We provided planning, talent, voice-over, camera work, motion graphics, edits and final output
 
     The first video, covering [**Tidal River at Wilsons Promontory**](https://www.parks.vic.gov.au/places-to-see/parks/wilsons-promontory-national-park/things-to-do/tidal-river-visitor-centre), was released on ‘International Wheelchair Day’ in March 2021. It showcased the accommodation options, beach access and accessible walks. Within three days more than 2,000 people had viewed the video sharing with their networks.
     Three months later it had reached over 10K views. Importantly, the video was shared widely to those who were planning to visit – proving the information was what they needed to plan and visit with confidence.
@@ -82,7 +83,7 @@ blocks:
   vimeo: #613481548
   superheading: All Abilities Access Video Series
   heading: Wilsons Promontory
-  text: World-class facilities at this park including accessible cabins, beach wheelchairs, accessible walks and the off-road *Trailrider* wheelchair.
+  text: The world-class facilities at this park include accessible cabins, beach wheelchairs, accessible walks, bathroom equipment and the off-road *Trailrider* wheelchair.
   link:
     style: mint # whale mint sand
     text: #
@@ -136,9 +137,9 @@ blocks:
   content: |-
     ### Why show accessibility in social media?
 
-    Facebook, Instagram, Tic-toc are all great platforms to talk about access. On one hand, that's where your audience are when they're looking to be inspired. **That spark, that flash when a visitor decides to shop for travel – for some, that can comes from video or imagery showing accessibility.**
+    Facebook, Instagram, Tic-toc are all great platforms to talk about access. On one hand, that's where your audience are when they're looking to be inspired. That spark when someone decides to start shopping for travel – **for some, that can ignite by seeing good accessibility**.
 
-    We did a specific social take over for the day of [Ability Fest](/work/ability-fest/) take a look
+    See what we did for socials during the [Ability Fest](/work/ability-fest/) event.
 
 
 - block: cta

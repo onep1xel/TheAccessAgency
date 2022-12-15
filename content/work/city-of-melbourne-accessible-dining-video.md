@@ -24,25 +24,31 @@ blocks:
 - block: header
   background:  "#253148"
   color: light # light dark muted
-  heading: Accessible Dining in Melbourne Video
-  text: Drawing visitors back, with confindence through access.
+  heading: Accessible Dining in Melbourne video
+  text: City of Melbourne
 
 
 - block: text
   background:  "#E8E8E8"
   content: |-
 
-    The last few years have played havoc with the visitation of Australia’s large cities. Lockdowns have seen residents steer-clear and visitor numbers plummet.
+    The last few years have played havoc with visitor numbers to large cities.
+    Lockdowns forced residents to steer-clear and getting city workers to return is proving difficult.
 
-    The [City of Melbourne](https://melbourne.vic.gov.au) (CoM), through their magazine [***What’s on Melbourne***](https://whatson.melbourne.vic.gov.au) has pushed forward with activation programs, large-scale events and continual messaging through digital channels – drawing people back into the heart of our city.
+    The [***City of Melbourne***](https://melbourne.vic.gov.au) (CoM) pushed forward with activation programs, large-scale events and messaging through digital channels – slowly drawing people back into the heart of the city.
 
-    We approached City of Melbourne with the aim of showcasing accessible experiences for visitors with access needs. **Approximately 25% of national and international visitors to the CBD are aged 55 years and over[^1]** and showcasing accessible dining options to customers of all stripes is a good idea.
+    We approached them with the aim of creating a video to show a range of accessible experiences in the CBD – a liveable city is an accessible one.
 
-    After some reconosence trips to review access The Access Agency, planned the shoot, storyboarding key elements, sourced talent and wrote the script for the video that showcased the multitude of accessible dining on offer.
+    A dining theme emerged, and the job was to create a short video for social media and Visitor Information Centres (VICs). Working with a talented team that included the City of Melbourne’s in-house crew at [***What’s on Melbourne***](https://whatson.melbourne.vic.gov.au) and their oft used video and photo team.
 
-    We worked with a talented team that included the CoM Team at [***What’s on Melbourne***](https://whatson.melbourne.vic.gov.au) and their oft used video and photo team. Plus the lovely people with disabilities (* and without) in front of the screen Jay Knight, Emily Dove and Maya Dove.
+    Auditing the eateries was the first task, followed by pulling together talent and then storyboarding the accessibility elements. The filming was undertaken by Tim J Smith and photography by Dan Castella.
 
-    [^1]: *Melbourne: A Great Place to Age*, City Of Melbourne 2020.
+    The final cut shows Melbourne at her vibrant and welcoming best. Day-to-night and suited for all budgets, our city has so much to offer in accessible, inclusive drinking and dining options.
+
+    The video was released with an [**accompanying post**](https://whatson.melbourne.vic.gov.au/article/the-best-accessible-restaurants-in-melbourne) on What’s on Melbourne. Footage will remain in the Visit Melbourne asset library as evergreen content.
+
+    Dining in Melbourne? You had me at #accessible!
+
 
 
 - block: video
