@@ -21,25 +21,29 @@ blocks:
 - block: header
   background:  "#253148"
   color: light # light dark muted
-  heading: ‘All Abilities Access’ Video Series - Parks Victoria
-  text: Encouraging participation in our parks.
+  heading: ‘All Abilities Access’ Video Series
+  text: Parks Victoria
 
 
 - block: text
   background:  "#E8E8E8"
   content: |-
-    Victorian Parks are for everyone.
-    They’re beautiful, regenerative and should be easy for everyone to visit. The problem is, most people don’t know what to expect if they have access needs. Why should we visit? How’s the surfaces? Are there allocated car parks and toilets?
+    Parks should be for everyone. They’re claming, regenerative and should be easy for everyone to visit. The tricky thing is, the terrain can be a barrier and most people don’t know what to expect when they visit.
 
-    We worked with John Kenwright in the Access team at [Parks Victoria](https://www.parks.vic.gov.au) and Nick Esser in Marketing along with staff and rangers to understand the history and uniqueness of each park.
-    Inviting friends from the disabled community and family to join the filming, the job was then to co-ordinate and produce the work. We wrote scripts, planned visits and filmed across a 6-month period through COVID lock downs.
+    ***What’s there? How’s the surface? Are there allocated accessible car parks and toilets?***
 
-    The first video was released on *‘International Wheelchair Day’* in March 2021 and within three days had reached 2,000+ people.
-    Three months later it had reached 10K views. Moreover, the first video was shared widely between friends, family and people with reduced mobility - those who benefit the most are getting the information they need to plan and visit parks with confidence.
+    [**Parks Victoria**](https://www.parks.vic.gov.au/ "Parks Victoria website") engaged us to research, write, edit and produce videos for 10 selected parks –showcasing the access for mobility.
 
-    The series was featured during a presentation for the UNWTO and ENAT.
+    We worked with John Kenwright in the Parks Victoria Access and Inclusion team and Nick Esser in Marketing - along with staff and rangers - to understand the history, biodiversity and uniqueness of each park.
 
-    The series paved the way as a pilot with plans to develop similar content showcasing other disabilities in other parks.
+    After inviting family and our friends from the disabled community - we got to fliming. Across a 6-month period dodging COVID lock downs we shot at these wonderful public parks – some of them iconic Victorian destinations in their own right. We provided planning, talent, voice-over, camera work, motion graphics, edits and final output
+
+    The first video, covering [**Tidal River at Wilsons Promontory**](https://www.parks.vic.gov.au/places-to-see/parks/wilsons-promontory-national-park/things-to-do/tidal-river-visitor-centre), was released on ‘International Wheelchair Day’ in March 2021. It showcased the accommodation options, beach access and accessible walks. Within three days more than 2,000 people had viewed the video sharing with their networks.
+    Three months later it had reached over 10K views. Importantly, the video was shared widely to those who were planning to visit – proving the information was what they needed to plan and visit with confidence.
+
+    The pilot series paved the way with plans to develop similar content showcasing other disabilities in other parks.
+    This is one of our first projects and is very close to our hearts, we’d like to thank all involved – with special thanks to John Kenwright.
+
 
     *#AcccessibleTourism   #ParksForAll   #AccessibleParks*
 
@@ -78,7 +82,7 @@ blocks:
   vimeo: #613481548
   superheading: All Abilities Access Video Series
   heading: Wilsons Promontory
-  text: World class national park with, accessible cabins, beacha wheelchairs and the off-road *Trailrider* wheelchair.
+  text: World-class facilities at this park including accessible cabins, beach wheelchairs, accessible walks and the off-road *Trailrider* wheelchair.
   link:
     style: mint # whale mint sand
     text: #
