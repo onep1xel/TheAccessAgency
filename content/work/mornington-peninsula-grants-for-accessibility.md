@@ -30,12 +30,14 @@ blocks:
     [**$5,000 grants**](https://www.mornpen.vic.gov.au/Community-Services/Disability-Access-and-Inclusion/Accessible-Business) were up for grabs when the [Mornington Peninsula Shire](https://www.mornpen.vic.gov.au/) (MPS) announced a program for businesses to become more accessible.
     Virginia Richardson, Diversity and Inclusion Manager at MPS and long-time advocate of Universal Design, headed up the push. We worked alongside Virginia and the Disability Advisory Committee (DAC) to see what messaging would cut through to business owners while being sensitive to the disability community.
 
-    Three topic areas emerged – ***Accessible Information***, ***Attitudes and Awareness*** and ***Physical Access***. A colour palette, icon set, and visual language was developed to help identify the main areas. Next, we to co-create an introductory video on the topic and design branded artwork for the online and printed checklists. 
+    Three topic areas emerged – ***Accessible Information***, ***Attitudes and Awareness*** and ***Physical Access***. A colour palette, icon set, and visual language was developed to help identify the main areas. Next, we to co-create an introductory video on the topic and design branded artwork for the online and printed checklists.
 
     Tapping into the mindset of a local trader, sessions with the DAC and Council helped us formulate the script for the video and Virginia produced the items in the available self- assessment checklists.
 
     The video played part of the digital awareness campaign and lead to the webpage with the checklists and grant applications.
     Not only did the community respond to the funding opportunity, they also developed an understanding of how access can benefit their business and their community in the future.
+
+    {{< youtube t7DTbbqLQoE >}}
 
 
 

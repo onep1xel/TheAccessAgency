@@ -80,12 +80,18 @@ blocks:
 - block: images
   columns: 2
   background:  "#E8E8E8"
+  container: small
   padding: bottom
   images:
   - image: https://via.placeholder.com/1000x600/666666
     alt: Lorem
   - image: https://via.placeholder.com/1000x600/666666
     alt: Lorem
+
+
+
+
+
 
 - block: quote
   background:  "#E2E2E2"

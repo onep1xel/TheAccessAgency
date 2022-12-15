@@ -40,7 +40,7 @@ blocks:
       text: More about Accessible Tourism
       url: "accessible-tourism"
   - heading: Our work
-    text: We’re very proud of the work we do. We help organisations provide wonderful, thoughtful experiences and we persistently advocate for inclusion.
+    text: We create customised access materials for organisations, we provide guidance and we audit physical and digital spaces to enable better access.
     link:
       text: See our work
       url: "work"
@@ -78,7 +78,7 @@ blocks:
   text: Founder Ryan Smith has 20+ years in design and strategic communications and is a qualified access consultant.
   link:
     text: Find out more
-    url: "/about-services#about-ryan"
+    url: "/about-us"
 
 - block: cta
   background:  "#253148"

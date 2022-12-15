@@ -1,7 +1,7 @@
 ---
 layout: blocks
-title: About Us and Our Services
-url: "about-services"
+title: Our Services
+url: "services"
 description: Better access and inclusion means better business
 image: /images/TheAccessAgency_thumbnail.png
 navbar:
@@ -11,31 +11,8 @@ blocks:
 - block: header
   background:  "#253148"
   color: light # light dark muted
-  heading: About Us + Services
+  heading: Services
   text: Helping you promote and create more inclusive visitor experiences.
-
-- block: cards
-  background:  "#373838"
-  color: light # light dark muted
-  padding: top bottom
-  cards:
-  - heading: 1. Research / audit
-    text: Understanding the now. The journey towards more universal accessibility in tourism means better societal inclusion and increased revenue for operators.
-    link:
-      text:
-      url:
-  - heading: 2. Strategic Design
-    text: Designing useful materials and increasing accessibility. Design + build materials to bring visitors and increase loyalty. Train and mentor staff in best practice inclusion.
-    link:
-      text:
-      url:
-  - heading: 3. Promote
-    text: Through advice, advocacy and creative work for tourism and the
-      visitor economy, we make sure access brings people together.
-    link:
-      text:
-      url:
-
 
 - block: text
   background:  "#EFEFEF"
@@ -73,20 +50,27 @@ blocks:
   author: Attendee at 'Marketing Accessibility' at AITCAP (Accessible Inclusive Conference)
 
 
-
-- block: text
-  background:  "#EFEFEF"
-  content: |-
-
-    ## About Ryan{#about-ryan}
-
-    Ryan is a creative director, an avid traveller, an access consultant and wheelchair user.
-    He started writing about access in tourism in 2018 through his blog [***Freewheel Weekends***](/freewheel-weekends "Visit Freewheel Weekends").
-
-    His design career has spanned 25 years working as a designer and communication consultant for Qantas, STA Travel, TFE Hotels, Jetstar, Visit Ballarat, Virgin Australia,  and many other organisations.
-    As a qualified access consultant, he understands and advocates for universal access and as a designer he loves to create innovative, elegant solutions.
-    He also makes a mean café late and is fond of birds.
-
+- block: cards
+  background:  "#373838"
+  color: light # light dark muted
+  padding: top bottom
+  cards:
+  - heading: 1. Research / audit
+    text: Understanding the now. The journey towards more universal accessibility in tourism means better societal inclusion and increased revenue for operators.
+    link:
+      text:
+      url:
+  - heading: 2. Strategic Design
+    text: Designing useful materials and increasing accessibility. Design + build materials to bring visitors and increase loyalty. Train and mentor staff in best practice inclusion.
+    link:
+      text:
+      url:
+  - heading: 3. Promote
+    text: Through advice, advocacy and creative work for tourism and the
+      visitor economy, we make sure access brings people together.
+    link:
+      text:
+      url:
 
 - block: images
   columns: 3
@@ -109,16 +93,6 @@ blocks:
   - image: https://via.placeholder.com/900x900/666666
     alt: Lorem
   - image: https://via.placeholder.com/900x900/666666
-    alt: Lorem
-
-
-
-- block: images
-  columns: 1
-  background:  "#EFEFEF"
-  padding: bottom
-  images:
-  - image: https://via.placeholder.com/1400x800/666666
     alt: Lorem
 
 

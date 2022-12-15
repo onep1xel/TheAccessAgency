@@ -136,8 +136,8 @@ blocks:
 
         Barriers that stop visitors enjoying themselves are varied.
         They can be a result of frailty, low-vision, concentration, strength, hearing-loss, even mood.
-
-        **Just like beach matting for wheelchair users, accessibility features usually come to benefit everyone.**
+        
+        **Beach matting was originally rolled out for wheelchair users, now everyone uses it as a way to get onto the beach. Accessibility features usually come to benefit everyone.**
 
   - title: People with disabilities don’t spend
     content: |-
