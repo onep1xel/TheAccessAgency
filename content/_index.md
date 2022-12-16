@@ -57,17 +57,17 @@ blocks:
   heading: Clients we’ve worked with
   logos:
   - image: /images/logos/logo-Visit-Victoria.png
-    alt: Lorem
+    alt: Visit Victoria logo
   - image: /images/logos/logo-City-of-Melbourne.png
-    alt: Lorem
+    alt: City of Melbourne logo
   - image: /images/logos/logo-Parks-Victoria.png
-    alt: Lorem
+    alt: Parks Victoria logo
   - image: /images/logos/logo-Aust-Red-Cross.png
-    alt: Lorem  
+    alt: Australian Red Cross logo  
   - image: /images/logos/logo-Sovereign-Hill.png
-    alt: Lorem
+    alt: Sovereign-Hill logo
   - image: /images/logos/logo-Mornington-Peninsula-Shire.png
-    alt: Lorem
+    alt: Mornington Peninsuls Shire Logo
 
 - block: author
   background:  "#686867"
@@ -75,7 +75,7 @@ blocks:
   padding: both # top bottom both (default)
   image: /images/Ryan.png
   heading: Ryan Smith
-  text: Founder Ryan Smith has 20+ years in design and strategic communications and is a qualified access consultant.
+  text: Founder Ryan has 20+ years in design and strategic communications and is a qualified access consultant.
   link:
     text: Find out more
     url: "/about-us"
@@ -83,7 +83,7 @@ blocks:
 - block: cta
   background:  "#253148"
   color: light # light dark muted
-  heading: Expert guidance, accesible visitor materials and access consulting.
+  heading: Expert guidance, visitor materials and access consulting.
   text: Let’s talk about reaching this $10B visitor group.
   button:
     style: mint # whale mint sand

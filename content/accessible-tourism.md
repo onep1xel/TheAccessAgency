@@ -132,37 +132,51 @@ blocks:
     content: |-
         Most disabilities are invisible.
 
-        And most mobility problems don’t involve wheelchairs.
-
+        And most mobility problems don’t involve wheelchairs.\
+        \
         Barriers that stop visitors enjoying themselves are varied.
         They can be a result of frailty, low-vision, concentration, strength, hearing-loss, even mood.
 
-        **Beach matting was originally rolled out for wheelchair users, now everyone uses it as a way to get onto the beach. Accessibility features usually come to benefit everyone.**
+        \
+        Beach matting was originally rolled out for wheelchair users, now everyone uses it as a way to get onto the beach. Accessibility features usually come to benefit everyone.
 
   - title: People with disabilities don’t spend
     content: |-
-      People with disabilities (PwDs) account for more than 11% of revenue in the travel sector  [*(Source: )*](https://www.tourism.australia.com). This is predicted to reach 25% in coming years. Twenty-five percent.
+      People with disabilities (PwDs) account for more than 11% of revenue in the travel sector  [*(Source: Tourism Research Australia )*](https://www.tra.gov.au/Archive-TRA-Old-site/Research/View-all-publications/All-Publications/Destination-Visitor-Survey-results/Strategic-regional-research-reports/accessible-tourism-victoria-queensland).
+
+      \
+      This is predicted to reach 25% in coming years. Twenty-five percent.
 
   - title: It’s too difficult & expensive
     content: |-
       In many cases there isn’t an accessibility problem, there’s an access information problem.
+
+      \
       By providing better information, a more inclusive customer experience and some access adjustments, destinations can make customers with disabilities feel welcomed and valued.
 
-      Also, when you do invest, every dollar spent returns $30 when investing in Universal Design [*(Source: City Of Melboune)*](https://www.tourism.australia.com).
+      \
+      Also, when you do invest in physical spaces, every dollar spent returns $30 when investing in Universal Design [*(Source: City Of Melboune)*](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwji6Znh9v37AhUvsVYBHajfDBsQFnoECBMQAQ&url=https%3A%2F%2Fwww.melbourne.vic.gov.au%2Fsitecollectiondocuments%2Fgood-access-good-business-infograph.doc&usg=AOvVaw2H4oZjWhTvvClDGHXf7nNt).
 
   - title: The market is too small
     content: |-
-      **$AUD10BN per year.** That’s the value of this segment to the Australian economy.
+      **$AUD10BN per year.**
+      \
+      That’s the value of this segment to the Australian economy.
       People with access needs take more than 54,000 trips per year and stay longer than able-bodied travellers.
-      And they’re 50% more loyal than regular customers.
+      And they’re 50% more loyal than regular customers *(Kantar Futures)*.
 
-      **The market is significant and growing 22% year-on-year.**
+      \
+      **The market is significant in size and growing 22% year-on-year.**
+
+      [*(Source: Forbes Magazine & Tourism Research Australia)*](https://www.tra.gov.au/Archive-TRA-Old-site/Research/View-all-publications/All-Publications/Destination-Visitor-Survey-results/Strategic-regional-research-reports/accessible-tourism-victoria-queensland)
 
 
   - title: We can't promote accessibility because we have stairs
     content: |-
-      What’s accessible for one person may not be for another.
-      And there’s certainly no such thing as 100% accessible.
+      **What’s accessible for one person may not be for another.**
+
+      \
+      And there’s certainly no such thing as 100% accessible.\
       Destinations can begin by having an audit conducted and illustrating what they have in place – allowing visitors to decide for themselves if it’s ‘accessible’.
 
 

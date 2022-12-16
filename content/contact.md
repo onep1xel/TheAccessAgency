@@ -11,24 +11,24 @@ download:
   text: Download checklist (94kb, PDF)
   url: "#"
 blocks:
-- block: header
-  background:  "#253148"
-  color: light # light dark muted
-  heading: Contact
-  text:
 
 - block: text
   background:  "#EFEFEF"
+  padding:
   content: |-
-        #### Tell us about your project for a better customer experience.
-
-        (We'll get back to you soon and you won't go onto any shady email lists)
+        ## Tell us about your project for a better customer experience.
 
 - block: code
   background:  "#EFEFEF"
   padding: bottom
   content: |-
+    <span style="font-size:100%"><strong>Don't want to email?</strong> Why not <a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/the-access-agency/15min-chat'});return false;">schedule a 15 minute chat through Calendly?</a></span><p>
+
+      <span><strong>Or call us</strong> on<a href="tel:0423058273"> +61 042 358 273.</a><p>
+
       <form action="https://getform.io/f/1512ba6c-05c0-40ee-9b67-eb3e78da2878" method="POST">
+
+      <h2> Email Form</h2>
 
       <label for="first_name">Enter your first name*</br>
       <input type="text" name="first_name" placeholder="First name"  size="35" class="submissionfield w-full rounded-md" required="required" style="font-size:15pt; font-weight:400;" ></label></p>
@@ -46,7 +46,7 @@ blocks:
 
 
       <label for="text-area">Tell us about your journey to better access*:</br>
-      <textarea name="comment" rows="7" cols="45" placeholder="Describe your project and how better access and information can help..." class="contact-text-input w-full rounded-md font-light " required="required" style="font-size:15pt; font-weight:200;"></textarea><p>
+      <textarea name="comment" rows="7" cols="45" placeholder="Describe your project and how better access and information can help..." class="contact-text-input w-full rounded-md font-light" required="required" style="font-size:15pt; font-weight:200;"></textarea><p>
 
       <button type="submit" class="button2"
       data-sitekey="reCAPTCHA_site_key"
@@ -67,10 +67,8 @@ blocks:
       <p>
       <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
       <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
-      <span style="font-size:80%"><strong>Don't want to email?</strong> Why not <a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/the-access-agency/15min-chat'});return false;">schedule a free 15 minute chat?</a></br>
 
-      <span><strong>Or call us</strong> on<a href="tel:0423058273"> +61 042 358 273.</a>
-      
+
 
 
 ---
