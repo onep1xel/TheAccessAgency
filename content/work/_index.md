@@ -110,22 +110,6 @@ blocks:
     url: "work/visit-victoria-marketing-excellence"
 
 
-- block: logos
-  container: big
-  background:  "#E8E8E8"
-  color: muted # light dark muted
-  heading: Other customers we've worked with
-  logos:
-  - image: https://via.placeholder.com/200x70/333333
-    alt: Lorem
-  - image: https://via.placeholder.com/200x70/333333
-    alt: Lorem
-  - image: https://via.placeholder.com/200x70/333333
-    alt: Lorem
-  - image: https://via.placeholder.com/200x70/333333
-    alt: Lorem
-
-
 - block: cta
   background:  "#253148"
   color: light # light dark muted

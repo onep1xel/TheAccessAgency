@@ -78,14 +78,14 @@ blocks:
   padding: top
   container: small
   images:
-  - image: https://via.placeholder.com/1000x800/666666
-    alt: Lorem
-  - image: https://via.placeholder.com/1000x800/666666
-    alt: Lorem
-  - image: https://via.placeholder.com/1000x800/666666
-    alt: Lorem
-  - image: https://via.placeholder.com/1000x800/666666
-    alt: Lorem
+  - image: /images/tiles/1x1-fast-pram.jpg
+    alt: pram
+  - image: /images/tiles/1x1-car-transfer-guy.jpg
+    alt: guy transfering from car to wheelchair
+  - image: /images/tiles/1x1-autumn-parks-steps.jpg
+    alt: difficulty walking up steps
+  - image: /images/tiles/1x1-access-sign.jpg
+    alt: Access sign
 
 
 
@@ -136,7 +136,7 @@ blocks:
 
         Barriers that stop visitors enjoying themselves are varied.
         They can be a result of frailty, low-vision, concentration, strength, hearing-loss, even mood.
-        
+
         **Beach matting was originally rolled out for wheelchair users, now everyone uses it as a way to get onto the beach. Accessibility features usually come to benefit everyone.**
 
   - title: People with disabilities don’t spend

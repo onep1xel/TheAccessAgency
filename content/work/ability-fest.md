@@ -22,8 +22,8 @@ blocks:
 - block: header
   background:  "#253148"
   color: light # light dark muted
-  heading: Ability Fest - Social Media Video Takeover
-  text: Showcasing Australia's only purpose-made accessible music festival.
+  heading: Social Media Video Takeover
+  text: Ability Fest / Visit Melbourne
 
 - block: text
   background:  "#E8E8E8"

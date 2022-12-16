@@ -158,20 +158,6 @@ blocks:
 
 
 
-
-
-- block: images
-  columns: 2
-  background:  "#EFEFEF"
-  padding: bottom
-  images:
-  - image: https://via.placeholder.com/900x900/666666
-    alt: Lorem
-  - image: https://via.placeholder.com/900x900/666666
-    alt: Lorem
-
-
-
 - block: media
   type: image # image video slider
   image: /images/hero.jpg
