@@ -60,6 +60,12 @@ blocks:
 
     Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in.
 
+    | Tables   |      Are      |  Cool |  Cool |
+    |----------|:-------------:|------:|------:|
+    | col 1 is |  left-aligned | $1600 |$1600 |
+    | col 2 is |    centered   |   $12 |$12 |
+    | col 3 is | right-aligned |    $1 |$1 |
+
 
 - block: button
   background:  "#E8E8E8"

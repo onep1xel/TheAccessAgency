@@ -18,19 +18,23 @@ blocks:
 - block: header
   background:  "#253148"
   color: light # light dark muted
-  heading: Get Skilled Access - Accessible Content Guidelines
-  text: A go-to guide for making visitor content inclusive and accessible
+  heading: Accessible Content Guidelines
+  text: Get Skilled Access / Queensland Governent
 
 - block: text
   background:  "#E8E8E8"
   content: |-
-    Sometimes you want a map or guidebook to step you though an unfamiliar or complex topic.
+    **Sometimes you want a map or guidebook to step you though an unfamiliar or complex topic.**
 
-    That’s the idea behind the Accessible Communications Guidelines we created for local government agencies (LGAs) and tourism operators. Contracted by [*Get Skilled Access*](https://getskilledaccess.com.au/) as part of their Queensland Accessible Tourism project, we explored the best practice and recommended approaches to communications.
+    That’s the idea behind the **Accessible Communications Guidelines** we created for local government agencies (LGAs) on behalf of [*Get Skilled Access*](https://getskilledaccess.com.au/).
 
-    Topics include creating a workflow, producing accessible articles, video and audio content, accessible publishing best-practice and reviewing content for good access.
+    Contracted as part of the [*Queensland Accessible Tourism*](https://teq.queensland.com/au/en/industry/what-we-do/cruise_indigenous_nature_tourism/accessible-tourism) project, we provided a 50-page document outlining accessibility principles and considerations in simple terms.
 
-    We see the resulting 50-page document being used as a go-to guide for tourism businesses and LGAs when creating material for visitors with access needs.
+    We documented best practice in digital accessibility with topics including communications workflow, producing accessible articles, undertaking a video and audio content, accessible publishing and reviewing content for good access.
+
+    The resulting guide is an invaluable resource – one tourism businesses and LGAs can use to provide material for all kinds of visitors.
+
+
 
 
     *#AccessibleContent #AccessibleCommunications #CommunicationGuidelines*

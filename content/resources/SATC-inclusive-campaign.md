@@ -1,12 +1,12 @@
 ---
-title: SA tourism campaign shows life, not limits. Accessible Tourism in mainstream marketing.
-image: images/post-bgs/post-SATC-campaign-2.jpg
+title: SA tourism campaign shows life, not limits.
+image: images/post-bgs/post-SATC-campaign-4.jpg
 summary: To be blunt, destinations are 'leaving money on the table'. Tourism businesses are ignoring the social elephant in the room if they ignore access and inclusion.  (3 min read)
-read: Read the thinking behind inclusive representation
+read: Read about representation in ads
 date: 2022-05-12
 featured: false
 categories:
-- articles
+- Resources
 
 blocks:
 - block: resources

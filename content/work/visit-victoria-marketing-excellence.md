@@ -11,7 +11,7 @@ blocks:
 - block: media
   type: image # image video slider
   image: /images/work/VV/VV-01-1700x1100-2.jpg
-  alt: Small squares with photos of Ryan presenting 
+  alt: Small squares with photos of Ryan presenting
   video: #
   slides: #
 
@@ -19,22 +19,20 @@ blocks:
 - block: header
   background:  "#253148"
   color: light # light dark muted
-  heading: Access and Inclusion in the marketing mix
-  text: Presenting for the Visit Victoria program, Marketing Excellence.
+  heading: Access and Inclusion in tourism presentations
+  text: Visit Victoria.
 
 - block: text
   background:  "#E8E8E8"
   content: |-
-    #### Overview
 
-    We were honoured to be engaged by Visit Victoria to talk about accessible tourism as part of their Marketing Excellence program, a 4-day workshop for best-in-class operators.
+    We were excited to be asked to present about Accessible Tourism at [**Visit Victoria's**](https://corporate.visitvictoria.com "Visit Victoria corporate website") **‘Marketing Excellence’ program**.
 
-    Designed to identify outstanding product offerings in Victoria – the program ensures operators have the tools and capability to excel in their communication to consumers. The goal is to empower them to deliver an exceptional experience throughout the visitor’s journey with them.
+    The 4-day workshop for best-in-class operators culminated in an afternoon of presentations about hot opportunities in selected areas – spotlighting First Nations, Sustainability and Accessibility. Ryan spoke about myths, visitor types, revenue opportunities, and legal obligations – followed up by international and local examples and simple steps to getting started.
 
-    Ryan spoke at the two sessions in 2022 – sharing insights, impact and getting started in accessible and inclusive tourism. Statistics, revenue and obligations were followed up by international and local examples and getting started in the practise.
+    The two sessions in 2022 were well attended, and a chance to learn about marketing from the state’s peak body.
 
-
-    *#Access #Inclusion #AccessibelTourismGuidance #MarketingAccessibility*
+    *#Access #Inclusion #AccessibleTourism #MarketingAccessibility*
 
 
 

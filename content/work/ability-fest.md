@@ -10,7 +10,7 @@ navbar:
 blocks:
 - block: media
   type: video # image video slider
-  image: 
+  image: /images/work/Visit-Victoria-carousel-02.jpg
   alt: Visit Victoria - Ability Fest
   video: video/ability-fest-video-4.mp4
   slides:
@@ -29,14 +29,18 @@ blocks:
   background:  "#E8E8E8"
   content: |-
 
-    **Ability Fest**, organised by the Dylan Alcott Foundation and Untitled Group, is Australia’s only fully accessible and inclusive music festival. The 2021 event was held in Melbourne’s Alexandra Gardens with top-notch acts like *Alex the Astronaut*, *Illy*, *Pecking Duck*, *What So Not* and *Confidence Man*.
-    The unique event featured Auslan interpreters, a Marveloo Changing Places toilet, accessible toilets, ramps and matting throughout, a sensory chill zone, Bindi Maps beacon navigation, elevated viewing platforms, dog guide relief and water bowls, quiet areas and lots more.
+    [Ability Fest](https://www.abilityfest.com.au) is Australia’s only fully accessible and inclusive music festival.
 
-    Ryan interviewed attendees, organisers, volunteers and Dylan himself about the vision and purpose of the day. Given ‘Access All Areas’ the goal was to show slices of the event as the day rolled on. Ryan filmed and edited the video highlights and patched them across to Visit Victoria for release. He also looked at other accessible music venues across the city too – for year-round entertainment in our dynamic city.
+    Ryan attended and created video packages for [Visit Melbourne](https://www.visitmelbourne.com) that were then shared with their nine hundred thousand local and international followers.
 
-    The video series was viewed by local and international audiences – showcasing Melbourne as a safe inclusive and accessible city – reinforcing our liveable city credentials.
+    Organised by the [Dylan Alcott Foundation](https://dylanalcottfoundation.com.au) and Untitled Group, the 2021 event was held in Melbourne’s picturesque Alexandra Gardens. The headline acts were some of Australia’s top-notch regulars like *Alex the Astronaut*, *Illy*, *Pecking Duck*, *What So Not* and *Confidence Man*.
 
-    *#AccessibleMusic #AccessibleMusicFestival*
+    Ryan had ‘access all areas’ to share the view of a disabled festivalgoer. He attended with another wheelchair user, Sebastian, and his carer Michael. They arrived and got the lay of the land, checking out the food trucks, dancefloors and raised viewing areas.
+
+    The unique event featured Auslan interpreters, a portable Changing Places toilet, matting throughout, a sensory chill zone, elevated viewing platforms and lots more.
+    Ryan spliced together interviews, backstage footage and on the spot reviews and fireworks. The video wrapped up with suggestions of other accessible live music options in Melbourne.
+    This video takeover showcased Ability Fest and framed Melbourne as a safe, inclusive and accessible city – reinforcing our liveable city credentials to visitors.
+
 
 
 - block: images
@@ -64,8 +68,8 @@ blocks:
 - block: cta
   background:  "#253148"
   color: light # light dark muted
-  heading: Access at events is crucial and promoting accessibility is good marketing
-  text: Let's talk about how we can help
+  heading: Access at events is crucial - and promoting accessibility is good marketing
+  text: Find out how we can help
   button:
     style: mint # whale mint sand
     text: Get in touch
