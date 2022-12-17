@@ -49,14 +49,15 @@ menu:
     weight: 70
 
   social:
-  - name: Instagram
-    url: "https://www.instagram.com/freewheelweekends/"
-    pre: instagram
-    weight: 20
   - name: Linkedin
     url: "https://www.linkedin.com/in/ryansmith-au/"
     pre: linkedin
+    weight: 20
+  - name: Instagram
+    url: "https://www.instagram.com/freewheelweekends/"
+    pre: instagram
     weight: 30
+
 
   footer:
   - name: Home
