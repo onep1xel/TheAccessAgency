@@ -7,7 +7,7 @@
 			<div class="flex justify-start lg:w-0 lg:flex-1">
 				<a href="{{ "/" | relURL }}">
 					<span class="sr-only">{{ .Site.Title }}</span>
-					<img class="h-12 sm:h-14 w-auto" src="{{ .Site.Params.logo_footer | absURL }}" width="40" height="40" alt="{{ .Site.Title }}" />
+					<img class="h-10 sm:h-12 w-auto" src="{{ .Site.Params.logo_footer | absURL }}" width="40" height="40" alt="{{ .Site.Title }}" />
 				</a>
 			</div>
 			<div class="flex items-center">
@@ -34,11 +34,11 @@
 		<div class="space-y-1 px-6 sm:px-12">
 			{{ $currentPage := . }}
 			{{ range .Site.Menus.navbar }}
-					<a href="{{ .URL }}" class="block py-2 sm:py-2.5 {{ if $currentPage.HasMenuCurrent "navbar" . }}font-bold{{ else }}font-semibold{{ end }} hover:underline text-sand-regular hover:text-white text-4xl sm:text-5xl underline-offset-8 decoration-2" 
+					<a href="{{ .URL }}" class="block py-1.5 sm:py-1.5 {{ if $currentPage.HasMenuCurrent "navbar" . }}font-bold{{ else }}font-semibold{{ end }} hover:underline text-sand-regular hover:text-white text-3xl sm:text-4xl underline-offset-8 decoration-2"
 					{{ if in .URL "http" }} target="_blank"{{ end }}>{{ .Name }}</a>
 			{{ end }}
 		</div>
-		<div class="flex space-x-10 p-6 sm:p-12 items-center justify-end">
+		<div class="flex space-x-10 p-6 sm:p-12 items-center justify-start">
 			{{ range .Site.Menus.social }}
 				<a href="{{ .URL }}" target="_blank" rel="noopener noreferrer" class="text-sand-regular hover:text-white">
 					<span class="sr-only">{{ .Name }}</span>
