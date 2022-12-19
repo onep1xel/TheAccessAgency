@@ -21,9 +21,9 @@ blocks:
     ### Access Audits and Reviews
     We review desktop and on-site access in physical and digital spaces. Understanding existing circumstances allows for quick wins, a broader overview and the roadmap to more inclusive experiences.
 
-    - Mystery shopping
-    - High-level physical access reviews
+    - Physical access audits and reviews
     - Digital accessibility reviews
+    - Mystery shopping
     - Physical and digital benchmarking
     - Universal Design recommendations
 

@@ -14,10 +14,10 @@ blocks:
   alt: Visit Victoria - Ability Fest
   video: video/ability-fest-video-4.mp4
   slides:
-  - /images/work/Visit-Victoria-carousel-02.jpg
-  - /images/work/Visit-Victoria-carousel-03.jpg
-  - /images/work/Visit-Victoria-carousel-04.jpg
-  - /images/work/Visit-Victoria-carousel-05.jpg
+  - /images/work/Ability-Fest/Visit-Victoria-carousel-02.jpg
+  - /images/work/Ability-Fest/Visit-Victoria-carousel-03.jpg
+  - /images/work/Ability-Fest/Visit-Victoria-carousel-04.jpg
+  - /images/work/Ability-Fest/Visit-Victoria-carousel-05.jpg
 
 - block: header
   background:  "#253148"
