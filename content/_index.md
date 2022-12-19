@@ -10,13 +10,9 @@ blocks:
 - block: media
   type: video # image video slider
   image: /images/hero.jpg
-  alt: Lorem Ipsum
+  alt: Accessibility Video - snipets of people with access needs
   video: /video/website-video-tAA-3.mp4
-  slides:
-  - https://via.placeholder.com/1500x600/333333
-  - https://via.placeholder.com/1500x600/333333
-  - https://via.placeholder.com/1500x600/333333
-
+  slides: #
 
 - block: feature
   background:  "#ffffff"

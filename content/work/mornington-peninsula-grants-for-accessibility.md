@@ -11,7 +11,7 @@ blocks:
 - block: media
   type: video # image video slider
   image: #
-  alt: Lorem Ipsum
+  alt: Mornington Peninsula Shire Video 
   video: /video/MornPen-web-clip.mp4
   slides: #
 

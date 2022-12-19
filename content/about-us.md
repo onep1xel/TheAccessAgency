@@ -1,7 +1,7 @@
 ---
 layout: blocks
 title: About Us
-url: "about-us"
+url: ""
 description: Better access and inclusion means better business
 image: /images/TheAccessAgency_thumbnail.png
 navbar:

@@ -1,8 +1,8 @@
 ---
 layout: blocks
 title: Our Services
-url: "services"
-description: Better access and inclusion means better business
+url: ""
+description: Better access and inclusion means better experiences
 image: /images/TheAccessAgency_thumbnail.png
 navbar:
   background: "#ffffff"

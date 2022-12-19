@@ -2,7 +2,7 @@
 layout: blocks
 title: Accessible Tourism
 url: ""
-description:
+description: What is Accessible Tourism and why does it matter?
 image: /images/TheAccessAgency_thumbnail.png
 navbar:
   background: "#ffffff"
