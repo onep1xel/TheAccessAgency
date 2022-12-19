@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: Accessible Dining in Melbourne Video
+title: Accessible Dining in Melbourne Video - City of Melbourne
 url: ""
 description:
 image: /images/TheAccessAgency_thumbnail.png

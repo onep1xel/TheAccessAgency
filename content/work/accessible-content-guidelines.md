@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: Accessible Content Guidelines - Social Media Video Takeover
+title: Accessible Content Guidelines - GSA and Queensland Government 
 url: ""
 description:
 image: /images/TheAccessAgency_thumbnail.png

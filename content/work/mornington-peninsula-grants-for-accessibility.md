@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: Mornington Peninsula Shire - Grants for Better Accessibility
+title: Grants for Better Accessibility - Mornington Peninsula Shire
 url: ""
 description:
 image: /images/TheAccessAgency_thumbnail.png
