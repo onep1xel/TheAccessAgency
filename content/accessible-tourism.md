@@ -17,7 +17,7 @@ blocks:
 - block: text
   background:  "#E8E8E8"
   content: |-
-    The [UNWTO](https://www.unwto.org/accessibility "United Nations World Tourism Organization") have labelled it a [**‘exceptional business opportunity’**](https://www.unwto.org/accessibility "UNWTO Accessible Tourism Page"), the EU say it will [**‘boost competitiveness’**](https://single-market-economy.ec.europa.eu/sectors/tourism/offer/accessible-tourism_en "EU Enhancing Tourism") and Tourism Australia feature it heavily in their [**‘Future of Demand’**](https://www.tourism.australia.com/en/insights/consumer-research/future-of-demand.html "Tourism Australia, Future of Demand Report") report.
+    The [UNWTO](https://www.unwto.org/accessibility "United Nations World Tourism Organization") call it a [**‘exceptional business opportunity’**](https://www.unwto.org/accessibility "UNWTO Accessible Tourism Page"), the EU say it will [**‘boost competitiveness’**](https://single-market-economy.ec.europa.eu/sectors/tourism/offer/accessible-tourism_en "EU Enhancing Tourism") and Tourism Australia feature it heavily in their [**‘Future of Demand’**](https://www.tourism.australia.com/en/insights/consumer-research/future-of-demand.html "Tourism Australia, Future of Demand Report") report.
     Over in the UK, they’re on a mission to become [‘the most accessible destination in Europe by 2025’](https://www.visitbritain.org/tourism-sector-deal "Visit Britain, Tourism Sector Deal")‘.
 
     **So what’s all the excitement about?**
@@ -93,7 +93,7 @@ blocks:
   background:  "#E8E8E8"
   content: |-
 
-    ## What does it mean for operators?
+    ## What does it mean for organisations?
 
     In everyday terms, it's about improving the visitor experience both online and in-person -
     recognising and respecting difference, removing barriers and enhancing independence and dignity.   
