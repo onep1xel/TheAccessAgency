@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: Work | The Access Agency
+title: Work
 url: ""
 description:
 image: /images/TheAccessAgency_thumbnail.png

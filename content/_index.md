@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: Design, Access and Communications
+title: Home
 url: ""
 description:
 image: /images/TheAccessAgency_thumbnail.png
