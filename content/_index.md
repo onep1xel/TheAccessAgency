@@ -11,7 +11,7 @@ blocks:
   type: video # image video slider
   image: /images/hero.jpg
   alt: Accessibility Video - snipets of people with access needs
-  video: /video/website-video-tAA-3.mp4
+  video: /video/website-video-2.mp4
   slides: #
 
 - block: feature
