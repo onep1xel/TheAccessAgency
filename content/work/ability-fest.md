@@ -12,7 +12,7 @@ blocks:
   type: video # image video slider
   image: /images/work/Visit-Victoria-carousel-02.jpg
   alt: Visit Victoria - Ability Fest
-  video: video/ability-fest-video-4.mp4
+  video: video/Ability-Fest-Video.mp4
   slides:
   - /images/work/Ability-Fest/Visit-Victoria-carousel-02.jpg
   - /images/work/Ability-Fest/Visit-Victoria-carousel-03.jpg
