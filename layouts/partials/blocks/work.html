@@ -1,5 +1,5 @@
-<div class="relative px-4 sm:px-6 lg:px-8 
-  {{ if eq .padding "top" }}pt-20 lg:pt-24{{ else if eq .padding "bottom" }}pb-20 lg:pb-24{{ else }}py-20 lg:py-24{{ end }}  
+<div class="relative px-4 sm:px-6 lg:px-8
+  {{ if eq .padding "top" }}pt-20 lg:pt-24{{ else if eq .padding "bottom" }}pb-20 lg:pb-24{{ else }}py-20 lg:py-24{{ end }}
   {{ if eq .color "light" }}text-white {{ else if eq .color "muted" }}text-sand-regular{{ else }}text-whale-regular{{ end }}"{{ with .background }} style="background: {{ . }}"{{ end }}>
   <div class="mx-auto max-w-3xl {{ if eq .layout "vertical" }}lg:max-w-6xl{{ else }}lg:max-w-6xl{{ end }}">
     {{ if eq .layout "vertical" }}
@@ -18,7 +18,7 @@
           </div>
         {{ end }}
       </div>
-      
+
       <div class="lg:w-1/2 lg:ml-[25%] mt-12 lg:mt-16">
         {{ with .superheading }}
           <h2 class="text-2xl font-bold leading-tight sm:leading-none sm:text-3xl text-rose-regular mb-3">{{ . }}</h2>
@@ -37,7 +37,7 @@
       </div>
     {{ else }}
       <style scoped>
-        @media (min-width: 1024px) { 
+        @media (min-width: 1024px) {
           .offset { margin-top: {{ .offset | default "0" }} };
         }
       </style>
@@ -57,7 +57,7 @@
             </div>
           {{ end }}
         </div>
-        
+
         <div class="offset">
           {{ with .superheading }}
             <h2 class="text-2xl font-bold leading-tight sm:leading-none sm:text-3xl text-rose-regular mb-3">{{ . }}</h2>
@@ -76,6 +76,6 @@
         </div>
       </div>
     {{ end }}
-      
+
   </div>
 </div>

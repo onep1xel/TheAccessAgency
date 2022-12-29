@@ -1,5 +1,5 @@
 ---
-title: Hitting the town
+title: Hitting the town | The Access Agency
 image: images/post-bgs/post-Hit-the-town-4.jpg
 summary: A few tips for travellers with access needs planning to get out and about
 date: 2022-05-12

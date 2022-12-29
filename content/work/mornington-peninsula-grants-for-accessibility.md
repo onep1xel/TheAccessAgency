@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: Grants for Better Accessibility - Mornington Peninsula Shire
+title: Work | Business Accessibility - Mornington Peninsula Shire | The Access Agency
 url: ""
 description:
 image: /images/TheAccessAgency_thumbnail.png
@@ -11,7 +11,7 @@ blocks:
 - block: media
   type: video # image video slider
   image: #
-  alt: Mornington Peninsula Shire Video 
+  alt: Mornington Peninsula Shire Video
   video: /video/MornPen-web-clip.mp4
   slides: #
 

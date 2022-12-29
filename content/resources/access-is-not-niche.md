@@ -1,6 +1,6 @@
 ---
-title: Not niche, not nice to have
-image: images/post-bgs/post-not-niche-2.jpg 
+title: Not niche, not nice to have | The Access Agency
+image: images/post-bgs/post-not-niche-2.jpg
 summary: Accessible Tourism, is it just another ‘sunk cost’ for a struggling travel sector? Far from it. It's imperative for the future of the industry. We bust 3 myths.
 date: 2022-05-12
 categories:
