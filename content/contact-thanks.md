@@ -14,7 +14,7 @@ blocks:
 - block: header
   background:  "#253148"
   color: light # light dark muted
-  heading: Contact details
+  heading: Thanks, we'll be in touch
   text:
 
 - block: text
@@ -24,7 +24,7 @@ blocks:
 
         We'll respond soon.
 
-        In the meantime, why not check out some of our resouces and articles.
+        In the meantime, why not check out some of our resources and articles.
 
 
 - block: resources
@@ -34,11 +34,11 @@ blocks:
 - block: cta
   background:  "#8fc8b5"
   color: dark # light dark muted
-  heading: Contact us to find out more about how to communicate your access
-  text: Lorem ipsum dolor sit amet, consectetuer adipiscing elitiam.
+  heading: Thanks for contacting us
+  text: Heading back home?
   button:
     style: whale # whale mint sand
-    text: Return to the portfolio
+    text: Return to our homepage
     url: "#"
 
 ---
