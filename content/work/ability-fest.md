@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: Work | Social Media Takeover - Ability Fest & Visit Melbourne | The Access Agency
+title: Work | Social Media Takeover - Ability Fest & Visit Melbourne
 url: ""
 description:
 image: /images/TheAccessAgency_thumbnail.png

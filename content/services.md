@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: Our Services | The Access Agency - Design, Access and Communications
+title: Our Services
 url: ""
 description: Better access and inclusion means better experiences
 image: /images/TheAccessAgency_thumbnail.png

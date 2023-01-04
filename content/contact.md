@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: Contact Us | The Access Agency - Design, Access and Communications
+title: Contact Us
 url: ""
 description:
 image: /images/TheAccessAgency_thumbnail.png

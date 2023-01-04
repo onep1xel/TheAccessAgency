@@ -1,5 +1,5 @@
 ---
-title: Marketing Access - Conference Presentation | The Access Agency
+title: Marketing Access - Conference Presentation
 image: images/post-bgs/post-AITCAP.jpg
 summary: At The Accessible and Inclusive Tourism Conference (AITCAP) I spoke about utilising accessibiity informatiuon in the marketing mix.
 date: 2022-05-12

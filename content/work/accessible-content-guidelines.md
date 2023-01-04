@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: Work | Accessible Content Guidelines - Get Skilled Access and Queensland Government | The Access Agency
+title: Work | Accessible Content Guidelines - Get Skilled Access and Queensland Government
 url: ""
 description:
 image: /images/TheAccessAgency_thumbnail.png

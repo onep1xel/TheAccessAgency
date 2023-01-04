@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: Work | Marketing Excellence - Visit Victoria | The Access Agency
+title: Work | Marketing Excellence - Visit Victoria
 url: ""
 description:
 image: /images/TheAccessAgency_thumbnail.png

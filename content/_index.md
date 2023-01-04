@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: Home | The Access Agency - Design, Access and Communications
+title: Home
 url: ""
 description: Help people travel better. We develop content, provide expert advice and guide operators towards better visitor access and inclusion.
 image: /images/TheAccessAgency_thumbnail.png

@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: Work | Accessible Dining Video - City of Melbourne | The Access Agency
+title: Work | Accessible Dining Video - City of Melbourne
 url: ""
 description:
 image: /images/TheAccessAgency_thumbnail.png
@@ -17,9 +17,10 @@ blocks:
   - /images/work/CoM/CoM-01-1700x1300.jpg
   - /images/work/CoM/CoM-02-1700x1300.jpg
   - /images/work/CoM/CoM-03-1700x1300.jpg
+  - /images/work/CoM/CoM-06-1700x1300.jpg
   - /images/work/CoM/CoM-04-1700x1300.jpg
   - /images/work/CoM/CoM-05-1700x1300.jpg
-  - /images/work/CoM/CoM-06-1700x1300.jpg
+
 
 - block: header
   background:  "#253148"

@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: Accessible Tourism | The Access Agency - Design, Access and Communications
+title: Accessible Tourism
 url: ""
 description: What is Accessible Tourism and why does it matter?
 image: /images/TheAccessAgency_thumbnail.png

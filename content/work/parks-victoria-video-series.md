@@ -1,8 +1,8 @@
 ---
 layout: blocks
-title: Work | ‘All Abilities Access’ Video Series - Parks Victoria | The Access Agency
+title: Work | ‘All Abilities Access’ Video Series - Parks Victoria
 url: ""
-description:
+description: Parks Victoria enlisted us to produce a series of videos about accessible parks
 image: /images/TheAccessAgency_thumbnail.png
 navbar:
   background: "#ffffff"

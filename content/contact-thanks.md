@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: Thanks for reaching out | The Access Agency - Design, Access and Communications
+title: Thanks for your message
 url: ""
 description:
 image: /images/TheAccessAgency_thumbnail.png

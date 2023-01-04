@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: Freewheel Weekends | The Access Agency - Design, Access and Communications
+title: Freewheel Weekends
 url: ""
 description: Our Passion Project that started everything
 image: /images/TheAccessAgency_thumbnail.png

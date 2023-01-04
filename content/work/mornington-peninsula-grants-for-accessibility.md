@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: Work | Business Accessibility - Mornington Peninsula Shire | The Access Agency
+title: Work | Business Accessibility - Mornington Peninsula Shire
 url: ""
 description:
 image: /images/TheAccessAgency_thumbnail.png

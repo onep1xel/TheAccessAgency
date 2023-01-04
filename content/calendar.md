@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: Calendar | The Access Agency - Design, Access and Communications
+title: Calendar
 url: ""
 description:
 image: /images/TheAccessAgency_thumbnail.png
