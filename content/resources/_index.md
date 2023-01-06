@@ -1,5 +1,5 @@
 ---
-title: Articles & Resources | The Access Agency
+title: Articles & Resources
 subheading:
 url:
 description:  

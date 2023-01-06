@@ -70,8 +70,8 @@ blocks:
   color: light # light dark muted
   padding: both # top bottom both (default)
   image: /images/Ryan.png
-  heading: Ryan Smith
-  text: Founder Ryan has 20+ years in design and strategic communications and is a qualified access consultant.
+  heading: About Us
+  text: Ryan Smith has 20+ years in design and strategic communications and is a qualified access consultant.
   link:
     text: Find out more
     url: "/about-us"

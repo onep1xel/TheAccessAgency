@@ -14,7 +14,7 @@ blocks:
   background:  "#EFEEEF"
   color: dark # light dark muted
   layout: horizontal # horizontal vertical
-  offset: 26% # for horizontal layout set top spacing for text column in percentages eg 25%
+  offset: 20% # for horizontal layout set top spacing for text column in percentages eg 25%
   image: images/work/thumbnail-work_PV-700x700-2.jpg
   youtube: #5gqEJT1lxgk
   vimeo: #613481548
@@ -30,7 +30,7 @@ blocks:
   background:  "#253148"
   color: light # light dark muted
   layout: horizontal # horizontal vertical
-  offset: 26% # for horizontal layout set top spacing for text column in percentages eg 25%
+  offset: 20% # for horizontal layout set top spacing for text column in percentages eg 25%
   image: images/work/thumbnail-work_CoM-700x700.jpg
   youtube: #5gqEJT1lxgk
   vimeo: #613481548
@@ -47,7 +47,7 @@ blocks:
   background:  "#EFEEEF"
   color: dark # light dark muted
   layout: horizontal # horizontal vertical
-  offset: 26% # for horizontal layout set top spacing for text column in percentages eg 25%
+  offset: 20% # for horizontal layout set top spacing for text column in percentages eg 25%
   image: images/work/thumbnail-work_Morn_pen-700x700-2.jpg
   youtube: #5gqEJT1lxgk
   vimeo: #771124484
@@ -64,7 +64,7 @@ blocks:
   background:  "#253148"
   color: light # light dark muted
   layout: horizontal # horizontal vertical
-  offset: 26% # for horizontal layout set top spacing for text column in percentages eg 25%
+  offset: 20% # for horizontal layout set top spacing for text column in percentages eg 25%
   image: images/work/thumbnail-work-Ability-Fest-700x700.jpg
   youtube: #5gqEJT1lxgk
   vimeo: #771124484
@@ -81,7 +81,7 @@ blocks:
   background:  "#EFEEEF"
   color: dark # light dark muted
   layout: horizontal # horizontal vertical
-  offset: 26% # for horizontal layout set top spacing for text column in percentages eg 25%
+  offset: 20% # for horizontal layout set top spacing for text column in percentages eg 25%
   image: images/work/thumbnail-work_GSA-700x700.jpg
   youtube: #5gqEJT1lxgk
   vimeo: #771124484
@@ -97,7 +97,7 @@ blocks:
   background:  "#253148"
   color: light # light dark muted
   layout: horizontal # horizontal vertical
-  offset: 26% # for horizontal layout set top spacing for text column in percentages eg 25%
+  offset: 20% # for horizontal layout set top spacing for text column in percentages eg 25%
   image: images/work/thumbnail-work_VV-Excellence-700x700.jpg
   youtube: #5gqEJT1lxgk
   vimeo: #771124484
