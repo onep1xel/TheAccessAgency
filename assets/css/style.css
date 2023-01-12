@@ -1968,6 +1968,10 @@ select {
   border-radius: 0.75rem;
 }
 
+.rounded {
+  border-radius: 0.25rem;
+}
+
 .border {
   border-width: 1px;
 }
@@ -2057,6 +2061,11 @@ select {
 .bg-sand-regular {
   --tw-bg-opacity: 1;
   background-color: rgb(214 214 206 / var(--tw-bg-opacity));
+}
+
+.bg-orange-500 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(249 115 22 / var(--tw-bg-opacity));
 }
 
 .bg-gradient-to-t {
@@ -2209,6 +2218,11 @@ select {
 .py-5 {
   padding-top: 1.25rem;
   padding-bottom: 1.25rem;
+}
+
+.py-10 {
+  padding-top: 2.5rem;
+  padding-bottom: 2.5rem;
 }
 
 .pb-14 {
@@ -2503,6 +2517,11 @@ select {
   color: rgb(220 75 54 / var(--tw-text-opacity));
 }
 
+.text-stone-900 {
+  --tw-text-opacity: 1;
+  color: rgb(28 25 23 / var(--tw-text-opacity));
+}
+
 .underline {
   -webkit-text-decoration-line: underline;
           text-decoration-line: underline;
@@ -2780,6 +2799,11 @@ a.markdown-btn {
 .hover\:bg-sand-light:hover {
   --tw-bg-opacity: 1;
   background-color: rgb(237 237 230 / var(--tw-bg-opacity));
+}
+
+.hover\:bg-orange-600:hover {
+  --tw-bg-opacity: 1;
+  background-color: rgb(234 88 12 / var(--tw-bg-opacity));
 }
 
 .hover\:text-white:hover {
@@ -3546,6 +3570,15 @@ a.markdown-btn {
   .lg\:text-6xl {
     font-size: 3.75rem;
     line-height: 1.1872;
+  }
+
+  .lg\:text-5xl {
+    font-size: 3rem;
+    line-height: 1.1872;
+  }
+
+  .lg\:leading-tight {
+    line-height: 1.25;
   }
 }
 
