@@ -1420,6 +1420,22 @@ select {
   bottom: 0px;
 }
 
+.-left-3 {
+  left: -0.75rem;
+}
+
+.-left-6 {
+  left: -1.5rem;
+}
+
+.-left-4 {
+  left: -1rem;
+}
+
+.-left-5 {
+  left: -1.25rem;
+}
+
 .z-\[99\] {
   z-index: 99;
 }
@@ -1583,6 +1599,10 @@ select {
   display: inline-flex;
 }
 
+.table {
+  display: table;
+}
+
 .flow-root {
   display: flow-root;
 }
@@ -1711,12 +1731,12 @@ select {
   max-width: 60rem;
 }
 
-.max-w-5xl {
-  max-width: 64rem;
-}
-
 .max-w-\[56rem\] {
   max-width: 56rem;
+}
+
+.max-w-5xl {
+  max-width: 64rem;
 }
 
 .flex-none {
@@ -1755,6 +1775,16 @@ select {
 
 .translate-y-0 {
   --tw-translate-y: 0px;
+  transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
+}
+
+.translate-x-3 {
+  --tw-translate-x: 0.75rem;
+  transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
+}
+
+.-translate-x-3 {
+  --tw-translate-x: -0.75rem;
   transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
 }
 
@@ -1819,10 +1849,6 @@ select {
 
 .justify-start {
   justify-content: flex-start;
-}
-
-.justify-end {
-  justify-content: flex-end;
 }
 
 .justify-center {
@@ -2325,6 +2351,10 @@ select {
   font-weight: 800;
 }
 
+.font-light {
+  font-weight: 300;
+}
+
 .uppercase {
   text-transform: uppercase;
 }
@@ -2463,14 +2493,14 @@ select {
   color: rgb(34 197 94 / var(--tw-text-opacity));
 }
 
-.text-rose-regular {
-  --tw-text-opacity: 1;
-  color: rgb(220 75 54 / var(--tw-text-opacity));
-}
-
 .text-muted-regular {
   --tw-text-opacity: 1;
   color: rgb(104 104 103 / var(--tw-text-opacity));
+}
+
+.text-rose-regular {
+  --tw-text-opacity: 1;
+  color: rgb(220 75 54 / var(--tw-text-opacity));
 }
 
 .underline {
@@ -2520,6 +2550,10 @@ select {
 
 .outline-black {
   outline-color: #000;
+}
+
+.filter {
+  filter: var(--tw-blur) var(--tw-brightness) var(--tw-contrast) var(--tw-grayscale) var(--tw-hue-rotate) var(--tw-invert) var(--tw-saturate) var(--tw-sepia) var(--tw-drop-shadow);
 }
 
 .transition-all {
@@ -2619,6 +2653,25 @@ select {
   height: 2rem;
 }
 
+a.markdown-btn {
+  font-size: inherit;
+  font-family: inherit;
+  color: var(--font-color);
+  background-color: var(--md-bg-color-dark);
+  border-radius: $border-radius;
+  text-align: center;
+  padding: 5px 1em 5px 1em;
+  text-decoration: none;
+  border: none;
+  cursor: pointer;
+  &:hover,
+  &:active {
+    text-decoration: none;
+    background-color: var(--primary-color);
+    color: var(--bg-color);
+  }
+}
+
 .swiper-pagination-bullet {
   --tw-bg-opacity: 1 !important;
   background-color: rgb(214 214 206 / var(--tw-bg-opacity)) !important;
@@ -2676,6 +2729,22 @@ select {
 
 .block-text.prose h3 {
   font-weight: 700;
+}
+
+.before\:-left-5::before {
+  content: var(--tw-content);
+  left: -1.25rem;
+}
+
+.before\:-m-5::before {
+  content: var(--tw-content);
+  margin: -1.25rem;
+}
+
+.before\:translate-x-3::before {
+  content: var(--tw-content);
+  --tw-translate-x: 0.75rem;
+  transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
 }
 
 .hover\:bg-pink-700:hover {
@@ -3061,8 +3130,8 @@ select {
     display: inline;
   }
 
-  .sm\:h-14 {
-    height: 3.5rem;
+  .sm\:h-12 {
+    height: 3rem;
   }
 
   .sm\:h-\[30rem\] {
@@ -3123,14 +3192,14 @@ select {
     padding-right: 5rem;
   }
 
-  .sm\:py-2\.5 {
-    padding-top: 0.625rem;
-    padding-bottom: 0.625rem;
+  .sm\:py-1\.5 {
+    padding-top: 0.375rem;
+    padding-bottom: 0.375rem;
   }
 
-  .sm\:py-2 {
-    padding-top: 0.5rem;
-    padding-bottom: 0.5rem;
+  .sm\:py-1 {
+    padding-top: 0.25rem;
+    padding-bottom: 0.25rem;
   }
 
   .sm\:px-7 {
@@ -3223,6 +3292,10 @@ select {
 }
 
 @media (min-width: 768px) {
+  .md\:-left-6 {
+    left: -1.5rem;
+  }
+
   .md\:col-span-2 {
     grid-column: span 2 / span 2;
   }

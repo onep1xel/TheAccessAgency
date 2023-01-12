@@ -5,7 +5,13 @@
     {{ if eq .layout "vertical" }}
       <div class="lg:w-1/2">
         {{ if .image }}
-          <img src="{{ .image | absURL }}" alt="{{ .heading }}">
+          {{ if .link.url }}
+            <a href="{{ .link.url | relURL }}">
+          {{ end }}
+            <img src="{{ .image | absURL }}" alt="{{ .heading }}">
+          {{ if .link.url }}
+            </a>
+          {{ end }}
         {{ end }}
         {{ with .youtube }}
           <div class="aspect-w-16 aspect-h-9">
@@ -44,7 +50,13 @@
       <div class="grid lg:grid-cols-2 gap-12 lg:gap-16">
         <div>
           {{ if .image }}
+            {{ if .link.url }}
+              <a href="{{ .link.url | relURL }}">
+            {{ end }}
             <img src="{{ .image | absURL }}" alt="{{ .heading }}">
+            {{ if .link.url }}
+              </a>
+            {{ end }}
           {{ end }}
           {{ with .youtube }}
             <div class="aspect-w-16 aspect-h-9">
