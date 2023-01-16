@@ -45,7 +45,7 @@ blocks:
 
   - heading: 80%
     text: of disabled travellers are likely to tell others about their experiences
-    subtext: The Access Survey, Euans Guide, 2019
+    subtext: The Access Survey, Euans Guide , 2019
     color: dark # dark light muted
     background: "#9FCBE9"
     image:
