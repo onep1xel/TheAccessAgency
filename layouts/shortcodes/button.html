@@ -6,4 +6,13 @@
 {{ with .Get "relref" }}
   {{ $ref = relref $ . }}
 {{ end }}
-<a {{ with $ref }}href="{{.}}" {{ end }} {{ with $target }} target="{{.}}"{{ if eq $target "_blank" }} rel="noreferrer"{{ end }}{{ end }} class="markdown-btn{{ with .Get "class"  }} {{ . }}{{ end }}">{{- .Inner | safeHTML -}}</a>
+<div class="not-prose">
+<a {{ with $ref }}href="{{.}}" {{ end }} {{ with $target }} target="{{.}}"{{ if eq $target "_blank" }} rel="noreferrer"{{ end }}{{ end }} 
+class="inline-flex leading-none sm:leading-none px-4 sm:px-7 pt-2 pb-2.5 sm:pt-3.5 sm:pb-4 font-semibold text-xl sm:text-2xl items-center space-x-4 sm:space-x-6 {{ if eq (.Get "style") "whale" }}text-white bg-whale-regular hover:bg-whale-light{{ else if eq (.Get "style") "mint" }}text-whale-regular bg-mint-regular hover:bg-mint-light{{ else }}text-whale-regular bg-sand-regular hover:bg-sand-light{{ end }}">
+<span>{{- .Get "text" -}}</span>
+{{ $icon := printf "%s%s%s" "icons/" (.Get "icon") ".svg" }}
+{{ if templates.Exists (printf "%s%s" "partials/" $icon ) }}
+  {{ partial $icon }}
+{{ end }}
+</a>
+</div>

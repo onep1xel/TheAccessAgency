@@ -32,3 +32,5 @@ Depending on your size and type of organisation, you may not need to be accredit
 
 As a traveller, I just want to know that I can get there, get around easily and be able to use the loo!
 Remember, too, that people with access needs are often just looking for more information. Make it prominent, make it clear, and make it detailed. It’s one of the most cost-effective things you can do.
+
+{{< button href="/test/" style="mint" text="Get Started" icon="chevron-right" >}}
