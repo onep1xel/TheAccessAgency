@@ -52,18 +52,20 @@ blocks:
   color: muted # light dark muted
   heading: Clients we’ve worked with
   logos:
-  - image: /images/logos/logo-Visit-Victoria.png
+  - image: /images/logos/logo-Visit-Victoria-2.svg
     alt: Visit Victoria logo
-  - image: /images/logos/logo-City-of-Melbourne.png
-    alt: City of Melbourne logo
-  - image: /images/logos/logo-Parks-Victoria.png
+  - image: /images/logos/logo-Parks-Victoria-2.svg
     alt: Parks Victoria logo
-  - image: /images/logos/logo-Aust-Red-Cross.png
-    alt: Australian Red Cross logo  
-  - image: /images/logos/logo-Sovereign-Hill.png
-    alt: Sovereign-Hill logo
-  - image: /images/logos/logo-Mornington-Peninsula-Shire.png
+  - image: /images/logos/logo-City-of-Melbourne-2.svg
+    alt: City of Melbourne logo
+  - image: /images/logos/logo-Mornington-Peninsula-Shire-2.svg
     alt: Mornington Peninsuls Shire Logo
+  - image: /images/logos/logo-Sovereign-Hill-2.svg
+    alt: Sovereign-Hill logo
+  - image: /images/logos/logo-Aust-Red-Cross-2.svg
+    alt: Australian Red Cross logo
+
+
 
 - block: author
   background:  "#686867"
