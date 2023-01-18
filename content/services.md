@@ -50,7 +50,7 @@ blocks:
 - block: media
   type: image # image video slider
   image: /images/hero.jpg
-  alt: Lorem Ipsum
+  alt: the back of a family, they're looking away, through a wall of glass to an aquarium - a seal swims by with a stream of small bubbles trailing after it
   video: #
   slides: #
 
