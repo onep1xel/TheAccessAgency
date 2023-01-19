@@ -16,6 +16,8 @@ blocks:
 
 - block: text
   background:  "#EFEFEF"
+  content:
+  columns: 2
   content: |-
 
     ### Access Audits and Reviews
@@ -26,10 +28,16 @@ blocks:
     - Mystery shopping
     - Physical and digital benchmarking
     - Universal Design recommendations
+    #
+    We'll assist by reviewing enivronments and products - with the ultimate aim of making spaces barrier-free and services more equitable and enjoyable.
+    #
+    {{< button href="/contact/" style="whale" text="Let’s talk" icon="chevron-right" >}}
+
+  content_2: |-
 
     ### Strategic Communication Design
 
-    Providing on-brand, inspiring and informative materials, we inspire better visitation. Aligning expectations, enhancing good-will and
+    Providing on-brand, inspiring and informative materials, we inspire better visitation. Aligning expectations, enhancing good-will and building the assets you need for the future of tourism.
 
     - Custom access marketing and messaging
     - ‘Our Access’ webpage content and design
@@ -38,7 +46,10 @@ blocks:
     - Video design and production
     - Digital design and artwork (custom icon sets, language style guides, )
     - Storytelling and Campaign Design
-
+    #
+    Talk to us about your communication and campaign needs. We'll help you reach customers at all stages of their journey - helping them travel better and live well.
+    #
+    {{< button href="/contact/" style="whale" text="Let’s talk" icon="chevron-right" >}}
 
 - block: quote
   background:  "#9fcbe9"

@@ -10,17 +10,14 @@ navbar:
 download:
   text: Download checklist (94kb, PDF)
   url: "#"
+
 blocks:
+
 - block: header
   background:  "#253148"
   color: light # light dark muted
-  heading: Contact
-  text:
-
-- block: text
-  background:  "#EFEFEF"
-  content: |-
-        #### Schedule a time below
+  heading: Schedule a time
+  text: Choose a time and forat that works
 
 
 - block: code
@@ -28,8 +25,8 @@ blocks:
   padding:
   content: |-
 
-      <div class="calendly-inline-widget" data-url="https://calendly.com/the-access-agency/15min-chat" style="min-width:320px;height:630px;"></div>
-      <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+      <div class="calendly-inline-widget" data-url="https://calendly.com/the-access-agency?hide_landing_page_details=1&hide_gdpr_banner=1" style="min-width:320px;height:630px;"></div>
+      <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>  
 
 
 
