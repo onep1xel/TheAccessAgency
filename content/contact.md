@@ -22,7 +22,7 @@ blocks:
   background:  "#EFEFEF"
   padding: bottom
   content: |-
-    <span style="font-size:100%"><strong>Don't want to email?</strong> Why not <a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/the-access-agency/15min-chat'});return false;">schedule a 15 minute chat through Calendly?</a></span><p>
+    <span style="font-size:100%"><strong>Don't want to email?</strong> Why not <a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/the-access-agency/15min-intro'});return false;">schedule a 15 minute chat through Calendly?</a></span><p>
 
       <span><strong>Or call us</strong> on<a href="tel:0423058273"> +61 042 358 273.</a><p>
 
