@@ -2,7 +2,7 @@
 layout: blocks
 title: Home
 url: ""
-description: Help people travel better. We develop content, provide expert advice and guide operators and government towards better access and inclusion in tourism.
+description: We help people travel better. By developing content, providing expert advice and guiding operators and government towards better access and inclusion in tourism.
 image: /images/TheAccessAgency_thumbnail.png
 navbar:
   background: "#181818"
@@ -36,7 +36,7 @@ blocks:
       text: More about Accessible Tourism
       url: "accessible-tourism"
   - heading: Our work
-    text: We create customised access materials for organisations, we provide guidance and we audit physical and digital spaces to enable better access.
+    text: We make places easier to visit. By proving tailored access materials for visitors, guidance for stakeholders, and reviews of physical and digital properties - everyone can feel welcomed.
     link:
       text: See our work
       url: "work"
