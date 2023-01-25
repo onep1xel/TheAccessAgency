@@ -36,7 +36,7 @@ blocks:
       text: More about Accessible Tourism
       url: "accessible-tourism"
   - heading: Our work
-    text: We make places easier to visit. By proving tailored access materials for visitors, guidance for stakeholders, and reviews of physical and digital properties - everyone can feel welcomed.
+    text: We make places easier to visit. By providing tailored access materials for visitors, guidance for stakeholders, and reviews of physical and digital properties - everyone can feel welcomed.
     link:
       text: See our work
       url: "work"
