@@ -69,12 +69,10 @@ blocks:
     -	Tailored Messaging and Positioning for Accessibility
     -	‘Digital Accessibility Hub’ Content and Design
     -	Region-specific Visitor Access Guides
-    -	Accessible & Inclusive Itineraries
+    -	Communication Design
     -	Map Design and Wayfinding
+    - Campaign Design and Artwork
     -	Video Design and Production
-      -	Digital Design and Artwork
-
-
 
 - block: quote
   background:  "#9fcbe9"

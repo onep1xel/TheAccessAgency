@@ -68,7 +68,7 @@ blocks:
   image: images/work/thumbnail-work-Ability-Fest-700x700.jpg
   youtube: #5gqEJT1lxgk
   vimeo: #771124484
-  superheading: Visit Victoria
+  superheading: Visit Melbourne | Ability Fest
   heading: Ability Fest Social Takeover
   text: Capturing the sound, energy, excitement – and accessibility – at Australia’s premier accessible music festival.
   link:
@@ -85,8 +85,8 @@ blocks:
   image: images/work/thumbnail-work_GSA-700x700.jpg
   youtube: #5gqEJT1lxgk
   vimeo: #771124484
-  superheading: Get Skilled Access
-  heading: Accessible Content Guidelines
+  superheading: Get Skilled Access | Queensland Government
+  heading: Accessible Content Guidelines & Video Script Writing
   text: We created the go-to guide for state government and tourism operators in Queensland. Working with Get Skilled Access on the Accessibe Tourism Project.
   link:
     style: whale # whale mint sand

@@ -23,7 +23,7 @@ blocks:
   background:  "#253148"
   color: light # light dark muted
   heading: Social Media Video Takeover
-  text: Ability Fest / Visit Melbourne
+  text: Visit Melbourne | Ability Fest 
 
 - block: text
   background:  "#E8E8E8"
