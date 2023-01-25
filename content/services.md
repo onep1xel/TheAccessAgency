@@ -17,39 +17,64 @@ blocks:
 - block: text
   background:  "#EFEFEF"
   content:
-  columns: 2
+  color: dark # light dark muted
+  padding: none
+  columns: 1
   content: |-
 
-    ### Access Audits and Reviews
-    We review desktop and on-site access in physical and digital spaces. Understanding existing circumstances allows for quick wins, a broader overview and the roadmap to more inclusive experiences.
+    ### 1. Accessible Tourism Strategy & Guidelines
+    Develop a vision and business case for Inclusive Tourism. Clarifying opportunities and enabling people to service the sector with defined objectives.
+    See the [Accessible Information Guidelines](/work/accessible-content-guidelines "Link to Accessible Information Guidelines") we created for Queensland Government or the [Communications and Campaign work](/work/mornington-peninsula-grants-for-accessibility "Link to our work with Mornington Peninsula Shire") we did with Mornington Peninsula Shire.
+    -	Communications Guidelines
+    -	Region-wide/ Destination-wide Accessible Tourism Strategy
+    -	Disability Advisory Group Engagement
+    -	Presentations on Accessible Tourism
+    -	C-Level Engagement Sessions
+    -	Staff Training from Lived Experience
+    -	Competitor Benchmarking
 
-    - Physical access audits and reviews
-    - Digital accessibility reviews
-    - Mystery shopping
-    - Physical and digital benchmarking
-    - Universal Design recommendations
-    #
-    We'll assist by reviewing enivronments and products - with the ultimate aim of making spaces barrier-free and services more equitable and enjoyable.
-    #
-    {{< button href="/contact/" style="whale" text="Let’s talk" icon="chevron-right" >}}
 
-  content_2: |-
 
-    ### Strategic Communication Design
+- block: text
+  background:  "#E0E0E0"
+  content:
+  color: dark # light dark muted
+  padding: none
+  columns: 1
+  content: |-
 
-    Providing on-brand, inspiring and informative materials, we inspire better visitation. Aligning expectations, enhancing good-will and building the assets you need for the future of tourism.
+    ### 2. Digital and Physical Accessibility Reviews
+    Uncovering barriers to access in physical and digital properties with a qualified [Access Consultant.](/about-us "Link to About Us") We find solutions for existing barriers, review existing product and develop future inclusive experiences. [Talk to us](/contact "Link to contact us") about the digital accessibility review we did for Sovereign Hill or the Access review we undertook for Monty Hub.
+    -	Physical Access – Audits and Reporting
+    -	Digital Accessibility – Reviews and Reporting
+    -	Mystery shopping
+    -	Physical and Digital Accessibility Benchmarking
+    -	Universal Design recommendations
 
-    - Custom access marketing and messaging
-    - ‘Our Access’ webpage content and design
-    - Region accessible itineraries (Inclusive Itineraries)
-    - Map design and way-finding
-    - Video design and production
-    - Digital design and artwork (custom icon sets, language style guides, )
-    - Storytelling and Campaign Design
-    #
-    Talk to us about your communication and campaign needs. We'll help you reach customers at all stages of their journey - helping them travel better and live well.
-    #
-    {{< button href="/contact/" style="whale" text="Let’s talk" icon="chevron-right" >}}
+
+- block: text
+  background:  "#EFEFEF"
+  content:
+  color: dark # light dark muted
+  padding: none
+  columns: 1
+  content: |-
+
+    ### 3. Promote Accessibility and Connect with Customers
+    Connect with a growing customer base who want great access. We use digital marketing best practice to provide information and materials when they’re needed – so visitors can visit easier and explore more.
+    Using digital marketing best practice to provide information when its needed so visitors can visit with confidence and explore more.
+    See our videos for [Parks Victoria](/work/parks-victoria-video-series "Link to our work for Parks Victoria") and [Ability Fest](/work/ability-fest "Link to our work for Visit Melbourne and AbilityFest")
+
+    -	Accessible Itinerary Design
+    -	Tailored Messaging and Positioning for Accessibility
+    -	‘Digital Accessibility Hub’ Content and Design
+    -	Region-specific Visitor Access Guides
+    -	Accessible & Inclusive Itineraries
+    -	Map Design and Wayfinding
+    -	Video Design and Production
+      -	Digital Design and Artwork
+
+
 
 - block: quote
   background:  "#9fcbe9"
