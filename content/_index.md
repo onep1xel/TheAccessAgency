@@ -18,7 +18,7 @@ blocks:
   background:  "#ffffff"
   color: dark # light dark muted
   superheading:
-  heading: Provide better access & <br>great information to draw more customers.
+  heading: Provide better access & <br>great information to draw more visitors.
   subheading: We develop content, provide expert advice and guide operators towards better visitor access and inclusion.
   link:
     text: #
