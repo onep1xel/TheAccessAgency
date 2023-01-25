@@ -12,7 +12,7 @@ blocks:
   background:  "#253148"
   color: light # light dark muted
   heading: Services
-  text: Helping you promote and create more inclusive visitor experiences.
+  text: Creating and promoting accessible visitor experiences for everyone
 
 - block: text
   background:  "#EFEFEF"
