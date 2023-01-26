@@ -1,6 +1,7 @@
 ---
 title: Marketing Access - Conference Presentation
 image: images/post-bgs/post-AITCAP.jpg
+alt: a collage illustration of a blue lanyard in the background is a purple-toned crowd of people crossing the street 
 summary: At The Accessible and Inclusive Tourism Conference (AITCAP) I spoke about utilising accessibiity informatiuon in the marketing mix.
 date: 2022-05-12
 featured: false

@@ -72,6 +72,7 @@ blocks:
   color: light # light dark muted
   padding: both # top bottom both (default)
   image: /images/Ryan.png
+  alt: a circular colour photo of Ryan, he's in his wheelchair smiling at the camera
   heading: About Us
   text: Ryan Smith has 20+ years in design and strategic communications and is a qualified access consultant.
   link:

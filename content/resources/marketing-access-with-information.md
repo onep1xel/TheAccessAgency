@@ -1,6 +1,7 @@
 ---
 title: Informative marketing wins with visitors
 image: images/post-bgs/post-information-maze-2.jpg
+alt: a graphic illustration showing a maze from above to the left is a symbol of a perons on crutches, to the far right is a small symbol of directional sign
 summary: You don't need a budget the size of Disneyworld to promote the visitability of your business. But you do need to provide accurate information.
 date: 2022-05-12
 categories:

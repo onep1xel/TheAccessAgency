@@ -11,7 +11,7 @@ blocks:
 - block: media
   type: slider # image video slider
   image: /images/hero.jpg
-  alt: Lorem Ipsum
+  alt: photos of delicious meals, a group of people arriving at a restaurant, a dinner group with 3 people raising their glasses and smiling  
   video: https://assets.mixkit.co/videos/preview/mixkit-set-of-plateaus-seen-from-the-heights-in-a-sunset-26070-large.mp4
   slides:
   - /images/work/CoM/CoM-01-1700x1300.jpg

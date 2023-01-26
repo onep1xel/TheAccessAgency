@@ -11,7 +11,7 @@ blocks:
 - block: media
   type: video # image video slider
   image: /images/work/Visit-Victoria-carousel-02.jpg
-  alt: Visit Victoria - Ability Fest
+  alt: video sequence showing the busy music festival - people dancing and smiling and performers on stage
   video: video/Ability-Fest-Video.mp4
   slides:
   - /images/work/Ability-Fest/Visit-Victoria-carousel-02.jpg
@@ -23,7 +23,7 @@ blocks:
   background:  "#253148"
   color: light # light dark muted
   heading: Social Media Video Takeover
-  text: Visit Melbourne | Ability Fest 
+  text: Visit Melbourne | Ability Fest
 
 - block: text
   background:  "#E8E8E8"

@@ -2,7 +2,7 @@
 layout: blocks
 title: Our Services
 url: ""
-description: Better access and inclusion means better experiences
+description: Better access and inclusion means better experiences – and that means more visitors
 image: /images/TheAccessAgency_thumbnail.png
 navbar:
   background: "#ffffff"
@@ -80,14 +80,6 @@ blocks:
   padding: both
   quote: …a Masterclass for every tourism business
   author: Attendee at 'Marketing Accessibility' at AITCAP (Accessible Inclusive Conference)
-
-- block: media
-  type: image # image video slider
-  image: /images/hero.jpg
-  alt: the back of a family, they're looking away, through a wall of glass to an aquarium - a seal swims by with a stream of small bubbles trailing after it
-  video: #
-  slides: #
-
 
 
 - block: cta

@@ -11,7 +11,7 @@ blocks:
 - block: media
   type: slider # image video slider
   image: /images/hero.jpg
-  alt: Lorem Ipsum
+  alt: images of people, some with disabilities, visiting green parks in the sunshine. One is near a lake, another in the forest and another at the Twelve Apostles. 
   video: /video/website-video_final.mp4
   slides:
   - /images/work/PV/Parks-Victoria-carousel-02.jpg

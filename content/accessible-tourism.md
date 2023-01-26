@@ -35,6 +35,7 @@ blocks:
     color: # dark light muted
     background: ""
     image: /images/tiles/tile-bg-wheelchair-army.jpg
+    alt: a dark green tinted silhouette of a wheelchair user
 
   - heading: 40%+
     text: of baby boomers will be retiring with some form of disability
@@ -63,6 +64,7 @@ blocks:
     color: # dark light muted
     background: ""
     image: /images/tiles/tile-bg-Braille-plum.jpg
+    alt: close up fingers running over Braille on a handrail
 
   - heading: $3.3b
     text: The overall tourism expenditure of people with disability in Australia
@@ -79,13 +81,13 @@ blocks:
   container: small
   images:
   - image: /images/tiles/1x1-fast-pram.jpg
-    alt: pram
+    alt: a close up of a modern pram moving quickly along a path
   - image: /images/tiles/1x1-car-transfer-guy.jpg
-    alt: guy transfering from car to wheelchair
+    alt: a young asian male driver is transfering from his car onto a manual wheelchair
   - image: /images/tiles/1x1-autumn-parks-steps.jpg
-    alt: difficulty walking up steps
+    alt: rear shot of a silver-haired couple tackling some steps in a national park, the female is using a crutch to help balance and the male is providing assistance. It's Winter and they're wear coats.
   - image: /images/tiles/1x1-access-sign.jpg
-    alt: Access sign
+    alt: A close up of the Universal Sign for Access - it appears attached to the wall 
 
 
 

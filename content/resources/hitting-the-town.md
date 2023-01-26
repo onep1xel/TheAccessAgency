@@ -1,6 +1,7 @@
 ---
 title: Hitting the town
 image: images/post-bgs/post-Hit-the-town-4.jpg
+alt: the iconic monopoly board design with each square refering to accessibiity - one says 'toilet not accessible, move on' another says 'no accessible parking, keep moving'
 summary: A few tips for travellers with access needs planning to get out and about
 date: 2022-05-12
 categories:

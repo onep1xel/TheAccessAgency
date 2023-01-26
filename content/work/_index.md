@@ -16,8 +16,7 @@ blocks:
   layout: horizontal # horizontal vertical
   offset: 20% # for horizontal layout set top spacing for text column in percentages eg 25%
   image: images/work/thumbnail-work_PV-700x700-2.jpg
-  youtube: #5gqEJT1lxgk
-  vimeo: #613481548
+  alt: a photo taken from under a tree, a person in a wheelchair is rolling with a friend. The sun is shining.
   superheading: Parks Victoria
   heading: All Abilities Video Series
   text: The Twelve Apostles, Wilsons Prom, The Grampians and more – Ten iconic Victorian Parks visited and showcased through the eyes of someone with reduced mobility.
@@ -26,12 +25,14 @@ blocks:
     text: See the project
     url: "work/parks-victoria-video-series"
 
+
 - block: work
   background:  "#253148"
   color: light # light dark muted
   layout: horizontal # horizontal vertical
   offset: 20% # for horizontal layout set top spacing for text column in percentages eg 25%
   image: images/work/thumbnail-work_CoM-700x700.jpg
+  alt: a photo of a table showing three meals, the closest is a desert, it has an ice scream upside-down with the cone sticking up, its surrounded by a pancake, pink macarons and strawberries.
   youtube: #5gqEJT1lxgk
   vimeo: #613481548
   superheading: City of Melbourne
@@ -49,8 +50,7 @@ blocks:
   layout: horizontal # horizontal vertical
   offset: 20% # for horizontal layout set top spacing for text column in percentages eg 25%
   image: images/work/thumbnail-work_Morn_pen-700x700-2.jpg
-  youtube: #5gqEJT1lxgk
-  vimeo: #771124484
+  alt: the cover of a document - 'Accessible Business - Self Assessment Guide'. The cover is green on a green background.
   superheading: Mornington Peninsula
   heading: Accessibility Grants – Communications and promotions
   text: Communicating the importance of access to traders and operators to drive grant applications and ultimately, better visitor experiences.
@@ -66,6 +66,7 @@ blocks:
   layout: horizontal # horizontal vertical
   offset: 20% # for horizontal layout set top spacing for text column in percentages eg 25%
   image: images/work/thumbnail-work-Ability-Fest-700x700.jpg
+  alt: a picture of the stage at an outdoor music festival. In the foreground is a raised platform with wheelchair users watching the gig.  
   youtube: #5gqEJT1lxgk
   vimeo: #771124484
   superheading: Visit Melbourne | Ability Fest
@@ -83,6 +84,7 @@ blocks:
   layout: horizontal # horizontal vertical
   offset: 20% # for horizontal layout set top spacing for text column in percentages eg 25%
   image: images/work/thumbnail-work_GSA-700x700.jpg
+  alt: Photo of a older lady with short hair, smiling as she uses a motorised wheelchair. Her hand is in focus in the foreground, it's on the wheelchair controller, the rest of the image is slightly blurred.
   youtube: #5gqEJT1lxgk
   vimeo: #771124484
   superheading: Get Skilled Access | Queensland Government
@@ -99,6 +101,7 @@ blocks:
   layout: horizontal # horizontal vertical
   offset: 20% # for horizontal layout set top spacing for text column in percentages eg 25%
   image: images/work/thumbnail-work_VV-Excellence-700x700.jpg
+  alt: a graphic of a venn diagram, three circle overlap and in each is a word; Tourism, Access and Comms. 
   youtube: #5gqEJT1lxgk
   vimeo: #771124484
   superheading: Visit Victoria

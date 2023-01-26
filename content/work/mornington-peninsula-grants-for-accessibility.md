@@ -11,7 +11,7 @@ blocks:
 - block: media
   type: video # image video slider
   image: #
-  alt: Mornington Peninsula Shire Video
+  alt: footage of person using crutches, captioned footage showing an automatic door. Caption reads, can customers easily find and get into the building? Motion graphics of text refering to access barriers.  
   video: /video/MornPen-web-clip.mp4
   slides: #
 
@@ -49,11 +49,11 @@ blocks:
   container: big
   images:
   - image: /images/work/MP/MP-cover-01-800x800.jpg
-    alt: Lorem
+    alt: Cover design of a brochure - the self-assessment checklist for 'Physical Access'. The cover and background are yellow
   - image: /images/work/MP/MP-cover-02-800x800.jpg
-    alt: Lorem
+    alt: Cover design of a brochure - the self-assessment checklist for 'Access to Information'. The cover and background are blue
   - image: /images/work/MP/MP-cover-03-800x800.jpg
-    alt: Lorem
+    alt: Cover design of a brochure - the self-assessment checklist for 'Attitudes and Awareness'. The cover and background are green
 
 
 - block: quote

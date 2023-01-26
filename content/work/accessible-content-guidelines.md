@@ -11,7 +11,7 @@ blocks:
 - block: media
   type: image # image video slider
   image: /images/work/GSA/GSA-01-1700x1100.jpg
-  alt: Lorem Ipsum
+  alt: 2 panel image - one image shows a person with limited hand movement, the other a person with a hearing aid
   video: https://assets.mixkit.co/videos/preview/mixkit-set-of-plateaus-seen-from-the-heights-in-a-sunset-26070-large.mp4
   slides: #
 

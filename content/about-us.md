@@ -60,14 +60,13 @@ blocks:
   padding:
   images:
   - image: images/about/1x1-Ryan-face-closeup.jpg
-    alt: close up of Ryan's face
+    alt: a close up of Ryan's face, he is mid forties, has blue eyes, pale skin and is wearing a white shirt
   - image: images/about/1x1-Ryan-camping.jpg
-    alt: Ryan in a wheelchair on a beach smiling at the camera, wheelchair has off-road wheels and off-road attachment
+    alt: Ryan in a wheelchair on a beach smiling at the camera, wheelchair has off-road wheels and off-road attachment on the front
   - image: images/about/1x1-Ryan-photographer-BW.jpg
-    alt: Ryan facing away from the camera taking a photo of a tropical scene
+    alt: Black and white photo of Ryan facing away from the camera taking a photo of a river scene in Egypt
   - image: images/about/1x1-Ryan-eating.jpg
-    alt: Ryan sitting at a small table in a bar smiling at someone out of shot
-
+    alt: Ryan sitting at a small table in a bar, there's snack on the table and he's smiling at someone out of shot
 
 
 - block: text
@@ -161,7 +160,7 @@ blocks:
 - block: media
   type: image # image video slider
   image: /images/hero.jpg
-  alt: Lorem Ipsum
+  alt: silhouette of a family cross a large underground aquarium. There are two small girls and a wheelchair user touching the glass as a seal swims quickly past. Hundreds of tiny bubbles string behind from its mouth.
   video: https://assets.mixkit.co/videos/preview/mixkit-set-of-plateaus-seen-from-the-heights-in-a-sunset-26070-large.mp4
   slides:
   - https://via.placeholder.com/1500x600/333333

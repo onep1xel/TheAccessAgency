@@ -11,7 +11,7 @@ blocks:
 - block: media
   type: image # image video slider
   image: /images/work/VV/VV-01-1700x1100-2.jpg
-  alt: Small squares with photos of Ryan presenting
+  alt: A series of small square with photos of Ryan presenting at the visit victoria program
   video: #
   slides: #
 
