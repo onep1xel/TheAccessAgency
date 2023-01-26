@@ -59,15 +59,14 @@ blocks:
   container: small
   padding:
   images:
-  - image: images/about/1x1-Ryan-face-closeup.jpg
-    alt: a close up of Ryan's face, he is mid forties, has blue eyes, pale skin and is wearing a white shirt
-  - image: images/about/1x1-Ryan-camping.jpg
-    alt: Ryan in a wheelchair on a beach smiling at the camera, wheelchair has off-road wheels and off-road attachment on the front
-  - image: images/about/1x1-Ryan-photographer-BW.jpg
-    alt: Black and white photo of Ryan facing away from the camera taking a photo of a river scene in Egypt
-  - image: images/about/1x1-Ryan-eating.jpg
-    alt: Ryan sitting at a small table in a bar, there's snack on the table and he's smiling at someone out of shot
-
+  - image: images/about/1x1-Ryan-snorkeling.jpg
+    alt: underwater shot of Ryan in a wetsuit, mask and snorkel holding a starfish, someone out of shot holds their hand out
+  - image: images/about/1x1-Ryan-wheelchair-street.jpg
+    alt: black and white photo of Ryan sitting in his wheelchair smiling at the camera
+  - image: images/about/1x1-Ryan-felluca.jpg
+    alt: Black and white photo of Ryan sitting on a traditional Egyptian sailboat
+  - image: images/about/1x1-Ryan-RS-tree-lined-street.jpg
+    alt: wide photo of an alley way, someone in a wheelchair faces away from camera, the street is lined with dense potted green trees
 
 - block: text
   background:  "#EFEFEF"
