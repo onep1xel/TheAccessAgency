@@ -40,17 +40,17 @@ blocks:
     link:
       text: See our work
       url: "work"
-  - heading: Resources
-    text: Have a read – our thoughts on better access, authentic representation, and including accessibility in the marketing mix.
+  - heading: Services
+    text: We deliver a range of services across the Accessible Tourism space, from strategy & consulting to access reviews and design for communication & marketing.
     link:
       text: Take a look
-      url: "resources"
+      url: "services"
 
 - block: logos
   container: small
   background:  "#E8E8E8"
   color: muted # light dark muted
-  heading: Clients we’ve worked with
+  heading: Clients we’ve delivered with
   logos:
   - image: /images/logos/logo-Visit-Victoria-2.svg
     alt: Visit Victoria logo
@@ -60,10 +60,11 @@ blocks:
     alt: City of Melbourne logo
   - image: /images/logos/logo-Mornington-Peninsula-Shire-2.svg
     alt: Mornington Peninsuls Shire Logo
+  - image: /images/logos/logo-GSA-2-01-01.svg
+    alt: Get Skilled Access logo
   - image: /images/logos/logo-Sovereign-Hill-2.svg
     alt: Sovereign-Hill logo
-  - image: /images/logos/logo-Aust-Red-Cross-2.svg
-    alt: Australian Red Cross logo
+
 
 
 
