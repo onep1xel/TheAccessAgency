@@ -26,9 +26,9 @@ blocks:
     He started travelling in a wheelchair in 2010 and began writing about access in tourism in 2017 through his blog [*Freewheel Weekends*](https://www.freewheelweekends.com.au "Visit Freewheel Weekends").\
     He's visited New York, Texas, Tokyo, Berlin, Paris, London, Dublin, Amsterdam, Leiden, Helsinki, Copenhagen, Stockholm, Dusseldorf, Auckland, Tel Aviv, Jerusalem, Cairo, Alexandria and a few other places.   
 
-    His design career has spanned 25 years working in London and Melbourne as a designer and communication consultant for Qantas, STA Travel, TFE Hotels, Jetstar, Visit Ballarat, Virgin Australia,  and many other organisations.
-    As a qualified Access Consultant (Dip.CPP50721), he understands and advocates for universal access and as a designer he loves to create innovative, elegant solutions.
-    He also makes a mean café late and is fond of birds.
+    His creative career has spanned 25 years, working in London and Melbourne as a designer, marketer and communication consultant for the likes of Qantas, STA Travel, TFE Hotels, Jetstar, Visit Ballarat, and Virgin Australia.
+    As a qualified Access Consultant (Dip.CPP50721), he understands and advocates for universal design and as a creative he loves to work with teams to innovative and deliver elegant solutions to customer problems.
+    He makes a mean café latte and is growing more and more fond of birds.
 
 
 - block: cards
@@ -47,7 +47,7 @@ blocks:
       text:
       url:
   - heading: Lived experience
-    text: Disabled traveller, wheelchair user and monocular.
+    text: Disabled traveller, wheelchair user and monocular
     link:
       text:
       url:
