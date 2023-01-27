@@ -2,7 +2,7 @@
 layout: blocks
 title: Home
 url: ""
-description: We help people travel better. By developing content, providing expert advice and guiding operators and government towards better access and inclusion in tourism.
+description: We make travel more inclusive and accessible. By providing expert advice and strategic content – travel is made better, more equitable and universally accessible.
 image: /images/TheAccessAgency_thumbnail.png
 navbar:
   background: "#181818"
