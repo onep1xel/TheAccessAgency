@@ -768,7 +768,7 @@ select {
 
 .prose :where(ul):not(:where([class~="not-prose"] *)) {
   list-style-type: disc;
-  padding-left: 1.625em;
+  padding-left: 0.99em;
 }
 
 .prose :where(ol > li):not(:where([class~="not-prose"] *))::marker {
@@ -973,7 +973,7 @@ select {
   --tw-prose-links: #111827;
   --tw-prose-bold: #111827;
   --tw-prose-counters: #6b7280;
-  --tw-prose-bullets: #d1d5db;
+  --tw-prose-bullets: #6B6B6B;
   --tw-prose-hr: #e5e7eb;
   --tw-prose-quotes: #111827;
   --tw-prose-quote-borders: #e5e7eb;
