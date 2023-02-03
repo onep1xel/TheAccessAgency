@@ -10,7 +10,7 @@ navbar:
 blocks:
 - block: media
   type: image # image video slider
-  image: /images/work/GSA/GSA-01-1700x1100.jpg
+  image: /images/work/GSA/GSA-02-1700x1100.jpg
   alt: 2 panel image - one image shows a person with limited hand movement, the other a person with a hearing aid
   video: https://assets.mixkit.co/videos/preview/mixkit-set-of-plateaus-seen-from-the-heights-in-a-sunset-26070-large.mp4
   slides: #
@@ -26,9 +26,9 @@ blocks:
   content: |-
     **Sometimes you want a map or guidebook to step you though an unfamiliar or complex topic.**
 
-    That’s the idea behind the **Accessible Communications Guidelines** we created for local government agencies (LGAs) on behalf of the terrific team at [*Get Skilled Access*](https://getskilledaccess.com.au/).
+    That’s the idea behind the [**Accessible Communications Guidelines**](https://www.dtis.qld.gov.au/__data/assets/pdf_file/0008/1661318/Accessible-Communication-and-Brand-Guidelines-Dec-22-.pdf) we wrote for local government agencies (LGAs) on behalf of the terrific team at [*Get Skilled Access*](https://getskilledaccess.com.au/).
 
-    Contracted as part of the [*Queensland Accessible Tourism*](https://teq.queensland.com/au/en/industry/what-we-do/cruise_indigenous_nature_tourism/accessible-tourism) project, we provided a 50-page document outlining accessibility principles and considerations in simple terms.
+    Contracted as part of the Queensland Accessible Tourism project, we provided a 30-page document outlining accessibility principles and considerations in simple terms. It's delivered as part of a suite of [**Accessible Tourism resources**](https://www.dtis.qld.gov.au/tourism/accessible-tourism/accessible-tourism-toolkit).
 
     We documented best practice in digital accessibility with topics including communications workflow, producing accessible articles, undertaking a video and audio content, accessible publishing and reviewing content for good access.
 
@@ -47,8 +47,10 @@ blocks:
 
     ### Script Writing for Accessible Tourism Video Modules
 
-    In additon to the guidelines we wrote the scripts for an accompanying video series.
-    This was an exercise in clarity and brevity. The challenge was to create succinct, conversational language covering 5 topic areas – ‘Defining disability, accessibility and inclusion’, ‘The Language of Disability’, ‘Inclusive Mindset and Universal Design’, ‘Misconceptions and Unconscious Bias’, and ‘The Business Case for Accessible Tourism’.
+    In additon to the guidelines we wrote the scripts for an [**accompanying video series.**](https://www.youtube.com/watch?v=n12GCLQsSRw&ab_channel=QueenslandTourismDevelopment)
+
+    **This was an exercise in clarity and brevity.** The challenge was to create succinct, conversational language covering 5 topic areas – ‘Defining disability, accessibility and inclusion’, ‘The Language of Disability’, ‘Inclusive Mindset and Universal Design’, ‘Misconceptions and Unconscious Bias’, and ‘The Business Case for Accessible Tourism’.
+
     Working with the amazing team at [*Get Skilled Access*](https://getskilledaccess.com.au/) – the results are clear, casual and powerful. We hope you like them as much as we do.
 
 - block: text
@@ -88,7 +90,7 @@ blocks:
   content: |-
     ### Providing visitor materials everyone can use.
 
-    98% of your customers will carry out some research online before they arrange a visit. Just like physical access, when you provide information in an accessible format, all your customers benefit. Ensuring your existing and new materials are universally available means baking it into your process and aligning to best-practice. We can help.
+    98% of your customers will carry out some research online before they arrange a visit. Just like physical access, when you provide information in an accessible format, all your customers benefit. Ensuring your visitor materials are universally available means baking it into your process and aligning to best-practice. We can help.
 
 
 - block: quote
@@ -102,7 +104,7 @@ blocks:
 - block: cta
   background:  "#253148"
   color: light # light dark muted
-  heading: Supply customer information everyone can use
+  heading: Provide visitor information for everyone
   text: Accessible information, delivered in a way everyone can use
   button:
     style: mint # whale mint sand

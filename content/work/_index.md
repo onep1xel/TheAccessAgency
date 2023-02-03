@@ -43,6 +43,40 @@ blocks:
     text: Take a look at the project
     url: "work/city-of-melbourne-accessible-dining-video"
 
+- block: work
+  background:  "#EFEEEF"
+  color: dark # light dark muted
+  layout: horizontal # horizontal vertical
+  offset: 20% # for horizontal layout set top spacing for text column in percentages eg 25%
+  image: images/work/thumbnail-work_GSA-700x700-2.jpg
+  alt: Photo of a older lady with short hair, smiling as she uses a motorised wheelchair. Her hand is in focus in the foreground, it's on the wheelchair controller, the rest of the image is slightly blurred.
+  youtube: #5gqEJT1lxgk
+  vimeo: #771124484
+  superheading: Get Skilled Access | Queensland Government
+  heading: Accessible Content Guidelines & Video Script Writing
+  text: We created the go-to guide for state government and tourism operators in Queensland. Working with Get Skilled Access on the Accessibe Tourism Project.
+  link:
+    style: whale # whale mint sand
+    text: Take a look at the project
+    url: "work/accessible-content-guidelines"
+
+
+- block: work
+  background:  "#253148"
+  color: light # light dark muted
+  layout: horizontal # horizontal vertical
+  offset: 20% # for horizontal layout set top spacing for text column in percentages eg 25%
+  image: images/work/thumbnail-work-Ability-Fest-700x700.jpg
+  alt: a picture of the stage at an outdoor music festival. In the foreground is a raised platform with wheelchair users watching the gig.  
+  youtube: #5gqEJT1lxgk
+  vimeo: #771124484
+  superheading: Visit Melbourne | Ability Fest
+  heading: Ability Fest Social Takeover
+  text: Capturing the sound, energy, excitement – and accessibility – at Australia’s premier accessible music festival.
+  link:
+    style: mint # whale mint sand
+    text: Take a look at the project
+    url: "work/ability-fest"
 
 - block: work
   background:  "#EFEEEF"
@@ -65,48 +99,13 @@ blocks:
   color: light # light dark muted
   layout: horizontal # horizontal vertical
   offset: 20% # for horizontal layout set top spacing for text column in percentages eg 25%
-  image: images/work/thumbnail-work-Ability-Fest-700x700.jpg
-  alt: a picture of the stage at an outdoor music festival. In the foreground is a raised platform with wheelchair users watching the gig.  
-  youtube: #5gqEJT1lxgk
-  vimeo: #771124484
-  superheading: Visit Melbourne | Ability Fest
-  heading: Ability Fest Social Takeover
-  text: Capturing the sound, energy, excitement – and accessibility – at Australia’s premier accessible music festival.
-  link:
-    style: mint # whale mint sand
-    text: Take a look at the project
-    url: "work/ability-fest"
-
-
-- block: work
-  background:  "#EFEEEF"
-  color: dark # light dark muted
-  layout: horizontal # horizontal vertical
-  offset: 20% # for horizontal layout set top spacing for text column in percentages eg 25%
-  image: images/work/thumbnail-work_GSA-700x700.jpg
-  alt: Photo of a older lady with short hair, smiling as she uses a motorised wheelchair. Her hand is in focus in the foreground, it's on the wheelchair controller, the rest of the image is slightly blurred.
-  youtube: #5gqEJT1lxgk
-  vimeo: #771124484
-  superheading: Get Skilled Access | Queensland Government
-  heading: Accessible Content Guidelines & Video Script Writing
-  text: We created the go-to guide for state government and tourism operators in Queensland. Working with Get Skilled Access on the Accessibe Tourism Project.
-  link:
-    style: whale # whale mint sand
-    text: Take a look at the project
-    url: "work/accessible-content-guidelines"
-
-- block: work
-  background:  "#253148"
-  color: light # light dark muted
-  layout: horizontal # horizontal vertical
-  offset: 20% # for horizontal layout set top spacing for text column in percentages eg 25%
-  image: images/work/thumbnail-work_VV-Excellence-700x700.jpg
-  alt: a graphic of a venn diagram, three circle overlap and in each is a word; Tourism, Access and Comms. 
+  image: images/work/thumbnail-work_VV-Excellence-700x700-2.jpg
+  alt: a graphic of a venn diagram, three circle overlap and in each is a word; Tourism, Access and Comms.
   youtube: #5gqEJT1lxgk
   vimeo: #771124484
   superheading: Visit Victoria
   heading: Marketing Excellence Sessions
-  text: The modern marketing mix for tourism should include accessibility. We provided sessions to Victorian tourism operators, so they can get started.
+  text: The modern marketing mix for tourism should include accessibility. We provided sessions to Victorian tourism operators.
   link:
     style: mint # whale mint sand
     text: Take a look at the project
@@ -114,12 +113,12 @@ blocks:
 
 
 - block: cta
-  background:  "#253148"
+  background:  "#8EC7B4"
   color: light # light dark muted
-  heading: See something you like for your business?
+  heading: See something that would work for you?
   text: Get in touch and we can provide better travel for everyone.
   button:
-    style: mint # whale mint sand
+    style: whale # whale mint sand
     text: Go to the Contact page
     url: "contact"
 
