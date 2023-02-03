@@ -67,7 +67,6 @@ blocks:
 
 
 
-
 - block: author
   background:  "#686867"
   color: light # light dark muted

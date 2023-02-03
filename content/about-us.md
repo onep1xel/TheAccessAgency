@@ -30,6 +30,23 @@ blocks:
     As a qualified Access Consultant (Dip.CPP50721), he understands and advocates for universal design and as a creative he loves to work with teams to innovative and deliver elegant solutions to customer problems.
     He makes a mean café latte and is growing more and more fond of birds.
 
+    **The Access Agency is a member of** [**Victorian Tourism Industry Council**](https://www.vtic.com.au "Visit VTIC")  **(VITC), The** [**European Network on Accessible Tourism**](https://www.accessibletourism.org/ "Visit ENAT") **(ENAT),** [**Tourism For All**](https://site.tourismforall.org.uk/ "Visit Tourism For All UK") **and The** [**Centre for Universal Design Australia**](https://universaldesignaustralia.net.au/ "Visit CUDA") **(CUDA).**  
+
+
+- block: logos
+  container: medium
+  background:  "#EFEFEF"
+  color: muted # light dark muted
+  logos:
+  - image: /images/logos/logo-ENAT-01.svg
+    alt: European Network on Accessible Tourism logo
+  - image: /images/logos/logo-VTIC-01.svg
+    alt: Victorian Tourism Industry Council logo
+  - image: /images/logos/logo-TFA-01.svg
+    alt: Tourism For All logo
+  - image: /images/logos/logo-CUDA-01.svg
+    alt: Centre of Universal Design logo
+
 
 - block: cards
   background:  "#efefef"
