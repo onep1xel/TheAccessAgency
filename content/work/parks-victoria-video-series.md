@@ -11,7 +11,7 @@ blocks:
 - block: media
   type: slider # image video slider
   image: /images/hero.jpg
-  alt: images of people, some with disabilities, visiting green parks in the sunshine. One is near a lake, another in the forest and another at the Twelve Apostles. 
+  alt: images of people, some with disabilities, visiting green parks in the sunshine. One is near a lake, another in the forest and another at the Twelve Apostles.
   video: /video/website-video_final.mp4
   slides:
   - /images/work/PV/Parks-Victoria-carousel-02.jpg
@@ -56,13 +56,13 @@ blocks:
   container: small
   images:
   - image: /images/work/PV/Parks02-800x800.jpg
-    alt: Lorem
+    alt: Ryan using a lowered drinking fountain
   - image: /images/work/PV/Parks01-800x800.jpg
-    alt: Lorem
+    alt: the silhouettes of 2 people facing away from the camera, one in a wheelchair on walking. The sky is bright blue, they're next to a lake  
   - image: /images/work/PV/Parks03-800x800.jpg
-    alt: Lorem
+    alt: a photo of 2 people walking next to a lake on a sunny day. One's in a wheelchair wearing a white shirt and jeans, the other has dark blue slacks and a blue jumper
   - image: /images/work/PV/Parks04-800x800.jpg
-    alt: Lorem
+    alt: a graphic of a map, simple green colouring, white arrows are pointing to various picnic areas
 
 
 - block: quote

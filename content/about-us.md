@@ -28,9 +28,14 @@ blocks:
 
     His creative career has spanned 25 years, working in London and Melbourne as a designer, marketer and communication consultant for the likes of Qantas, STA Travel, TFE Hotels, Jetstar, Visit Ballarat, and Virgin Australia.
     As a qualified Access Consultant (Dip.CPP50721), he understands and advocates for universal design and as a creative he loves to work with teams to innovative and deliver elegant solutions to customer problems.
-    He makes a mean café latte and is growing more and more fond of birds.
+    He makes a mean café latte, is learning Spanish and has growing more and more fond of his local magpies.
 
-    **The Access Agency is a member of** [**Victorian Tourism Industry Council**](https://www.vtic.com.au "Visit VTIC")  **(VITC), The** [**European Network on Accessible Tourism**](https://www.accessibletourism.org/ "Visit ENAT") **(ENAT),** [**Tourism For All**](https://site.tourismforall.org.uk/ "Visit Tourism For All UK") **and The** [**Centre for Universal Design Australia**](https://universaldesignaustralia.net.au/ "Visit CUDA") **(CUDA).**  
+    ## A network of trusted experts
+    At The Access Agency we draw on our network of advisors and experts.
+    We’re active and connected within the disability community and we work with gurus in Government Policy, Access Standards & Legislation, the Visitor Economy and Digital Customer Experience. We enjoy access to the best filmmakers, policy writers, graphic designers, tourism doyens, and project managers to ensure our world-class work is delivered to improve experiences for visitors and improve returns for organisations.
+
+    **The Access Agency is a member of** [**Victorian Tourism Industry Council**](https://www.vtic.com.au "Visit VTIC")  **(VITC), The** [**European Network on Accessible Tourism**](https://www.accessibletourism.org/ "Visit ENAT") **(ENAT),** [**Tourism For All**](https://site.tourismforall.org.uk/ "Visit Tourism For All UK") **and The** [**Centre for Universal Design Australia**](https://universaldesignaustralia.net.au/ "Visit CUDA") **(CUDA).**
+
 
 
 - block: logos
@@ -48,28 +53,6 @@ blocks:
     alt: Centre of Universal Design logo
 
 
-- block: cards
-  background:  "#efefef"
-  color: dark # light dark muted
-  padding: top
-  cards:
-  - heading: Solid Expertise
-    text: Qualified Access Consultant. 25+ years Creative Design and Communcations
-    link:
-      text:
-      url:
-  - heading: A network of knowledge
-    text: Active in the disability community. Board member, speaker & advocate
-    link:
-      text:
-      url:
-  - heading: Lived experience
-    text: Disabled traveller, wheelchair user and monocular
-    link:
-      text:
-      url:
-
-
 - block: images
   columns: 2
   background:  "#EFEFEF"
@@ -78,12 +61,12 @@ blocks:
   images:
   - image: images/about/1x1-Ryan-snorkeling.jpg
     alt: underwater shot of Ryan in a wetsuit, mask and snorkel holding a starfish, someone out of shot holds their hand out
-  - image: images/about/1x1-Ryan-wheelchair-street.jpg
-    alt: black and white photo of Ryan sitting in his wheelchair smiling at the camera
-  - image: images/about/1x1-Ryan-felluca.jpg
-    alt: Black and white photo of Ryan sitting on a traditional Egyptian sailboat
-  - image: images/about/1x1-Ryan-RS-tree-lined-street.jpg
-    alt: wide photo of an alley way, someone in a wheelchair faces away from camera, the street is lined with dense potted green trees
+  - image: images/about/1x1-Team-12A.jpg
+    alt: black and white photo camera operator, Ryan and John from Parks Victoria  
+  - image: images/about/1x1-TA-Team.jpg
+    alt: Black and white photo of people smiling with the Sydney Opera House in the background
+  - image: images/about/1x1-Ryan-wheelchair-wall.jpg
+    alt: Ryan smiling at the camera seated in his wheelchair
 
 - block: text
   background:  "#EFEFEF"

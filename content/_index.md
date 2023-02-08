@@ -64,6 +64,12 @@ blocks:
     alt: Get Skilled Access logo
   - image: /images/logos/logo-Sovereign-Hill-2.svg
     alt: Sovereign-Hill logo
+  - image: /images/logos/logo-Jetstar-01.svg
+    alt: Jetstar Logo
+  - image: /images/logos/logo-TFE-01.svg
+    alt: TFE Hotels logo
+  - image: /images/logos/logo-virgin-australia2-01.svg
+    alt: Virgin Australia logo
 
 
 
