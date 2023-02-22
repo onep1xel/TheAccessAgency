@@ -10,8 +10,8 @@ navbar:
 blocks:
 - block: media
   type: image # image video slider
-  image: /images/work/GSA/GSA-02-1700x1100.jpg
-  alt: 2 panel image - one image shows a person with limited hand movement, the other a person with a hearing aid
+  image: /images/work/GSA/GSA-01-1700x1100-2.jpg
+  alt: cover of a document reads - Accessible Communications and Brand Guidelines. Background shows a woman in a wheelchair at an office meeting  
   video: https://assets.mixkit.co/videos/preview/mixkit-set-of-plateaus-seen-from-the-heights-in-a-sunset-26070-large.mp4
   slides: #
 

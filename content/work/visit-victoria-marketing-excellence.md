@@ -19,8 +19,8 @@ blocks:
 - block: header
   background:  "#253148"
   color: light # light dark muted
-  heading: Access and Inclusion in tourism presentations
-  text: Visit Victoria.
+  heading: Presenting Accessible Tourism within a context of Marketing Excellence
+  text: Visit Victoria
 
 - block: text
   background:  "#E8E8E8"

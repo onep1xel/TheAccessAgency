@@ -25,6 +25,41 @@ blocks:
     text: See the project
     url: "work/parks-victoria-video-series"
 
+- block: work
+  background:  "#253148"
+  color: light # light dark muted
+  layout: horizontal # horizontal vertical
+  offset: 20% # for horizontal layout set top spacing for text column in percentages eg 25%
+  image: images/work/thumbnail-work_VV-Excellence-700x700-2.jpg
+  alt: a graphic of a venn diagram, three circle overlap and in each is a word; Tourism, Access and Comms.
+  youtube: #5gqEJT1lxgk
+  vimeo: #771124484
+  superheading: Visit Victoria
+  heading: Marketing Excellence Sessions
+  text: The modern marketing mix for tourism should include accessibility. We provided sessions to Victorian tourism operators.
+  link:
+    style: mint # whale mint sand
+    text: Take a look at the project
+    url: "work/visit-victoria-marketing-excellence"
+
+- block: work
+  background:  "#EFEEEF"
+  color: dark # light dark muted
+  layout: horizontal # horizontal vertical
+  offset: 20% # for horizontal layout set top spacing for text column in percentages eg 25%
+  image: images/work/thumbnail-work_GSA-700x700-3.jpg
+  alt: cover of a document reads - Accessible Communications and Brand Guidelines. Background shows a woman in a wheelchair at an office meeting.
+  youtube: #5gqEJT1lxgk
+  vimeo: #771124484
+  superheading: Get Skilled Access | Queensland Government
+  heading: Accessible Content Guidelines & Video Script Writing
+  text: We created the go-to guide for state government and tourism operators in Queensland. Working with Get Skilled Access on the Accessibe Tourism Project.
+  link:
+    style: whale # whale mint sand
+    text: Take a look at the project
+    url: "work/accessible-content-guidelines"
+
+
 
 - block: work
   background:  "#253148"
@@ -43,22 +78,21 @@ blocks:
     text: Take a look at the project
     url: "work/city-of-melbourne-accessible-dining-video"
 
+
 - block: work
   background:  "#EFEEEF"
   color: dark # light dark muted
   layout: horizontal # horizontal vertical
   offset: 20% # for horizontal layout set top spacing for text column in percentages eg 25%
-  image: images/work/thumbnail-work_GSA-700x700-2.jpg
-  alt: Photo of a older lady with short hair, smiling as she uses a motorised wheelchair. Her hand is in focus in the foreground, it's on the wheelchair controller, the rest of the image is slightly blurred.
-  youtube: #5gqEJT1lxgk
-  vimeo: #771124484
-  superheading: Get Skilled Access | Queensland Government
-  heading: Accessible Content Guidelines & Video Script Writing
-  text: We created the go-to guide for state government and tourism operators in Queensland. Working with Get Skilled Access on the Accessibe Tourism Project.
+  image: images/work/thumbnail-work_Push-Austrade-700x700.jpg
+  alt: a photo taken from under a tree, a person in a wheelchair is rolling with a friend. The sun is shining.
+  superheading: Push Adventures for Austrade
+  heading: Site Visits and Assessments
+  text: Push Adventures undertook the **Accessible Tourism Mentoring Pilot Program** for the Department of Trade and Investment Commission (Austrade). It was a nationwide program to mentor and guide operators in Accessible Tourism. We delivered in Victoria.
   link:
-    style: whale # whale mint sand
-    text: Take a look at the project
-    url: "work/accessible-content-guidelines"
+    style: mint # whale mint sand
+    text: See our involvement
+    url: "work/push-austrade-accessible-tourism-pilot-visits"
 
 
 - block: work
@@ -67,7 +101,7 @@ blocks:
   layout: horizontal # horizontal vertical
   offset: 20% # for horizontal layout set top spacing for text column in percentages eg 25%
   image: images/work/thumbnail-work-Ability-Fest-700x700.jpg
-  alt: a picture of the stage at an outdoor music festival. In the foreground is a raised platform with wheelchair users watching the gig.  
+  alt: an outdoor stage at a music festival. In the foreground is a raised platform with wheelchair users watching the gig under blue sky  
   youtube: #5gqEJT1lxgk
   vimeo: #771124484
   superheading: Visit Melbourne | Ability Fest
@@ -77,6 +111,7 @@ blocks:
     style: mint # whale mint sand
     text: Take a look at the project
     url: "work/ability-fest"
+
 
 - block: work
   background:  "#EFEEEF"
@@ -94,31 +129,17 @@ blocks:
     url: "work/mornington-peninsula-grants-for-accessibility"
 
 
-- block: work
-  background:  "#253148"
-  color: light # light dark muted
-  layout: horizontal # horizontal vertical
-  offset: 20% # for horizontal layout set top spacing for text column in percentages eg 25%
-  image: images/work/thumbnail-work_VV-Excellence-700x700-2.jpg
-  alt: a graphic of a venn diagram, three circle overlap and in each is a word; Tourism, Access and Comms.
-  youtube: #5gqEJT1lxgk
-  vimeo: #771124484
-  superheading: Visit Victoria
-  heading: Marketing Excellence Sessions
-  text: The modern marketing mix for tourism should include accessibility. We provided sessions to Victorian tourism operators.
-  link:
-    style: mint # whale mint sand
-    text: Take a look at the project
-    url: "work/visit-victoria-marketing-excellence"
+
+
 
 
 - block: cta
-  background:  "#8EC7B4"
+  background:  "#3C4643"
   color: light # light dark muted
   heading: See something that would work for you?
-  text: Get in touch and we can provide better travel for everyone.
+  text: Get in touch and together we can provide better travel experiences for everyone.
   button:
-    style: whale # whale mint sand
+    style: mint # whale mint sand
     text: Go to the Contact page
     url: "contact"
 
