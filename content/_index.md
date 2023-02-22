@@ -43,7 +43,7 @@ blocks:
   - heading: Services
     text: We deliver a range of services across the Accessible Tourism space, from strategy & consulting to access reviews and design for communication & marketing.
     link:
-      text: Take a look
+      text: Take a look at our services
       url: "services"
 
 - block: logos
@@ -80,7 +80,7 @@ blocks:
   image: /images/Ryan.png
   alt: a circular colour photo of Ryan, he's in his wheelchair smiling at the camera
   heading: About Us
-  text: Ryan Smith has 20+ years in design and strategic communications and is a qualified access consultant.
+  text: Ryan Smith has 20+ years in design and strategic communications and is a qualified access consultant. He's connected with some of the best and brightest in the industry. 
   link:
     text: Find out more
     url: "/about-us"

@@ -22,8 +22,9 @@ blocks:
   text: The Twelve Apostles, Wilsons Prom, The Grampians and more – Ten iconic Victorian Parks visited and showcased through the eyes of someone with reduced mobility.
   link:
     style: mint # whale mint sand
-    text: See the project
+    text: Read about and watch the video series
     url: "work/parks-victoria-video-series"
+
 
 - block: work
   background:  "#253148"
@@ -39,8 +40,9 @@ blocks:
   text: The modern marketing mix for tourism should include accessibility. We provided sessions to Victorian tourism operators.
   link:
     style: mint # whale mint sand
-    text: Take a look at the project
+    text: Read about the presentations
     url: "work/visit-victoria-marketing-excellence"
+
 
 - block: work
   background:  "#EFEEEF"
@@ -56,9 +58,8 @@ blocks:
   text: We created the go-to guide for state government and tourism operators in Queensland. Working with Get Skilled Access on the Accessibe Tourism Project.
   link:
     style: whale # whale mint sand
-    text: Take a look at the project
+    text: See the brand & communications project
     url: "work/accessible-content-guidelines"
-
 
 
 - block: work
@@ -75,7 +76,7 @@ blocks:
   text: Bringing people together to dine and drink in the city – showcasing options for all budgets, all tastes, and all abilities.
   link:
     style: mint # whale mint sand
-    text: Take a look at the project
+    text: Take a look at the video project
     url: "work/city-of-melbourne-accessible-dining-video"
 
 
@@ -88,7 +89,7 @@ blocks:
   alt: a photo taken from under a tree, a person in a wheelchair is rolling with a friend. The sun is shining.
   superheading: Push Adventures for Austrade
   heading: Site Visits and Assessments
-  text: Push Adventures undertook the **Accessible Tourism Mentoring Pilot Program** for the Department of Trade and Investment Commission (Austrade). It was a nationwide program to mentor and guide operators in Accessible Tourism. We delivered in Victoria.
+  text: Push Adventures undertook the Accessible Tourism Mentoring Pilot Program for the Department of Trade and Investment Commission (Austrade). It was a nationwide program to mentor and guide operators in Accessible Tourism. We delivered in Victoria.
   link:
     style: mint # whale mint sand
     text: See our involvement
@@ -109,7 +110,7 @@ blocks:
   text: Capturing the sound, energy, excitement – and accessibility – at Australia’s premier accessible music festival.
   link:
     style: mint # whale mint sand
-    text: Take a look at the project
+    text: See the social media project
     url: "work/ability-fest"
 
 
@@ -125,12 +126,8 @@ blocks:
   text: Communicating the importance of access to traders and operators to drive grant applications and ultimately, better visitor experiences.
   link:
     style: whale # whale mint sand
-    text: View the project
+    text: Find out about the materials and video
     url: "work/mornington-peninsula-grants-for-accessibility"
-
-
-
-
 
 
 - block: cta
@@ -142,5 +139,6 @@ blocks:
     style: mint # whale mint sand
     text: Go to the Contact page
     url: "contact"
+
 
 ---
