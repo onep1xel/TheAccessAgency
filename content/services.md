@@ -24,7 +24,7 @@ blocks:
 
     ### 1. Accessible Tourism Strategy & Guidelines
     Develop a vision and business case for Inclusive Tourism. Clarifying opportunities and enabling people to service the sector with defined objectives.
-    See the [Accessible Information Guidelines](/work/accessible-content-guidelines "Link to Accessible Information Guidelines") we created for Queensland Government or the [Communications and Campaign work](/work/mornington-peninsula-grants-for-accessibility "Link to our work with Mornington Peninsula Shire") we did with Mornington Peninsula Shire.
+    See the [Accessible Information Guidelines](/work/accessible-content-guidelines "Link to Accessible Information Guidelines") we created for Queensland Government (for Get Skilled Access) or the [Communications and Campaign work](/work/mornington-peninsula-grants-for-accessibility "Link to our work with Mornington Peninsula Shire") we did with Mornington Peninsula Shire.
     -	Tourism Destination Management Plan Advisory Services
     - Industry Development and Training
     -	Destination Marketing Plan Advisory Services
