@@ -25,15 +25,15 @@ blocks:
     ### 1. Accessible Tourism Strategy & Guidelines
     Develop a vision and business case for Inclusive Tourism. Clarifying opportunities and enabling people to service the sector with defined objectives.
     See the [Accessible Information Guidelines](/work/accessible-content-guidelines "Link to Accessible Information Guidelines") we created for Queensland Government or the [Communications and Campaign work](/work/mornington-peninsula-grants-for-accessibility "Link to our work with Mornington Peninsula Shire") we did with Mornington Peninsula Shire.
-    -	Tourism Destination Management Plan advisory services
-    -	Destination Marketing Plan advisory services
-    -	Accessible communications/marketing review
+    -	Tourism Destination Management Plan Advisory Services
+    - Industry Development and Training
+    -	Destination Marketing Plan Advisory Services
+    -	Accessible Communications / Marketing Review
     -	Accessible Tourism Strategy
-    -	Disability Advisory Group Engagement
-    -	Presentations on Accessible Tourism
-    -	Executive Engagement
+    - Product Development & Innovation
+    -	Accessible Tourism Workshops / Executive Engagement
     -	Staff Training from Lived Experience
-    -	Competitor Benchmarking
+    -	Competitor/Region Benchmarking
 
 
 
@@ -47,11 +47,10 @@ blocks:
 
     ### 2. Digital and Physical Accessibility Reviews
     Uncovering barriers to access in physical and digital properties with a qualified [Access Consultant.](/about-us "Link to About Us") We find solutions for existing barriers, review existing product and develop future inclusive experiences. [Talk to us](/contact "Link to contact us") about the digital accessibility review we did for Sovereign Hill or the Access review we undertook for Monty Hub.
-    -	Physical Access – Audits and Reporting
+    -	Physical Access – Audits, Reporting and Universal Design
     -	Digital Accessibility – Reviews and Reporting
     -	Mystery shopping
     -	Physical and Digital Accessibility Benchmarking
-    -	Universal Design recommendations
 
 
 - block: text
@@ -63,8 +62,7 @@ blocks:
   content: |-
 
     ### 3. Promote Accessibility and Connect with Customers
-    Connect with a growing customer base who want great access. We use digital marketing best practice to provide information and materials when they’re needed – so visitors can visit easier and explore more.
-    Using digital marketing best practice to provide information when its needed so visitors can visit with confidence and explore more.
+    Connect with a growing customer base who demand good access to great products. We use digital marketing best practice to provide information and materials when they’re needed – so visitors can visit easier and explore more.
     See our videos for [Parks Victoria](/work/parks-victoria-video-series "Link to our work for Parks Victoria") and [Ability Fest](/work/ability-fest "Link to our work for Visit Melbourne and AbilityFest")
 
     -	Accessible Itinerary Design

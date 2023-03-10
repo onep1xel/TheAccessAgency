@@ -83,7 +83,7 @@ menu:
     weight: 70
 
 params:
-  description: "The Access Agency – Design, Access and Communications"
+  description: "The Access Agency – Accessible Tourism, Design and Communications"
   logo_light: "/images/logo-light.svg"
   logo_dark: "/images/logo-dark.svg"
   logo_footer: "/images/logo-mark.svg"
