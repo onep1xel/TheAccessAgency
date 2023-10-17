@@ -22,16 +22,14 @@ Add to this the fact that we tend travel in parties of three to four people, and
 The market is not only larger but more valuable than you think – and there is plenty of evidence to prove it.
 
 A [recent report by Amadeus](https://amadeus.com/en/insights/blog/accessible-travel-report) found that in Europe and the United States alone, travellers with access needs are worth about $US70 billion.
-Meanwhile, a [2018 Austrade report](https://www.tra.gov.au/Archive-TRA-Old-site/Research/View-all-publications/All-Publications/Destination-Visitor-Survey-results/Strategic-regional-research-reports/accessible-tourism-victoria-queensland)  pegged the sector’s combined potential value in Victoria and Queensland at $AU8 billion.
+Meanwhile, a [2018 Austrade report](https://teq.queensland.com/content/dam/teq/corporate/corporate-searchable-assets/industry/research/special-reports/Accessible-tourism-in-Queensland-and-Victoria.pdf?redirect=research-and-insights/economics-and-specialised-reports/accessible-tourism)  pegged the sector’s combined potential value in Victoria and Queensland at $AU8 billion.
 
 It found that disabled travellers and their companions alone account for 14 per cent of the market for travel experiences and services related to overnight stays or day trips.
 
 This figure doesn’t include other types of travellers with accessibility needs. The report also urged the industry to take note of the ‘sizeable, growing and diverse range of travellers with accessibility needs’, noting how our rapidly ageing population would see a dramatic increase in disability and long-term health needs.
 
 ### Myth Number Three: Making ourselves accessible is expensive ###
-Depending on your size and type of organisation, you may not need to be accredited or certified compliant. Often, all it takes to attract people with access needs is a smart strategy and a welcoming attitude.
+Depending on your size and type of organisation, you may not need to be accredited by a body. Often, all it takes to attract people with access needs is a smart strategy and a welcoming attitude.
 
 As a traveller, I just want to know that I can get there, get around easily and be able to use the loo!
 Remember, too, that people with access needs are often just looking for more information. Make it prominent, make it clear, and make it detailed. It’s one of the most cost-effective things you can do.
-
-{{< button href="/test/" style="mint" text="Get Started" icon="chevron-right" >}}

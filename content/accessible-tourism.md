@@ -157,7 +157,7 @@ blocks:
       By providing better information, a more inclusive customer experience and some access adjustments, destinations can make customers with disabilities feel welcomed and valued.
 
       \
-      Also, when you do invest in physical spaces, every dollar spent returns $30 when investing in Universal Design [*(Source: City Of Melboune)*](https://www.gwww.melbourne.vic.gov.au/sitecollectiondocuments/good-access-good-business-infograph.doc).
+      Also, when you do invest in physical spaces, every dollar spent returns $30 when investing in Universal Design [*(Source: City Of Melboune)*](https://www.melbourne.vic.gov.au/sitecollectiondocuments/good-access-good-business-infograph.doc).
 
   - title: The market is too small
     content: |-

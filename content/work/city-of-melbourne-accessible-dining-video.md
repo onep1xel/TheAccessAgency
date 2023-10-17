@@ -36,7 +36,7 @@ blocks:
     The last few years have played havoc with visitor numbers to large cities.
     Lockdowns forced residents to steer-clear and getting city workers to return is proving difficult.
 
-    The [***City of Melbourne***](https://melbourne.vic.gov.au) (CoM) pushed forward with activation programs, large-scale events and messaging through digital channels – slowly drawing people back into the heart of the city.
+    The [***City of Melbourne***](http://www.melbourne.vic.gov.au) (CoM) pushed forward with activation programs, large-scale events and messaging through digital channels – slowly drawing people back into the heart of the city.
 
     We approached them with the aim of creating a video to show a range of accessible experiences in the CBD – a liveable city is an accessible one.
 

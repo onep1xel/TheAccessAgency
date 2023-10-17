@@ -20,7 +20,7 @@ Of course, they’re out there, but to discover one – and other facilities tha
 
 [A recent international report](https://amadeus.com/documents/en/airlines/research-report/voyage-of-discovery.pdf) by travel technology company Amadeus found that the top problem experienced by more than half of all travellers with access needs was ‘lack of information about accessibility at destination’.
 
-[A 2018 Austrade report](https://www.tra.gov.au/ArticleDocuments/258/Executive%20Summary_Accessible_tourism_Vic_Qld_FINAL_Jan%202018.pdf.aspx?Embed=Y) found 86 per cent of travellers with a disability wanted more practical information. Many also said that ‘not knowing what to expect’ was a barrier to travel, again indicating the importance of good information.  
+[A 2018 Austrade report](https://teq.queensland.com/content/dam/teq/corporate/corporate-searchable-assets/industry/research/special-reports/Accessible-tourism-in-Queensland-and-Victoria.pdf?redirect=research-and-insights/economics-and-specialised-reports/accessible-tourism) found 86 per cent of travellers with a disability wanted more practical information. Many also said that ‘not knowing what to expect’ was a barrier to travel, again indicating the importance of good information.  
 
 The report estimated that the disability travel sector in Australia could be worth as much as $8 billion a year, once travelling companions were included. Its authors conceded that this figure didn’t account for the broader accessible travel market – including people with injuries, parents with prams, or older people with particular needs.
 
