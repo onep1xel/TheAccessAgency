@@ -87,7 +87,7 @@ blocks:
   - image: /images/tiles/1x1-autumn-parks-steps.jpg
     alt: rear shot of a silver-haired couple tackling some steps in a national park, the female is using a crutch to help balance and the male is providing assistance. It's Winter and they're wear coats.
   - image: /images/tiles/1x1-access-sign.jpg
-    alt: A close up of the Universal Sign for Access - it appears attached to the wall 
+    alt: A close up of the Universal Sign for Access - it appears attached to the wall
 
 
 
@@ -144,7 +144,7 @@ blocks:
 
   - title: People with disabilities don’t spend
     content: |-
-      People with disabilities (PwDs) account for more than 11% of revenue in the travel sector  [*(Source: Tourism Research Australia )*](https://www.tra.gov.au/Archive-TRA-Old-site/Research/View-all-publications/All-Publications/Destination-Visitor-Survey-results/Strategic-regional-research-reports/accessible-tourism-victoria-queensland).
+      People with disabilities (PwDs) account for more than 11% of revenue in the travel sector  [*(Source: Tourism Research Australia )*](https://teq.queensland.com/content/dam/teq/corporate/corporate-searchable-assets/industry/research/special-reports/Accessible-tourism-in-Queensland-and-Victoria.pdf?redirect=research-and-insights/economics-and-specialised-reports/accessible-tourism).
 
       \
       This is predicted to reach 25% in coming years. Twenty-five percent.
@@ -157,7 +157,7 @@ blocks:
       By providing better information, a more inclusive customer experience and some access adjustments, destinations can make customers with disabilities feel welcomed and valued.
 
       \
-      Also, when you do invest in physical spaces, every dollar spent returns $30 when investing in Universal Design [*(Source: City Of Melboune)*](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwji6Znh9v37AhUvsVYBHajfDBsQFnoECBMQAQ&url=https%3A%2F%2Fwww.melbourne.vic.gov.au%2Fsitecollectiondocuments%2Fgood-access-good-business-infograph.doc&usg=AOvVaw2H4oZjWhTvvClDGHXf7nNt).
+      Also, when you do invest in physical spaces, every dollar spent returns $30 when investing in Universal Design [*(Source: City Of Melboune)*](https://www.gwww.melbourne.vic.gov.au/sitecollectiondocuments/good-access-good-business-infograph.doc).
 
   - title: The market is too small
     content: |-
@@ -170,7 +170,7 @@ blocks:
       \
       **The market is significant in size and growing 22% year-on-year.**
 
-      [*(Source: Forbes Magazine & Tourism Research Australia)*](https://www.tra.gov.au/Archive-TRA-Old-site/Research/View-all-publications/All-Publications/Destination-Visitor-Survey-results/Strategic-regional-research-reports/accessible-tourism-victoria-queensland)
+      [*(Source: Forbes Magazine & Tourism Research Australia)*](https://teq.queensland.com/content/dam/teq/corporate/corporate-searchable-assets/industry/research/special-reports/Accessible-tourism-in-Queensland-and-Victoria.pdf?redirect=research-and-insights/economics-and-specialised-reports/accessible-tourism)
 
 
   - title: We can't promote accessibility because we have stairs
@@ -188,16 +188,19 @@ blocks:
   background:  "#EFEFEF"
   color: dark # light dark muted
   superheading:
-  heading: <span style="color:#493654">People with access needs and disabilities</span>
-    <span style="color:#8FC8B5" title="Tooltip here">stay longer<sup>1</sup></span><span style="color:#493654">,</span> <span style="color:#1d2838">travel with more people<sup>2</sup></span> <span style="color:#493654">and they’re <span style="color:#9FCBE9">very loyal<sup>3</sup>.</span>
+  heading: <span style="color:#493654">People with access needs and disabilities <u>stay longer</u><sup>1</sup>, they <u>travel in groups</u><sup>2</sup> and they’re <u>very loyal</u><sup>3</sup>.</span>
     <br>
-    <span style="color:#493654; margin-top:2rem; display:inline-block">In short, they’re</span> <span style="color:#7A6730">fantastic customers.</span><br>
+    <span style="color:#493654; margin-top:2rem; display:inline-block">In short, they’re fantastic customers.</span><br>
     <span style="color:#DE4B37; margin-top:2rem; display:inline-block;">But they’re not getting what they need to travel well.</span>
   subheading:
   link:
     text:
     url:
-  subtext: 1 - According to the Austrade report on Accessible Travel. 2 - People with access need travel with family members, friends and sometimes support workers. Travel parties consist of an average 3.2 people. 3 – Once disabled travellers something they like that suits their needs, they return. They're 50% more loyal according to Kantar Futures.  
+  subtext: 1. 1 - According to the Austrade report on Accessible Travel.
+
+    2. 2 - People with access need travel with family members, friends and sometimes support workers. Travel parties consist of an average 3.2 people.
+
+    3. 3 - Once travellers find experiences that suit their needs, they return. (They're 50% more loyal according to Kantar Futures.)  
 
 
 
