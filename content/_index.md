@@ -2,10 +2,10 @@
 layout: blocks
 title: Home
 url: ""
-description: We make travel more inclusive and accessible. By providing expert advice and strategic content – travel is made better, more equitable and universally accessible.
+description: We make travel more inclusive and accessible. By providing expert advice, access audits and strategic content – travel is made better, more equitable and universally accessible.
 image: /images/TheAccessAgency_thumbnail.png
 navbar:
-  background: "#181818"
+  background: "#253148"
 blocks:
 - block: media
   type: video # image video slider
@@ -18,8 +18,8 @@ blocks:
   background:  "#ffffff"
   color: dark # light dark muted
   superheading:
-  heading: Provide better access and great information to draw more visitors.
-  subheading: We develop content, provide expert advice and guide operators towards better visitor access and inclusion.
+  heading: Access and inclusion for the visitor economy.
+  subheading: Understand your accessibility, provide great information and deliver inclusive experiences for all.
   link:
     text: #
     url: #
@@ -36,12 +36,12 @@ blocks:
       text: More about Accessible Tourism
       url: "accessible-tourism"
   - heading: Our work
-    text: We make places easier to visit. By providing tailored access materials for visitors, guidance for stakeholders, and reviews of physical and digital properties - everyone can feel welcomed.
+    text: We make places easier to visit. By undertaking access audits, providing tailored access materials for visitors and building capacity - everyone can feel welcomed.
     link:
       text: See our work
       url: "work"
   - heading: Services
-    text: We deliver a range of services across the Accessible Tourism space, from strategy & consulting to access reviews and design for communication & marketing.
+    text: We deliver a range of services across the Accessible Tourism space, from Audit and appraisals, to strategy & consulting and design for communication & marketing.
     link:
       text: Take a look at our services
       url: "services"
@@ -74,13 +74,14 @@ blocks:
 
 
 - block: author
-  background:  "#686867"
+  background:  "#262626"
   color: light # light dark muted
   padding: both # top bottom both (default)
   image: /images/Ryan.png
   alt: a circular colour photo of Ryan, he's in his wheelchair smiling at the camera
   heading: About Us
-  text: Ryan Smith has 20+ years in design and strategic communications and is a qualified access consultant. He's connected with some of the best and brightest in the industry. 
+  text: Ryan Smith is a **qualified access consultant**, a member of the Association of Consultants in Access Australia (ACAA) and a wheelchair user. He has 20+ years in design and strategic communications and is a judge in the 2023 Victorian Tourism Awards.
+    **He leads The Access Agency and is an expert in Accessible and Inclusive Tourism.**
   link:
     text: Find out more
     url: "/about-us"
