@@ -19,7 +19,7 @@ blocks:
   color: dark # light dark muted
   superheading:
   heading: Access and inclusion for the visitor economy.
-  subheading: Understand your accessibility, provide great information and deliver inclusive experiences for all.
+  subheading: Understand and improve your accessibility, provide great information and deliver inclusive experiences for all.
   link:
     text: #
     url: #
