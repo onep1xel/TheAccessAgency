@@ -1,7 +1,7 @@
 ---
 title: Marketing Access - Conference Presentation
 image: images/post-bgs/post-AITCAP.jpg
-alt: a collage illustration of a blue lanyard in the background is a purple-toned crowd of people crossing the street 
+alt: a collage illustration of a blue lanyard in the background is a purple-toned crowd of people crossing the street
 summary: At The Accessible and Inclusive Tourism Conference (AITCAP) I spoke about utilising accessibiity informatiuon in the marketing mix.
 date: 2022-05-12
 featured: false
@@ -18,7 +18,7 @@ blocks:
 
 ---
 
-The [Accessible and Inclusive Tourism Conference Asia Pacific](https://aitcap.getaboutable.com) is a 3-day conference held in-person and virtually.
+The [Accessible and Inclusive Tourism Conference Asia Pacific](https://getaboutable.com/aitcap/) is a 3-day conference held in-person and virtually.
 Ryan presented at the 2021 envent on the topic of using access in marketing materials.\
 Included were examples, process and approaches.
 
