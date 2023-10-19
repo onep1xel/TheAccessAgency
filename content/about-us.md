@@ -15,43 +15,105 @@ blocks:
   text: Our background, vision and press.
 
 
+- block: tiles
+  tiles:
+  - heading:
+    text:
+    subtext:
+    color: # dark light muted
+    background: ""
+    image: /images/tiles/bg-Gold-Coast.jpg
+    alt: a dark green tinted silhouette of a wheelchair user
+
+  - heading: Lived
+    text: experience of disability. CEO Ryan is a wheelchair user dedicated to making change.  
+    subtext:
+    color: muted # dark light muted
+    background: "#2d3d59"
+    image:
+
+  - heading: Qualified
+    text: Access Consultants and members of Association of Consultants on Access Australia (ACAA)
+    subtext:
+    color: dark # dark light muted
+    background: "#8FC7B5"
+    image:
+
+  - heading: Tourism
+    text: specialists. We're dedicated to the Visitor Economy. (2023 Judge for Victorian Tourism Awards, Member of ENAT & VTIC)
+    subtext:
+    color: dark # dark light muted
+    background: "#9FCBE9"
+    image:
+
+  - heading:
+    text:
+    subtext:
+    color: # dark light muted
+    background: ""
+    image: /images/tiles/bg-plum-beach.jpg
+    alt: close up fingers running over Braille on a handrail
+
+  - heading: Expert
+    text: proven track record delivering access audits, visitor materials and awareness nationally.
+    subtext:
+    color: muted # dark light muted
+    background: "#354549"
+    image:
+
+
 - block: text
   background:  "#EFEFEF"
+  padding: both
+  content: |-
+
+    ## About Ryan (CEO and Founder){#about-ryan}
+
+    Ryan is an Access Consultant, Creative Director, avid traveller and wheelchair user.
+
+    He started travelling in a wheelchair in 2010 and began writing about access in tourism in 2017 through his blog [*Freewheel Weekends*](https://www.freewheelweekends.com.au "Visit Freewheel Weekends"). He soon realised that to create real change in tourism he needed to shift focus – from consumers to destinations.
+
+    Thus The Access Agency was born.
+
+    He's visited New York, Texas, Tokyo, Berlin, Paris, London, Dublin, Amsterdam, Leiden, Helsinki, Copenhagen, Stockholm, Dusseldorf, Auckland, Tel Aviv, Jerusalem, Cairo, Alexandria and a few other places along the way.   
+
+    He sees accessibility through both a creative and compliance lens - advocating for universal design and inclusion throughout the visitor economy.
+
+    As a qualified Access Consultant (Dip.), he understands the business opportunity for destinations and operators. He loves to work with teams to innovative and deliver elegant solutions to customer conundrums.
+
+    He makes a mean café latte, is learning Spanish and has growing more and more fond of his local magpies.
+
+- block: text
+  background:  "#ffffff"
   padding: top
   content: |-
 
-    ## About Ryan{#about-ryan}
-
-    Ryan is a Creative Director, an avid traveller, an Access Consultant and wheelchair user.
-    He started travelling in a wheelchair in 2010 and began writing about access in tourism in 2017 through his blog [*Freewheel Weekends*](https://www.freewheelweekends.com.au "Visit Freewheel Weekends").\
-    He's visited New York, Texas, Tokyo, Berlin, Paris, London, Dublin, Amsterdam, Leiden, Helsinki, Copenhagen, Stockholm, Dusseldorf, Auckland, Tel Aviv, Jerusalem, Cairo, Alexandria and a few other places.   
-
-    His creative career has spanned 25 years, working in London and Melbourne as a designer, marketer and communication consultant for the likes of Qantas, STA Travel, TFE Hotels, Jetstar, Visit Ballarat, and Virgin Australia.
-    As a qualified Access Consultant (Dip.CPP50721), he understands and advocates for universal design and as a creative he loves to work with teams to innovative and deliver elegant solutions to customer problems.
-    He makes a mean café latte, is learning Spanish and has growing more and more fond of his local magpies.
-
     ## A network of trusted experts
-    At The Access Agency we draw on our network of advisors and experts.
+    At The Access Agency we draw on our network of advisors and industry experts.
     We’re active and connected within the disability community and we work with gurus in Government Policy, Access Standards & Legislation, the Visitor Economy and Digital Customer Experience. We enjoy access to the best filmmakers, policy writers, graphic designers, tourism doyens, and project managers to ensure our world-class work is delivered to improve experiences for visitors and improve returns for organisations.
 
-    **The Access Agency is a member of** [**Victorian Tourism Industry Council**](https://www.vtic.com.au "Visit VTIC")  **(VITC), The** [**European Network on Accessible Tourism**](https://www.accessibletourism.org/ "Visit ENAT") **(ENAT),** [**Tourism For All**](https://site.tourismforall.org.uk/ "Visit Tourism For All UK") **and The** [**Centre for Universal Design Australia**](https://universaldesignaustralia.net.au/ "Visit CUDA") **(CUDA).**
-
-
+    The Access Agency is a member of the following associations:
+    - [**Association of Consultants on Access Australia (ACAA)**](https://access.asn.au/ "Visit ACAA")
+    - [**Victorian Tourism Industry Council (VITC)**](https://www.vtic.com.au "Visit VTIC")
+    - [**Victorian Tourism Awards (Judge 2023)**](https://www.vtic.com.au/victoriantourismawards/judges/ "Visit Victorian Tourism Awards")
+    - [**The European Network on Accessible Tourism**](https://www.accessibletourism.org/ "Visit ENAT")
+    - [**The Centre for Universal Design Australia (CUDA)**](https://universaldesignaustralia.net.au/ "Visit CUDA")
 
 - block: logos
   container: medium
-  background:  "#EFEFEF"
+  background:  "#ffffff"
   color: muted # light dark muted
   logos:
-  - image: /images/logos/logo-ENAT-01.svg
-    alt: European Network on Accessible Tourism logo
+  - image: /images/logos/logo-ACAA-colour.svg
+    alt: Association of Consultants on Access Australia logo
   - image: /images/logos/logo-VTIC-01.svg
     alt: Victorian Tourism Industry Council logo
-  - image: /images/logos/logo-TFA-01.svg
-    alt: Tourism For All logo
+  - image: /images/logos/logo-VTA-colour.svg
+    alt: Victorian Tourism Industry Council logo
+  - image: /images/logos/logo-ENAT-01.svg
+    alt: European Network on Accessible Tourism logo
   - image: /images/logos/logo-CUDA-01.svg
     alt: Centre of Universal Design logo
-
 
 - block: images
   columns: 2

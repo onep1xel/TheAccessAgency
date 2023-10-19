@@ -64,16 +64,36 @@ blocks:
     ### 3. Promote Accessibility and Connect with Customers
     Connect with a growing customer base who want great access. We use digital marketing best practice to provide information and materials when they’re needed – so visitors can visit easier and explore more.
     Using digital marketing best practice to provide information when its needed so visitors can visit with confidence and explore more.
-    See our videos for [Parks Victoria](/work/parks-victoria-video-series "Link to our work for Parks Victoria") and [Ability Fest](/work/ability-fest "Link to our work for Visit Melbourne and AbilityFest")
+    Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. **bold text** Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo *italicized text* consequat. Duis autem vel eum iriure dolor in.
 
-    -	Accessible Itinerary Design
-    -	Tailored Messaging and Positioning for Accessibility
-    -	‘Digital Accessibility Hub’ Content and Design
-    -	Region-specific Visitor Access Guides
-    -	Accessible & Inclusive Itineraries
-    -	Map Design and Wayfinding
-    -	Video Design and Production
-    -	Digital Design and Artwork
+    [Boostnote](https://github.com/BoostIO/Boostnote "This is Boostnote's repository")
+
+    > Someone said something and then - everything changed
+
+
+    # Lorem ipsum diam elit, sed nonummy (h1)
+    ## Consectetuer adipiscing elit, sed diam nonummy (h2)
+    ### Ut wisi enim ad minim veniam, (h3)
+    #### nonummy nibh euismod tincidunt ut laoreet dolore (h4)
+
+    http://www.example.com
+
+    Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation
+
+    I need to highlight these ==very important words==.
+    H~2~O
+    X^2^
+
+    ```
+      "firstName": "John",
+      "lastName": "Smith",
+      "age": 25
+    ```
+
+    {{< button href="/test/" style="mint" text="Get Started" icon="chevron-right" >}}
+
+    #### "At wisi enim ad minim veniam, quis nostrud exerci tation[^1] ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in. Here's a sentence with a footnote."
+    [^1]: Author, "Title of the Article", *This is the title of Publication*, 2010.
 
 
 
@@ -83,6 +103,29 @@ blocks:
   padding: both
   quote: …a Masterclass for every tourism business
   author: Attendee at 'Marketing Accessibility' at AITCAP (Accessible Inclusive Conference)
+
+
+- block: cards
+  background: "#8FC7B5"
+  color: muted # light dark muted
+  padding: both
+  cards:
+  - heading: 1. Advocacy and Speaking
+    text: Understanding the now – The journey towards more universal accessibility in tourism means better societal inclusion and increased revenue for operators.
+    link:
+      text:
+      url:
+  - heading: 2. Access audits
+    text: Designing useful materials and increasing accessibility. Design + build materials to bring visitors and increase loyalty. Train and mentor staff in best practice inclusion.
+    link:
+      text:
+      url:
+  - heading: 3. Information & Communication
+    text: Designing useful materials and increasing accessibility. Design + build materials to bring visitors and increase loyalty. Train and mentor staff in best practice inclusion.
+    link:
+      text: Find out more
+      url:
+
 
 - block: media
   type: image # image video slider
