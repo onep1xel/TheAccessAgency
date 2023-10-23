@@ -56,20 +56,22 @@ blocks:
     alt: Visit Victoria logo
   - image: /images/logos/logo-Parks-Victoria-2.svg
     alt: Parks Victoria logo
+  - image: /images/logos/logo-Tourism-MidWest-Vic.svg
+    alt: Tourism Mid West logo
+  - image: /images/logos/logo-Tourism-NorthEast-Vic.svg
+    alt: Tourism North East Logo
+  - image: /images/logos/logo-Australias-Gold-Coast.svg
+    alt: City of Gold Coast logo
   - image: /images/logos/logo-City-of-Melbourne-2.svg
     alt: City of Melbourne logo
   - image: /images/logos/logo-Mornington-Peninsula-Shire-2.svg
     alt: Mornington Peninsuls Shire Logo
-  - image: /images/logos/logo-GSA-2-01-01.svg
+  - image: /images/logos/logo-GSA.svg
     alt: Get Skilled Access logo
   - image: /images/logos/logo-Sovereign-Hill-2.svg
     alt: Sovereign-Hill logo
-  - image: /images/logos/logo-Jetstar-01.svg
-    alt: Jetstar Logo
-  - image: /images/logos/logo-TFE-01.svg
-    alt: TFE Hotels logo
-  - image: /images/logos/logo-virgin-australia2-01.svg
-    alt: Virgin Australia logo
+
+
 
 
 

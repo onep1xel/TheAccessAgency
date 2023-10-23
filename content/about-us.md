@@ -22,8 +22,8 @@ blocks:
     subtext:
     color: # dark light muted
     background: ""
-    image: /images/tiles/bg-Gold-Coast.jpg
-    alt: a dark green tinted silhouette of a wheelchair user
+    image: /images/tiles/bg-expertise-ryan-presenting.jpg
+    alt: a dark green tinted collage of Ryan presenting in front of a crowd
 
   - heading: Lived
     text: experience of disability. CEO Ryan is a wheelchair user dedicated to making change.  
@@ -52,10 +52,10 @@ blocks:
     color: # dark light muted
     background: ""
     image: /images/tiles/bg-plum-beach.jpg
-    alt: close up fingers running over Braille on a handrail
+    alt: Ryan and Rocca in beach wheelchairs at Wilsons Prom
 
   - heading: Expert
-    text: proven track record delivering access audits, visitor materials and awareness nationally.
+    text: proven track record delivering access audits, visitor materials and awareness.
     subtext:
     color: muted # dark light muted
     background: "#354549"
@@ -96,7 +96,7 @@ blocks:
     - [**Association of Consultants on Access Australia (ACAA)**](https://access.asn.au/ "Visit ACAA")
     - [**Victorian Tourism Industry Council (VITC)**](https://www.vtic.com.au "Visit VTIC")
     - [**Victorian Tourism Awards (Judge 2023)**](https://www.vtic.com.au/victoriantourismawards/judges/ "Visit Victorian Tourism Awards")
-    - [**The European Network on Accessible Tourism**](https://www.accessibletourism.org/ "Visit ENAT")
+    - [**The European Network on Accessible Tourism (ENAT)**](https://www.accessibletourism.org/ "Visit ENAT")
     - [**The Centre for Universal Design Australia (CUDA)**](https://universaldesignaustralia.net.au/ "Visit CUDA")
 
 - block: logos
