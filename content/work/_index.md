@@ -10,6 +10,26 @@ navbar:
 blocks:
 
 
+
+
+- block: work
+  background:  "#253148"
+  color: light # light dark muted
+  layout: horizontal # horizontal vertical
+  offset: 20% # for horizontal layout set top spacing for text column in percentages eg 25%
+  image: images/work/thumbnail-work_ITA-TAA-Accessible-Visitor-Guide-700x700.jpg
+  alt: a graphic of a venn diagram, three circle overlap and in each is a word; Tourism, Access and Comms.
+  youtube: #5gqEJT1lxgk
+  vimeo: #771124484
+  superheading: Inclusive Tourism Australia + Gold Coast City Council
+  heading: Gold Coast Accessible Visitor Guide
+  text: The Access Agency and Inclusive Tourism Australia teamed up to develop and deliver a first-of-its-kind detailed visitor resource for people with access needs.
+  link:
+    style: mint # whale mint sand
+    text: Find out about the document
+    url: "work/gold-coast-accessible-visitor-guide"
+
+
 - block: work
   background:  "#EFEEEF"
   color: dark # light dark muted
