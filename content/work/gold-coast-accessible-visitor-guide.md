@@ -21,7 +21,7 @@ blocks:
 - block: header
   background:  "#253148"
   color: light # light dark muted
-  heading: ‘Gold Coast Accessible Visitor Guide’ Visitor Resource
+  heading: ‘Gold Coast Accessible Visitor Guide’
   text: with Inclusive Tourism Australia for Gold Coast City Council
 
 
@@ -29,7 +29,7 @@ blocks:
   background:  "#E8E8E8"
   content: |-
 
-    **In August 2023, The Access Agency and Inclusive Tourism Australia teamed up to develop and deliver the [***Gold Coast Accessible Visitor Guide***](https://www.goldcoast.qld.gov.au/Services/Supporting-our-community/People-with-disability/Accessible-Visitor-Guide "Gold Coast Accessible Visitor Guide") to promote the Gold Coast as an accessible destination.**
+    **In August 2023, The Access Agency and [**Inclusive Tourism Australia**](http://www.inclusivetourism.com.au "Inclusive Tourism Australia") teamed up to develop and deliver the [***Gold Coast Accessible Visitor Guide***](https://www.goldcoast.qld.gov.au/Services/Supporting-our-community/People-with-disability/Accessible-Visitor-Guide "Gold Coast Accessible Visitor Guide") to promote the Gold Coast as an accessible destination.**
 
     The work, commissioned by Destination Gold Coast and the Gold Coast City Council is a first-of-its-kind resource for travellers with access needs as part of **The Year of Accessible Tourism**.
 
