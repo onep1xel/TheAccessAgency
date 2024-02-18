@@ -71,17 +71,15 @@ blocks:
 
     Ryan is an Access Consultant, Creative Director, avid traveller and wheelchair user.
 
-    He started travelling in a wheelchair in 2010 and began writing about access in tourism in 2017 through his blog [*Freewheel Weekends*](https://www.freewheelweekends.com.au "Visit Freewheel Weekends"). He soon realised that to create real change in tourism he needed to shift focus – from consumers to destinations.
+    He started travelling in a wheelchair in 2010 and began writing about access in tourism in 2017 through his blog/vlog [***Freewheel Weekends***](https://www.freewheelweekends.com.au "Visit Freewheel Weekends"). He soon realised that to create real change in tourism he needed to shift focus – from consumers to destinations.
 
-    Thus The Access Agency was born.
+    **So, The Access Agency was born.**
 
     He's visited New York, Texas, Tokyo, Berlin, Paris, London, Dublin, Amsterdam, Leiden, Helsinki, Copenhagen, Stockholm, Dusseldorf, Auckland, Tel Aviv, Jerusalem, Cairo, Alexandria and a few other places along the way.   
 
-    He sees accessibility through both a creative and compliance lens - advocating for universal design and inclusion throughout the visitor economy.
+    Ryan sees accessibility and universal design through a lens of compliance, creativity and enormous opportunity, advocating for inclusion throughout the visitor economy. He loves working with people to innovative and deliver elegant solutions to vexxing visitor challenges.
 
-    As a qualified Access Consultant (Dip.), he understands the business opportunity for destinations and operators. He loves to work with teams to innovative and deliver elegant solutions to customer conundrums.
-
-    He makes a mean café latte, is learning Spanish and has growing more and more fond of his local magpies.
+    He makes a half-decent café latte, is learning to speak Spanish (el practica todos los dias) and has growing more and more fond of his local magpies.
 
 - block: text
   background:  "#ffffff"
@@ -92,26 +90,21 @@ blocks:
     At The Access Agency we draw on our network of advisors and industry experts.
     We’re active and connected within the disability community and we work with gurus in Government Policy, Access Standards & Legislation, the Visitor Economy and Digital Customer Experience. We enjoy access to the best filmmakers, policy writers, graphic designers, tourism doyens, and project managers to ensure our world-class work is delivered to improve experiences for visitors and improve returns for organisations.
 
-    The Access Agency is a member of the following associations:
-    - [**Association of Consultants on Access Australia (ACAA)**](https://access.asn.au/ "Visit ACAA")
-    - [**Victorian Tourism Industry Council (VITC)**](https://www.vtic.com.au "Visit VTIC")
-    - [**Victorian Tourism Awards (Judge 2023)**](https://www.vtic.com.au/victoriantourismawards/judges/ "Visit Victorian Tourism Awards")
-    - [**The European Network on Accessible Tourism (ENAT)**](https://www.accessibletourism.org/ "Visit ENAT")
-    - [**The Centre for Universal Design Australia (CUDA)**](https://universaldesignaustralia.net.au/ "Visit CUDA")
+    The Access Agency is a member of a number of associations including [The European Network on Accessible Tourism (ENAT)](https://www.accessibletourism.org/ "Visit ENAT"), [Access Consultants Association (ACA)](https://access.asn.au/ "Visit ACAA"), [Victorian Tourism Industry Council (VITC)](https://www.vtic.com.au "Visit VTIC"), [Victorian Tourism Awards (Judge 2023)](https://www.vtic.com.au/victoriantourismawards/judges/ "Visit Victorian Tourism Awards") and [The Centre for Universal Design Australia (CUDA)](https://universaldesignaustralia.net.au/ "Visit CUDA").
 
 - block: logos
   container: medium
   background:  "#ffffff"
   color: muted # light dark muted
   logos:
+  - image: /images/logos/logo-ENAT-01.svg
+    alt: European Network on Accessible Tourism logo
   - image: /images/logos/logo-ACAA-colour.svg
     alt: Association of Consultants on Access Australia logo
   - image: /images/logos/logo-VTIC-01.svg
     alt: Victorian Tourism Industry Council logo
   - image: /images/logos/logo-VTA-colour.svg
     alt: Victorian Tourism Industry Council logo
-  - image: /images/logos/logo-ENAT-01.svg
-    alt: European Network on Accessible Tourism logo
   - image: /images/logos/logo-CUDA-01.svg
     alt: Centre of Universal Design logo
 
@@ -124,17 +117,24 @@ blocks:
   - image: images/about/1x1-Ryan-snorkeling.jpg
     alt: underwater shot of Ryan in a wetsuit, mask and snorkel holding a starfish, someone out of shot holds their hand out
   - image: images/about/1x1-Team-12A.jpg
-    alt: black and white photo camera operator, Ryan and John from Parks Victoria  
+    alt: black and white photo camera operator, Ryan and John Kenwright from Parks Victoria  
   - image: images/about/1x1-TA-Team.jpg
-    alt: Black and white photo of people smiling with the Sydney Opera House in the background
+    alt: A range of people with disabilities smiling with hands in the air, Sydney Opera House in the background
   - image: images/about/1x1-Ryan-wheelchair-wall.jpg
     alt: Ryan smiling at the camera seated in his wheelchair
+  - image: images/about/1x1-abc-radio-melbourne.jpg
+    alt: At ABC Radio studios Melbourne Ryan and presenter Alice Zaslavsky smile
+  - image: images/about/1x1-Ryan-camping.jpg
+    alt: Ryan at a park with outdoor gear on and off-road wheelchair tyres
 
 - block: text
   background:  "#EFEFEF"
   content: |-
 
     ## Articles & Press{#articles-press}
+
+    [**‘ABC Radio Interview - Accesible Tourism’**](https://open.spotify.com/episode/1hWEbhZ5BswxRstHUWtVzv) ***- ABC Radio Melbourne***\
+    Interview with Alice Zaslavsky on ABC Radio Melbourne 'Saturday Breakfast', December 2023)  
 
     [**‘Ryan Smith - Accessing the world by wheelchair’**](https://open.spotify.com/episode/1hWEbhZ5BswxRstHUWtVzv) ***- I Can’t Stand Podcast***\
     Interview with Peta Hooke on her popular disability podcast

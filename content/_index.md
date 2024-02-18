@@ -19,7 +19,7 @@ blocks:
   color: dark # light dark muted
   superheading:
   heading: Access and inclusion for the visitor economy.
-  subheading: Understand and improve your accessibility, provide great information and deliver inclusive experiences for all.
+  subheading: Understand and improve your accessibility, provide great information and confidently welcome more visitors.
   link:
     text: #
     url: #
@@ -31,17 +31,17 @@ blocks:
   padding: bottom
   cards:
   - heading: What is Accessible Tourism?
-    text: More universal access in travel means no one is left behind. It’s more inclusive and it boosts revenue. Tourism for all, access for everyone.
+    text: Universal access in travel and hospitality means no one gets left behind – **creating better visitor experiences and boosting revenue**. It's tourism for all and access for everyone.
     link:
       text: More about Accessible Tourism
       url: "accessible-tourism"
   - heading: Our work
-    text: We make places easier to visit. By undertaking access audits, providing tailored access materials for visitors and building capacity - everyone can feel welcomed.
+    text: We make places easier to visit. By undertaking **access audits, providing tailored access materials and building capacity** - everyone can feel they belong, participcate and contribute.
     link:
       text: See our work
       url: "work"
   - heading: Services
-    text: We deliver a range of services across the Accessible Tourism space, from Audit and appraisals, to strategy & consulting and design for communication & marketing.
+    text: We're **specialists in tourism**, delivering a range of services across the country – from **audits and appraisals, to strategy & training**. We make positive change; through recognised expertise and lived experience.  
     link:
       text: Take a look at our services
       url: "services"
@@ -82,7 +82,8 @@ blocks:
   image: /images/Ryan.png
   alt: a circular colour photo of Ryan, he's in his wheelchair smiling at the camera
   heading: About Us
-  text: Ryan Smith is a **qualified access consultant**, a member of the Association of Consultants in Access Australia (ACAA) and a wheelchair user. He has 20+ years in design and strategic communications and is a judge in the 2023 Victorian Tourism Awards.
+  text: Ryan Smith is a qualified access consultant, a wheelchair user and a member of the Access Consultants Association (ACA).
+    He has 20+ years working in strategic design and is an award-winning communications specialist. He's also a judge for the 2023 Victorian Tourism Awards.
     **He leads The Access Agency and is an expert in Accessible and Inclusive Tourism.**
   link:
     text: Find out more
