@@ -109,23 +109,32 @@ blocks:
     alt: Centre of Universal Design logo
 
 - block: images
-  columns: 2
+  columns: 3
   background:  "#EFEFEF"
-  container: small
+  container: big
   padding:
   images:
   - image: images/about/1x1-Ryan-snorkeling.jpg
     alt: underwater shot of Ryan in a wetsuit, mask and snorkel holding a starfish, someone out of shot holds their hand out
-  - image: images/about/1x1-Team-12A.jpg
+  - image: images/about/1x1-Rocca-Ryan-Richmond.jpg
     alt: black and white photo camera operator, Ryan and John Kenwright from Parks Victoria  
   - image: images/about/1x1-TA-Team.jpg
     alt: A range of people with disabilities smiling with hands in the air, Sydney Opera House in the background
-  - image: images/about/1x1-Ryan-wheelchair-wall.jpg
+  - image: images/about/1x1-indoor-climbing.jpg
     alt: Ryan smiling at the camera seated in his wheelchair
   - image: images/about/1x1-abc-radio-melbourne.jpg
     alt: At ABC Radio studios Melbourne Ryan and presenter Alice Zaslavsky smile
+  - image: images/about/1x1-Ryan-PV-2.jpg
+    alt: Ryan at a park with outdoor gear on and off-road wheelchair tyres
+  - image: images/about/1x1-Ryan-felluca.jpg
+    alt: Ryan smiling at the camera seated in his wheelchair
+  - image: images/about/1x1-laid-back.jpg
+    alt: At ABC Radio studios Melbourne Ryan and presenter Alice Zaslavsky smile
   - image: images/about/1x1-Ryan-camping.jpg
     alt: Ryan at a park with outdoor gear on and off-road wheelchair tyres
+
+
+
 
 - block: text
   background:  "#EFEFEF"
