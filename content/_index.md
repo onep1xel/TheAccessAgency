@@ -21,8 +21,8 @@ blocks:
   heading: Access and inclusion for the visitor economy.
   subheading: Understand and improve your accessibility, provide great information and confidently welcome more visitors.
   link:
-    text: #
-    url: #
+    text: Find out more about us
+    url: about-us
     #subtext: 1.Open Doors Organization, 2020  2.Open Doors Organization, 2020  3.Open Doors Organization, 2020  
 
 - block: cards
@@ -31,17 +31,17 @@ blocks:
   padding: bottom
   cards:
   - heading: What is Accessible Tourism?
-    text: Universal access in travel and hospitality means no one gets left behind – **creating better visitor experiences and boosting revenue**. It's tourism for all and access for everyone.
+    text: Universal access in travel and hospitality means no one gets left behind – creating better visitor experiences and boosting revenue. It's tourism for all and access for everyone.
     link:
       text: More about Accessible Tourism
       url: "accessible-tourism"
   - heading: Our work
-    text: We make places easier to visit. By undertaking **access audits, providing tailored access materials and building capacity** - everyone can feel they belong, participcate and contribute.
+    text: We make places easier to visit. By undertaking access audits, providing tailored access materials and building capacity - everyone can feel they belong, participcate and contribute.
     link:
       text: See our work
       url: "work"
   - heading: Services
-    text: We're **specialists in tourism**, delivering a range of services across the country – from **audits and appraisals, to strategy & training**. We make positive change; through recognised expertise and lived experience.  
+    text: We're specialists in tourism, delivering a range of services across the country – from audits and appraisals, to strategy & training. We make positive change; through collaborative processes, recognised expertise, and lived experience.  
     link:
       text: Take a look at our services
       url: "services"

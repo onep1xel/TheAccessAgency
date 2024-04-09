@@ -59,9 +59,52 @@ blocks:
 
 
 
+
+- block: cards
+  background: "#dedede"
+  color: muted # light dark muted
+  padding: both
+  cards:
+  - heading: Vision
+    text: The unique joys of **every place**, made available to the unique abilities of **every body**.
+    link:
+      text:
+      url:
+  - heading: Mission
+    text: Designing useful materials and increasing accessibility. Design + build materials to bring visitors and increase loyalty. Train and mentor staff in best practice inclusion.
+    link:
+      text:
+      url:
+
+
+
+
+- block: text
+  background:  "#8FC7B5"
+  columns: 1
+  content: |-
+    Our Vision
+    #### The unique character of **every place**,
+    #### made available to the unique abilities of **every body**.
+
+
+
+- block: text
+  background:  "#dedede"
+  columns: 1
+  content: |-
+    Our Mission
+    #### To facilitate excellence in inclusive visitor experiences by providing:
+    #### - **destinations** the knowledge to deliver and innovate, and
+    #### - **visitors** the ability to plan and visit with confidence.
+
+
+
+
 - block: text
   background:  "#E8E8E8"
   columns: 2
+
   content: |-
     **This is first column**
 
@@ -85,6 +128,7 @@ blocks:
     We worked with John Kenwright in the Parks Victoria Access and Inclusion team and Nick Esser in Marketing - along with staff and rangers - to understand the history, biodiversity and uniqueness of each park.
 
     After inviting family and our friends from the disabled community - we got to filming. Across a 6-month period dodging COVID lockdowns we shot at these wonderful public parks – some of them iconic Victorian destinations in their own right. We provided planning, talent, voice-over, camera work, motion graphics, edits and final output
+
 
 
 ---

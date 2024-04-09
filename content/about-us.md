@@ -12,7 +12,29 @@ blocks:
   background:  "#253148"
   color: light # light dark muted
   heading: About Us
-  text: Our background, vision and press.
+  text:
+
+
+- block: text
+  background:  "#8FC7B5"
+  columns: 1
+  content: |-
+    # Our Vision #
+    The unique character of **every place**,
+    made available to the unique abilities of **every body**.
+
+
+- block: text
+  background:  "#dedede"
+  columns: 1
+  content: |-
+    # Our Mission #
+    To facilitate excellence in inclusive and accessible experiences by providing:
+    - **destinations** with the knowledge to deliver and innovate, and
+    - **visitors** with the ability to plan and visit with confidence.
+
+
+
 
 
 - block: tiles
@@ -33,7 +55,7 @@ blocks:
     image:
 
   - heading: Qualified
-    text: Access Consultants and members of Association of Consultants on Access Australia (ACAA)
+    text: Access Consultants and members of Access Consultants Association (ACA).
     subtext:
     color: dark # dark light muted
     background: "#8FC7B5"
@@ -67,26 +89,24 @@ blocks:
   padding: both
   content: |-
 
-    ## About Ryan (CEO and Founder){#about-ryan}
+    # About Ryan{#about-ryan}
 
-    Ryan is an Access Consultant, Creative Director, avid traveller and wheelchair user.
+    Founder and Chief Access Officer, Ryan Smith leads The Access Agency and consults on accessible and inclusive tourism. He is a qualified Access Consultant (Dip. ACA793), has a degree in Design and is a widely traveled wheelchair user.
 
-    He started travelling in a wheelchair in 2010 and began writing about access in tourism in 2017 through his blog/vlog [***Freewheel Weekends***](https://www.freewheelweekends.com.au "Visit Freewheel Weekends"). He soon realised that to create real change in tourism he needed to shift focus – from consumers to destinations.
+    Ryan has worked with many organisations in the sector to raise the profile of accessible tourism, to build industry capacity, to deliver reporting, provide insights and guide innovative development.
 
-    **So, The Access Agency was born.**
+    He’s been part of in-person events at Tourism Australia’s *Destination Australia*, Accessible Inclusive Tourism Conference Asia Pacific (AITCAP), Melbourne University, MPavillion and he conducts sessions with many industry organisations, regions and government including Visit Victoria’s *Marketing Excellence Program*, Red Cross Australia, and many more.
 
-    He's visited New York, Texas, Tokyo, Berlin, Paris, London, Dublin, Amsterdam, Leiden, Helsinki, Copenhagen, Stockholm, Dusseldorf, Auckland, Tel Aviv, Jerusalem, Cairo, Alexandria and a few other places along the way.   
+    Ryan is the acting-Chair of a not-for-profit disability organisation, was a judge for the 2023 Victorian Tourism Awards and is an ambassador for Australian Regional Tourism (ART).
+    He has written for *Architecture Australia’s* Victorian Chapter on the future of accessible hotels and been interviewed on ABC Radio and The Age newspaper.
 
-    Ryan sees accessibility and universal design through a lens of compliance, creativity and enormous opportunity, advocating for inclusion throughout the visitor economy. He loves working with people to innovative and deliver elegant solutions to vexxing visitor challenges.
-
-    He makes a half-decent café latte, is learning to speak Spanish (el practica todos los dias) and has growing more and more fond of his local magpies.
 
 - block: text
   background:  "#ffffff"
   padding: top
   content: |-
 
-    ## A network of trusted experts
+    # A network of trusted experts
     At The Access Agency we draw on our network of advisors and industry experts.
     We’re active and connected within the disability community and we work with gurus in Government Policy, Access Standards & Legislation, the Visitor Economy and Digital Customer Experience. We enjoy access to the best filmmakers, policy writers, graphic designers, tourism doyens, and project managers to ensure our world-class work is delivered to improve experiences for visitors and improve returns for organisations.
 
