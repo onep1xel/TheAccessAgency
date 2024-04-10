@@ -17,10 +17,11 @@ blocks:
 - block: text
   background:  "#E8E8E8"
   content: |-
-    The [UNWTO](https://www.unwto.org/accessibility "United Nations World Tourism Organization") call it a [**‘exceptional business opportunity’**](https://www.unwto.org/accessibility "UNWTO Accessible Tourism Page"), the EU say it will [**‘boost competitiveness’**](https://single-market-economy.ec.europa.eu/sectors/tourism/offer/accessible-tourism_en "EU Enhancing Tourism") and Tourism Australia feature it heavily in their [**‘Future of Demand’**](https://www.tourism.australia.com/en/insights/consumer-research/future-of-demand.html "Tourism Australia, Future of Demand Report") report.
-    Over in the UK, they’re on a mission to become [‘the most accessible destination in Europe by 2025’](https://www.visitbritain.org/tourism-sector-deal "Visit Britain, Tourism Sector Deal")‘.
 
-    **So what’s all the excitement about?**
+    # What’s all the excitement about? #
+
+    The UNWTO call it a [‘exceptional business opportunity’](https://www.unwto.org/accessibility "UNWTO Accessible Tourism Page"), the EU say it will [‘boost competitiveness’](https://single-market-economy.ec.europa.eu/sectors/tourism/offer/accessible-tourism_en "EU Enhancing Tourism") and Tourism Australia feature it heavily in their [‘Future of Demand’](https://www.tourism.australia.com/en/insights/consumer-research/future-of-demand.html "Tourism Australia, Future of Demand Report") report.
+    Over in the UK, they’re on a mission to become [‘the most accessible destination in Europe by 2025’](https://www.visitbritain.org/tourism-sector-deal "Visit Britain, Tourism Sector Deal")‘.
 
     Accessible Tourism is broadly the notion of *Tourism For All* or *Tourism Without Barriers*. The principle is that tourism services and products should be open to everyone.
     In terms of access – yes that means ramps, toilets and parking. But it also means providing accessible information so people can make informed decisions.

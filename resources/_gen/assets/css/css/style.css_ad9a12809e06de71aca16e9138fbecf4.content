@@ -752,7 +752,7 @@ select {
 
 .prose :where(ul):not(:where([class~="not-prose"] *)) {
   list-style-type: disc;
-  padding-left: 1.625em;
+  padding-left: 0.99em;
 }
 
 .prose :where(ol > li):not(:where([class~="not-prose"] *))::marker {
@@ -793,21 +793,21 @@ select {
 
 .prose :where(h1):not(:where([class~="not-prose"] *)) {
   color: var(--tw-prose-headings);
-  font-weight: 800;
-  font-size: 2.25em;
+  font-weight: 600;
+  font-size: 2.3rem;
   margin-top: 0;
   margin-bottom: 0.8888889em;
   line-height: 1.1111111;
 }
 
 .prose :where(h1 strong):not(:where([class~="not-prose"] *)) {
-  font-weight: 900;
+  font-weight: 800;
 }
 
 .prose :where(h2):not(:where([class~="not-prose"] *)) {
   color: var(--tw-prose-headings);
   font-weight: 700;
-  font-size: 2.6875rem;
+  font-size: 2.2rem;
   margin-top: 2em;
   margin-bottom: 1em;
   line-height: 1.3333333;
@@ -820,7 +820,7 @@ select {
 .prose :where(h3):not(:where([class~="not-prose"] *)) {
   color: var(--tw-prose-headings);
   font-weight: 600;
-  font-size: 2.5rem;
+  font-size: 2.1rem;
   margin-top: 1.6em;
   margin-bottom: 0.6em;
   line-height: 1.6;
@@ -836,7 +836,7 @@ select {
   margin-top: 1.5em;
   margin-bottom: 0.5em;
   line-height: 1.5;
-  font-size: 2.3331rem;
+  font-size: 1.4rem;
 }
 
 .prose :where(h4 strong):not(:where([class~="not-prose"] *)) {
@@ -957,7 +957,7 @@ select {
   --tw-prose-links: #111827;
   --tw-prose-bold: #111827;
   --tw-prose-counters: #6b7280;
-  --tw-prose-bullets: #d1d5db;
+  --tw-prose-bullets: #6B6B6B;
   --tw-prose-hr: #e5e7eb;
   --tw-prose-quotes: #111827;
   --tw-prose-quote-borders: #e5e7eb;

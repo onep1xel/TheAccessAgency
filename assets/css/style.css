@@ -809,21 +809,21 @@ select {
 
 .prose :where(h1):not(:where([class~="not-prose"] *)) {
   color: var(--tw-prose-headings);
-  font-weight: 800;
-  font-size: 2.25em;
+  font-weight: 600;
+  font-size: 2.3rem;
   margin-top: 0;
   margin-bottom: 0.8888889em;
   line-height: 1.1111111;
 }
 
 .prose :where(h1 strong):not(:where([class~="not-prose"] *)) {
-  font-weight: 900;
+  font-weight: 800;
 }
 
 .prose :where(h2):not(:where([class~="not-prose"] *)) {
   color: var(--tw-prose-headings);
   font-weight: 700;
-  font-size: 2.6875rem;
+  font-size: 2.2rem;
   margin-top: 2em;
   margin-bottom: 1em;
   line-height: 1.3333333;
@@ -836,7 +836,7 @@ select {
 .prose :where(h3):not(:where([class~="not-prose"] *)) {
   color: var(--tw-prose-headings);
   font-weight: 600;
-  font-size: 2.5rem;
+  font-size: 2.1rem;
   margin-top: 1.6em;
   margin-bottom: 0.6em;
   line-height: 1.6;
@@ -852,7 +852,7 @@ select {
   margin-top: 1.5em;
   margin-bottom: 0.5em;
   line-height: 1.5;
-  font-size: 2.3331rem;
+  font-size: 1.4rem;
 }
 
 .prose :where(h4 strong):not(:where([class~="not-prose"] *)) {
