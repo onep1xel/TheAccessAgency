@@ -10,6 +10,20 @@ navbar:
 blocks:
 
 
+- block: work
+  background:  "#EFEEEF"
+  color: dark # light dark muted
+  layout: horizontal # horizontal vertical
+  offset: 20% # for horizontal layout set top spacing for text column in percentages eg 25%
+  image: images/work/thumbnail-work_PV-700x700-2.jpg
+  alt: a photo taken from under a tree, a person in a wheelchair is rolling with a friend. The sun is shining.
+  superheading: Parks Victoria
+  heading: Accessibility Evaluation Manual
+  text: A self assessment too for Parks Victoria Staff - understanding accessibility and improving parks for all .
+  link:
+    style: mint # whale mint sand
+    text: Read about and watch the video series
+    url: "work/parks-victoria-evaluation-manual"
 
 
 - block: work
