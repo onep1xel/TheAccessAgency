@@ -15,14 +15,14 @@ blocks:
   color: dark # light dark muted
   layout: horizontal # horizontal vertical
   offset: 20% # for horizontal layout set top spacing for text column in percentages eg 25%
-  image: images/work/thumbnail-work_PV-700x700-2.jpg
-  alt: a photo taken from under a tree, a person in a wheelchair is rolling with a friend. The sun is shining.
+  image: images/work/thumbnail-work_PV-Eval-Man-700x700.jpg
+  alt: a book cover showing a father and daughter riding their bikes in a shaded space - the sun shines through treetops.
   superheading: Parks Victoria
-  heading: Accessibility Evaluation Manual
-  text: A self assessment too for Parks Victoria Staff - understanding accessibility and improving parks for all .
+  heading: National Park Accessibility Evaluation Manual
+  text: A self assessment tool for Parks Victoria Staff - understanding accessibility and improving parks for all.
   link:
-    style: mint # whale mint sand
-    text: Read about and watch the video series
+    style: sand # whale mint sand
+    text: Take a look at this resource
     url: "work/parks-victoria-evaluation-manual"
 
 
@@ -31,7 +31,7 @@ blocks:
   color: light # light dark muted
   layout: horizontal # horizontal vertical
   offset: 20% # for horizontal layout set top spacing for text column in percentages eg 25%
-  image: images/work/thumbnail-work_ITA-TAA-Accessible-Visitor-Guide-700x700.jpg
+  image: images/work/thumbnail-work_ITA-TAA-Accessible-Visitor-Guide-700x700-2.jpg
   alt: a graphic of a venn diagram, three circle overlap and in each is a word; Tourism, Access and Comms.
   youtube: #5gqEJT1lxgk
   vimeo: #771124484
