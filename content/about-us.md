@@ -91,9 +91,13 @@ blocks:
 
     # About Ryan{#about-ryan}
 
-    Founder and Chief Access Officer, Ryan Smith leads The Access Agency and consults on accessible and inclusive tourism. He is a qualified Access Consultant (Dip. ACA793), has a degree in Design and is a widely traveled wheelchair user.
+    Founder and Chief Access Officer, Ryan Smith is a qualified Access Consultant (Dip. ACA793), has a degree in Design and is a widely traveled wheelchair user.
 
-    Ryan has worked with many organisations in the sector to raise the profile of accessible tourism, to build industry capacity, to deliver reporting, provide insights and guide innovative development.
+    Ryan has presented on accessibility in tourism throughout Australia and globally, including in Melbourne, Sydney (AUS), Bogotá (COL), London (UK), Santiago (CHL), and La Plata (ARG). He has spoken at events for [Tourism Australia](https://www.tourism.australia.com/ "Visit the Tourism Australia  website"), [World Travel Market](https://www.wtm.com/london/ "Visit the WTM website"), [Visit Victoria](https://www.visitvictoria.com/ "Visit the Visit Victoria website"), [Visit Bogotá](https://visitbogota.co/ "Visit the Visit Bogota website"), [The University of Melbourne](https://www.unimelb.edu.au/ "Visit the Melbourne University website"), and many others.
+
+
+
+    <!--Ryan has worked with many organisations in the sector to raise the profile of accessible tourism, to build industry capacity, to deliver reporting, provide insights and guide innovative development.-->
 
     He’s been part of in-person events at Tourism Australia’s *Destination Australia*, Accessible Inclusive Tourism Conference Asia Pacific (AITCAP), Melbourne University, MPavillion and he conducts sessions with many industry organisations, regions and government including Visit Victoria’s *Marketing Excellence Program*, Red Cross Australia, and many more.
 
