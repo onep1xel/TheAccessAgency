@@ -169,6 +169,21 @@ blocks:
     [**'The Future of Accessibility is Personal'**](https://www.architecture.com.au/vic-chapter/architect-victoria-edition-2-2024) ***- 'Architect Magazine***\
     Article for 'Architect' magazine on the future of accessible accommodation, *'Radical Inclusion + Identity edition’*, 2024.
 
+    [**The Great Outdoors, Accessible to All?**](https://www.wtm.com/london/en-gb/whats-on/conference-programme/sessions-details.4071.226919.the-great-outdoors-accessible-to-all.html) - ***World Travel Market (WTM LDN)***\
+    45-minute session on the opportunities of outdoor accessible tourism. London, 2024
+
+    **Accessible Tourism Session** - ***Universidad La Plata (ARG)***\
+    Presented on the latest developments of Accessible Tourism to PhD tourism students.  Argentina 2024
+
+    **Accessible Tourism in Australia** - ***Visit Bogota (COL)***\
+    Presented on the developments of Accessible Tourism in Australia to City of Bogota Tourism. Colombia 2024
+
+    [**Accessible Tourism Panel Session**](https://www.tourism.australia.com/en/news-and-events/events/tourism-australia-industry-events/destination-australia-conference-2024.html) - ***Destination Australia 2024***\
+    Featured as a guest at Tourism Australia’s flagship annual event. Sydney, 2024
+
+    **ART Convention** - ***Australian Regional Tourism***\
+    Presented Accessible Tourism Session, 2024
+
     [**‘ABC Radio Interview - Accesible Tourism’**](https://theaccessagency.com.au/audio/ABC-Radio-Saturday-Breakfast.m4a) ***- ABC Radio Melbourne***\
     Interview with Alice Zaslavsky on ABC Radio Melbourne 'Saturday Breakfast', December 2023.
 

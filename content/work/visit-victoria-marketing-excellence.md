@@ -19,27 +19,40 @@ blocks:
 - block: header
   background:  "#253148"
   color: light # light dark muted
-  heading: Presenting Accessible Tourism within a context of Marketing Excellence
+  heading: International Ready and Marketing Excellence programs
   text: Visit Victoria
 
 - block: text
   background:  "#E8E8E8"
   content: |-
 
-    We were excited to be asked to present about Accessible Tourism at [**Visit Victoria's**](https://corporate.visitvictoria.com "Visit Victoria corporate website") **‘Marketing Excellence’ program**.
+    For three years we have presented on Accessible Tourism at [**Visit Victoria's**](https://corporate.visitvictoria.com "Visit Victoria corporate website") ***International Ready*** and ***Marketing Excellence*** programs.
 
-    The 4-day workshop for best-in-class operators culminated in an afternoon of presentations about hot opportunities in selected areas – spotlighting First Nations, Sustainability and Accessibility. Ryan spoke about myths, visitor types, revenue opportunities, and legal obligations – followed up by international and local examples and simple steps to getting started.
+    The intensive programs are for best-in-class operators to expand, improve and excel in their tourism product development. The final day culminates in an afternoon of presentations about  opportunities in selected areas – spotlighting First Nations, Sustainability and Accessibility.
 
-    The two sessions in 2022 were well attended, and a chance to learn about marketing from the state’s peak body.
+    Ryan spoke about a wide range of topics including:
+    - myths about disability and travel
+    - how PwD (people with disabilities) and groups plan their travel
+    - statistics and revenue opportunities
+    - technology and innovation in assistive devices for travel
+    - legal obligations for tourism operators in Australia
+    - how and where to start
+    - what information to provide (and how to provide it)
+    - how to measure effectiveness  
 
-    *#Access #Inclusion #AccessibleTourism #MarketingAccessibility*
+    We are incredibly proud to be engaged on these valuable programs; they help businesses  prepare to take the next step in their product development journey, reaching new markets and telling their inclusion story their way.
+
+    Kudos @VisitVictoria.
+
+
+    *#InclusiveTourism  #AccessibleTourism  #InternationalReady  #MarketingAccessibility #VisitVictoria*
 
 
 
 - block: text
   background: "#EFEFEF"
   content: |-
-    ### Why is internal capacity and confidence building the starting point?
+    ### Why is internal capacity and confidence the starting point?
 
     Disability in tourism can be a messy topic – it crosses through customer experience, human rights, revenue, building codes, health and safety, human resources, and marketing.
 
