@@ -52,23 +52,40 @@ blocks:
   color: muted # light dark muted
   heading: Clients we’ve delivered with
   logos:
-  - image: /images/logos/logo-Visit-Victoria-2.svg
+  - image: /images/logos/Logo-SVG-QCT.svg
     alt: Visit Victoria logo
-  - image: /images/logos/logo-Parks-Victoria-2.svg
+
+  - image: /images/logos/Logo-SVG-Parks-Victoria.svg
     alt: Parks Victoria logo
-  - image: /images/logos/logo-Tourism-MidWest-Vic.svg
+
+  - image: /images/logos/Logo-SVG-PINP.svg
     alt: Tourism Mid West logo
-  - image: /images/logos/logo-Tourism-NorthEast-Vic.svg
+
+  - image: /images/logos/Logo-SVG-QPWS.svg
     alt: Tourism North East Logo
-  - image: /images/logos/logo-Australias-Gold-Coast.svg
+
+  - image: /images/logos/Logo-SVG-Newcastle.svg
     alt: City of Gold Coast logo
-  - image: /images/logos/logo-City-of-Melbourne-2.svg
+
+  - image: /images/logos/Logo-SVG-CentralCoast.svg
     alt: City of Melbourne logo
-  - image: /images/logos/logo-Mornington-Peninsula-Shire-2.svg
+
+  - image: /images/logos/Logo-SVG-Sovereign-Hill.svg
     alt: Mornington Peninsuls Shire Logo
-  - image: /images/logos/logo-GSA.svg
+
+  - image: /images/logos/Logo-SVG-VisitVictoria.svg
     alt: Get Skilled Access logo
-  - image: /images/logos/logo-Sovereign-Hill-2.svg
+
+  - image: /images/logos/Logo-SVG-TourismMidwest.svg
+    alt: Sovereign-Hill logo
+
+  - image: /images/logos/Logo-SVG-TNE.svg
+    alt: Mornington Peninsuls Shire Logo
+
+  - image: /images/logos/Logo-SVG-Ballarat.svg
+    alt: Get Skilled Access logo
+
+  - image: /images/logos/Logo-SVG-GoldCoast.svg
     alt: Sovereign-Hill logo
 
 

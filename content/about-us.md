@@ -144,8 +144,8 @@ blocks:
     alt: black and white photo camera operator, Ryan and John Kenwright from Parks Victoria  
   - image: images/about/1x1-TA-Team.jpg
     alt: A range of people with disabilities smiling with hands in the air, Sydney Opera House in the background
-  - image: images/about/1x1-indoor-climbing.jpg
-    alt: Ryan smiling at the camera seated in his wheelchair
+  - image: images/about/1x1-Ryan-WTM-LDN.jpg
+    alt: Ryan on stage in London pointing to a slide behind him listing many accessible outdoor activities
   - image: images/about/1x1-abc-radio-melbourne.jpg
     alt: At ABC Radio studios Melbourne Ryan and presenter Alice Zaslavsky smile
   - image: images/about/1x1-Ryan-PV-2.jpg
@@ -154,8 +154,8 @@ blocks:
     alt: Ryan smiling at the camera seated in his wheelchair
   - image: images/about/1x1-laid-back.jpg
     alt: At ABC Radio studios Melbourne Ryan and presenter Alice Zaslavsky smile
-  - image: images/about/1x1-Ryan-camping.jpg
-    alt: Ryan at a park with outdoor gear on and off-road wheelchair tyres
+  - image: images/about/1x1-Ryan-DestAust-24.jpg
+    alt: wide view towards a conference stage with many people at circular tables
 
 
 
@@ -166,11 +166,14 @@ blocks:
 
     ## Articles & Press{#articles-press}
 
+    [**'The Future of Accessibility is Personal'**](https://www.architecture.com.au/vic-chapter/architect-victoria-edition-2-2024) ***- 'Architect Magazine***\
+    Article for 'Architect' magazine on the future of accessible accommodation, *'Radical Inclusion + Identity edition’*, 2024.
+
     [**‘ABC Radio Interview - Accesible Tourism’**](https://theaccessagency.com.au/audio/ABC-Radio-Saturday-Breakfast.m4a) ***- ABC Radio Melbourne***\
-    Interview with Alice Zaslavsky on ABC Radio Melbourne 'Saturday Breakfast', December 2023)  
+    Interview with Alice Zaslavsky on ABC Radio Melbourne 'Saturday Breakfast', December 2023.
 
     [**‘Ryan Smith - Accessing the world by wheelchair’**](https://open.spotify.com/episode/1hWEbhZ5BswxRstHUWtVzv) ***- I Can’t Stand Podcast***\
-    Interview with Peta Hooke on her popular disability podcast
+    Interview with Peta Hooke on her popular disability podcast.
 
     [**'How accessible is Melbourne for people with a disability?'**](https://www.theage.com.au/national/victoria/how-accessible-is-melbourne-for-people-with-a-disability-20220131-p59shr.html) ***- The Age***\
     Interviewed and filmed as part of the investigative piece by journalist Jewel Topsfield.
@@ -185,7 +188,7 @@ blocks:
     Article written about travelling with a disability that includes tips in planning and the transformative effect of travel.
 
     [**‘Good Access is Good Business’**](https://www.yarracity.vic.gov.au/about-us/yarra-news) ***- Yarra News, March 2019***\
-    Interviewed as part of an accessibility article for local government magazine, *Yarra News*
+    Interviewed as part of an accessibility article for local government magazine, *Yarra News*.
 
     **‘The value of improved accessibility to beaches’** ***- 2019 Victorian Marine & Coastal Forum, Department of Environment, Land, Water and Planning***\
     Co-presented on the broad benefits of beach access with Bert Parker from the [Disabled Divers Association](https://www.facebook.com/disableddiversassociation/).
