@@ -76,7 +76,7 @@
   <meta property="article:section" content="{{ index . 0 }}" />
 {{ end }}
 
-<script type="application/ld+json">
+<!--<script type="application/ld+json">
   {
     "@context": "http://schema.org",
     "@type": "Article",
@@ -103,7 +103,32 @@
       }
     }
   }
+</script>-->
+
+<script type="application/ld+json">
+{
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Access Consulting",
+    "@id": "",
+    "name": "The Access Agency",
+    "image": "https://theaccessagency.com.au/images/logo-mark.svg",
+    "url": "https://www.theaccessagency.com.au",
+    "email": "ryan@theaccessagency.com.au",
+    "telephone": "+610423058273",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "",
+      "addressLocality": "",
+      "postalCode": ""
+    }
+  }
+}
 </script>
+
+
+
+
 {{ end }}
 
 {{ if eq .Layout "page" }}
@@ -159,6 +184,10 @@
 <!-- End of HubSpot Embed Code -->
 
 <script src="https://www.google.com/recaptcha/api.js?render=reCAPTCHA_site_key"></script>
+
+
+
+
 
 <script>
    grecaptcha.ready(function() {
