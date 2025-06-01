@@ -136,8 +136,8 @@ blocks:
   container: big
   padding:
   images:
-  - image: images/about/1x1-Ryan-snorkeling.jpg
-    alt: underwater shot of Ryan in a wetsuit, mask and snorkel holding a starfish, someone out of shot holds their hand out
+  - image: images/about/1x1-Ryan-Machu-Picchu-Peru.jpg
+    alt: Ryan sitting on a wheelchair with the Machu Picchu mountains and archaeological site in the background  
   - image: images/about/1x1-Rocca-Ryan-Richmond.jpg
     alt: black and white photo camera operator, Ryan and John Kenwright from Parks Victoria  
   - image: images/about/1x1-TA-Team.jpg
