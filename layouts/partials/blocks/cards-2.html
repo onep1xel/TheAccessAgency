@@ -6,12 +6,12 @@
       {{ range .cards }}
         <div>
           {{ if .image }}
-            <img src="{{ .image | absURL }}" alt="{{ .heading }}" class="mb-8">
+            <img src="{{ .image | absURL }}" alt="{{ .heading }}" class="mb-9">
           {{ end }}
           {{ with .superheading }}
-            <h5 class="text-xl font-serif font-semibold leading-tight sm:leading-none sm:text-2xl mb-2">{{ . }}</h5>
+            <h5 class="text-2xl font-bold leading-tight sm:leading-none sm:text-3xl text-rose-regular mb-2">{{ . }}</h5>
           {{ end }}
-          <h3 class="font-bold text-5xl sm:text-6xl leading-[1.15] sm:leading-[1.15]">{{ .heading }}</h3>
+          <h3 class="font-serif font-semibold text-4xl sm:text-5xl leading-[1.15] sm:leading-[1.15]">{{ .heading }}</h3>
           {{ with .text }}
             <div class="mt-4 mx-auto font-serif text-xl sm:text-2xl leading-snug sm:leading-snug">{{ . | markdownify }}</div>
           {{ end }}
