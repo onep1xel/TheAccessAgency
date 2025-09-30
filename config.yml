@@ -11,7 +11,8 @@ enableGitInfo: true
 enableRobotsTXT: true
 canonifyURLs: true
 
-paginate: 12
+pagination:
+  pagerSize: 12
 
 taxonomies:
   categories: 'categories'

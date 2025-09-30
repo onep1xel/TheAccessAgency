@@ -167,14 +167,26 @@
 
 {{ partial "fonts.html"}}
 
-{{ $styles := resources.Get "/css/style.css" | postCSS }}
+{{ $t := debug.Timer "tailwindcss" }}
+{{ $tailwindPath := "css/styles.css" }}
+{{ $res := resources.Get $tailwindPath }}
 
-{{ if .Site.IsServer }}
-  <link rel="stylesheet" href="{{ $styles.RelPermalink }}"/>
+{{ if $res }}
+  {{ $opts := dict
+    "inlineImports" true
+    "optimize" (not hugo.IsDevelopment)
+  }}
+  {{ $css := $res | css.TailwindCSS $opts }}
+  {{ if hugo.IsDevelopment }}
+    <link rel="stylesheet" href="{{ $css.RelPermalink }}" />
+  {{ else }}
+    {{ $final := $css | minify | fingerprint }}
+    <link rel="stylesheet" href="{{ $final.RelPermalink }}" integrity="{{ $final.Data.Integrity }}" crossorigin="anonymous" />
+  {{ end }}
 {{ else }}
-  {{ $styles := $styles | minify | fingerprint | resources.PostProcess }}
-  <link rel="stylesheet" href="{{ $styles.RelPermalink }}" integrity="{{ $styles.Data.Integrity }}"/>
+  {{ errorf "Missing Tailwind CSS input file: %q" $tailwindPath }}
 {{ end }}
+{{ $t.Stop }}
 
 <script defer src="https://unpkg.com/@alpinejs/collapse@3.x.x/dist/cdn.min.js"></script>
 <script defer src="https://unpkg.com/alpinejs@3.x.x/dist/cdn.min.js"></script>
@@ -199,4 +211,3 @@
 </script>
 
 {{ template "_internal/google_analytics.html" . }}
-{{ template "_internal/google_analytics_async.html" . }}
