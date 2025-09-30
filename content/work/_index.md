@@ -163,6 +163,19 @@ blocks:
     text: Find out about the materials and video
     url: "work/mornington-peninsula-grants-for-accessibility"
 
+- block: cards-2
+  background: "#ffffff"
+  color: dark # light dark muted
+  padding: both
+  cards:
+  - heading: Project title
+    superheading: Client name
+    image: images/work/thumbnail-work_PV-700x700-2.jpg
+    text: The journey towards more universal accessibility in tourism means better societal inclusion and increased revenue for operators.
+  - heading: Project title
+    superheading: Client name
+    image: images/work/thumbnail-work_PV-700x700-2.jpg
+    text: Designing useful materials and increasing accessibility. Design + build materials to bring visitors and increase loyalty. Train and mentor staff in best practice inclusion.
 
 - block: cta
   background:  "#3C4643"
