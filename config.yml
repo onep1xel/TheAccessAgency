@@ -16,9 +16,6 @@ pagination:
 
 taxonomies:
   categories: 'categories'
-  kategorier: 'kategorier'
-permalinks:
-  kategorier: "/:slug"
 
 markup:
   markup.goldmark:

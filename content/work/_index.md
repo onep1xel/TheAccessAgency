@@ -177,6 +177,18 @@ blocks:
     image: images/work/thumbnail-work_PV-700x700-2.jpg
     text: Designing useful materials and increasing accessibility. Design + build materials to bring visitors and increase loyalty. Train and mentor staff in best practice inclusion.
 
+- block: slider
+  background:  "#253148"
+  color: light # light dark muted
+  offset: 20% # for horizontal layout set top spacing for text column in percentages eg 25%
+  superheading: Superheading
+  heading: Some title lorem
+  text: Capturing the sound, energy, excitement – and accessibility – at Australia’s premier accessible music festival.
+  slides:
+  - images/work/thumbnail-work_PV-700x700-2.jpg
+  - images/work/thumbnail-work_PV-700x700-2.jpg
+  - images/work/thumbnail-work_PV-700x700-2.jpg
+
 - block: cta
   background:  "#3C4643"
   color: light # light dark muted
