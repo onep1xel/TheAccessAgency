@@ -4,15 +4,15 @@
   <div class="mx-auto max-w-7xl">
     {{ if eq .columns 2 }}
       <div class="max-w-[56rem] grid lg:grid-cols-2 gap-14">
-        <div class="prose hover:prose-a:text-whale-light block-text">
+        <div class="prose [&_a:hover]:text-whale-light block-text">
           {{ .content | markdownify }}
         </div>
-        <div class="prose hover:prose-a:text-whale-light block-text">
+        <div class="prose [&_a:hover]:text-whale-light block-text">
           {{ .content_2 | markdownify }}
         </div>
       </div>
     {{ else }}
-      <div class="prose hover:prose-a:text-whale-light max-w-[56rem] block-text">
+      <div class="prose [&_a:hover]:text-whale-light max-w-[56rem] block-text">
         {{ .content | markdownify }}
       </div>
     {{ end }}
