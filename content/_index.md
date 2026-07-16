@@ -2,7 +2,7 @@
 layout: blocks
 title: Home
 url: ""
-description: We're Qualified Disability Access Consultants working solely in Tourism and the visitor economy. We make travel more inclusive, accessible and commercially succssful by providing expert advice, access audits and strategic content. Travel is better when everyone can participate.
+description: We're Qualified Disability Access Consultants working solely in Tourism and the visitor economy. We make travel more inclusive, accessible and commercially successful by providing expert advice, access audits and strategic content. Travel is better when everyone can participate.
 image: /images/TheAccessAgency_thumbnail.png
 navbar:
   background: "#253148"
@@ -52,7 +52,7 @@ blocks:
   color: light # light dark muted
   offset: 20% # for horizontal layout set top spacing for text column in percentages eg 25%
   superheading: Featured Project
-  heading: A region-wide guide to accessibility in Country Queensland 
+  heading: A region-wide guide to accessibility in Country Queensland
   text: A comprehensive access review and guide for visitors wiht access needs.
   slides:
     - /images/work/QCT/Carousel-QCT-700x700-02.jpg

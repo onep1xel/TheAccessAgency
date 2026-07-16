@@ -9,6 +9,22 @@ navbar:
   color: dark # dark light (default light)
 blocks:
 
+- block: work #QCT
+  background:  "#f6f6f6"
+  color: dark # light dark muted
+  layout: horizontal # horizontal vertical
+  offset: 20% # for horizontal layout set top spacing for text column in percentages eg 25%
+  image: images/work/thumbnail-work_PINP-1000x1000.jpg
+  alt: the cover of the accessible guide, showing 2 boys looking at a sculpture  
+  youtube: #5gqEJT1lxgk
+  vimeo: #771124484
+  superheading: Phillip Island Penguins
+  heading: A universal design assessment for one of Australia’s iconic experiences.
+  text: A universal design assessment for one of Australia’s iconic experiences.
+  link:
+    style: mint # whale mint sand
+    text: See details of the guide to access
+    url: "work/Phillip-Island-Nature-Parks-UD-assessment"
 
 - block: work #QCT
   background:  "#253148"
@@ -20,11 +36,11 @@ blocks:
   youtube: #5gqEJT1lxgk
   vimeo: #771124484
   superheading: Queensland Country Tourism (QCT)
-  heading: Guide to accessibility in the region
+  heading: Guide to accessibility, region-wide.
   text: A comprehensive region-wide access review and resulting accessible guide for visitors.
   link:
     style: mint # whale mint sand
-    text: See details of the guide to access 
+    text: See details of the guide to access
     url: "work/queensland-country-tourism-access-guide"
 
 - block: work # Eval Manual
@@ -42,7 +58,7 @@ blocks:
     text: Take a look at this resource
     url: "work/parks-victoria-evaluation-manual"
 
-- block: cards-2 #QLD guide comms and 
+- block: cards-2 #QLD guide comms and
   background: "#dededeff"
   color: dark # light dark muted
   padding: both
