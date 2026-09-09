@@ -52,7 +52,7 @@ blocks:
       <button type="submit" class="button2 font-bold underline"
       data-sitekey="reCAPTCHA_site_key"
       data-callback='onSubmit'
-      data-action='submit'>Send your email please > </button>
+      data-action='submit'>Submit your email> </button>
 
       </form>
       <script>

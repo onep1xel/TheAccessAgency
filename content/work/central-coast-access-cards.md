@@ -30,7 +30,7 @@ blocks:
   background:  "#E8E8E8"
   content: |-
 
-    **A library easy to use 'access cards' for accessible experinces is putting confidence into the heart of visitors and stimulating the economic activity for operators on the NSW Central Coast.**
+    **A library of accessible, easy-to-use 'access cards' for accessible experinces is putting confidence into the heart of visitors and stimulating the economic activity for operators on the NSW Central Coast.**
 
     The sunny central coast region is leading the way in sustainable and thoughtful tourism development. The Access Agency partnered with the region to make strides in accesible tourism development. We were engaged in 2 stages across 2025 and 2026 providing a comprehensive accessibel tourism program.
     We undertook three accessible tourism training webinars- each focussing on an important element of access in the visitor economy. We then visited operators in the program, providing a 'walk and talk' access assessment. Finally, we produced 'access cards' for each of the participants – allowing visitors and guests to obtain crucial accessibility information to help them plan and visit with confidence.
