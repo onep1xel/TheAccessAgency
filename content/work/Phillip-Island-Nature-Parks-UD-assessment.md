@@ -75,8 +75,8 @@ blocks:
   background:  "#9fcbe9"
   color: dark # light dark muted
   padding: both
-  quote: It’s been wonderful working with you and Melissa to bring this project to life!
-  author: Melissa (Tan) Wegener, Economic Development & Tourism at City of Gold Coast
+  quote: It was a great session - everyone got a lot out of it. 
+  author: Jarvis Weston, General Manager Infrastructure and Planning, Phillip Island Nature Parks
 
 
 - block: cta
