@@ -37,7 +37,7 @@ blocks:
 
     We worked with John Kenwright in the Parks Victoria Access and Inclusion team and Nick Esser in Marketing - along with staff and rangers - to understand the history, biodiversity and uniqueness of each park.
 
-    After inviting family and our friends from the disabled community - we got to filming. Across a 6-month period dodging COVID lockdowns we shot at these wonderful public parks – some of them iconic Victorian destinations in their own right. We provided planning, talent, voice-over, camera work, motion graphics, edits and final output
+    After inviting our family and our friends from the disabled community - we got to filming. Across a 6-month period dodging COVID lockdowns we shot at these wonderful public parks – some of them iconic Victorian destinations in their own right. We provided planning, talent, voice-over, camera work, motion graphics, edits and final output
 
     The first video, covering [**Tidal River at Wilsons Promontory**](https://www.parks.vic.gov.au/places-to-see/parks/wilsons-promontory-national-park/things-to-do/tidal-river-visitor-centre), was released on ‘International Wheelchair Day’ in March 2021. It showcased the accommodation options, beach access and accessible walks. Within three days more than 2,000 people had viewed the video sharing with their networks.
     Three months later it had reached over 10K views. Importantly, the video was shared widely to those who were planning to visit – proving the information was what they needed to plan and visit with confidence.

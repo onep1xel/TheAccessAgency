@@ -27,11 +27,10 @@ blocks:
   background:  "#253148"
   color: light # light dark muted
   heading: Phillip Island Nature Parks - Universal Design Assessment
-  text: Excellence in visitor servicing lead by with better desigh for all.
-
+  text: Excellence in visitor servicing lead by better design for all.
 
 - block: text
-  background:  "#E8E8E8"
+  background: "#E8E8E8"
   content: |-
 
     **The Access Agency was engaged by [**Phillip Island Nature Parks**](https://www.penguins.org.au "Phillip Island Nature Parks") to undertake a comprehensive Universal Design and accessibility review of the world-renowned Penguin Parade experience while also providing accessibility consulting input into major infrastructure upgrades across the site. The project formed part of the ongoing redevelopment of boardwalks, viewing areas and visitor amenities aimed at creating a more inclusive experience for visitors of all abilities.**
@@ -75,7 +74,7 @@ blocks:
   background:  "#9fcbe9"
   color: dark # light dark muted
   padding: both
-  quote: It was a great session - everyone got a lot out of it. 
+  quote: It was a great session - everyone got a lot out of it.
   author: Jarvis Weston, General Manager Infrastructure and Planning, Phillip Island Nature Parks
 
 

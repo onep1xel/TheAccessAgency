@@ -14,24 +14,51 @@ blocks:
   color: dark # light dark muted
   layout: horizontal # horizontal vertical
   offset: 20% # for horizontal layout set top spacing for text column in percentages eg 25%
-  image: images/work/thumbnail-work_PINP-1000x1000.jpg
+  image: images/work/thumbnails/thumbnail-work_PINP-1000x1000.jpg
   alt: the cover of the accessible guide, showing 2 boys looking at a sculpture  
   youtube: #5gqEJT1lxgk
   vimeo: #771124484
   superheading: Phillip Island Penguins
-  heading: A universal design assessment for one of Australia’s iconic experiences.
-  text: A universal design assessment for one of Australia’s iconic experiences.
+  heading: Universal design assessment for one of Australia’s iconic experiences.
+  text: Deep reporting on usability, accessibility and the small matter of planning for a major upgrade.
   link:
     style: mint # whale mint sand
-    text: See details of the guide to access
+    text: See how we were involved
     url: "work/Phillip-Island-Nature-Parks-UD-assessment"
+
+- block: cards-2 #QLD guide comms and
+  background: "#dededeff"
+  color: dark # light dark muted
+  padding: both
+  cards:
+  - heading: Accessibility Improvement Grants
+    superheading: Latrobe City Council
+    image: images/work/thumbnails/thumbnail-work_latrobe-700x700.jpg
+    alt: cover of a document reads - Accessible Communications and Brand Guidelines. Background shows a woman in a wheelchair at an office meeting.
+    text: Guiding, promoting and assessing the council's Accessibility Improvement Grant program  
+    link:
+      style: whale # whale mint sand
+      text: Find out how we helped shape the grants
+      url: "work/latrobe-city-council-accessibility-grants"
+  - heading: Access Card Library & Training
+    superheading: Central Coast NSW
+    image: images/work/thumbnails/thumbnail-work_Central-Coast-1200x1200.jpg
+    alt: an outdoor stage at a music festival. In the foreground is a raised platform with wheelchair users watching the gig under blue sky  
+    youtube: #5gqEJT1lxgk
+    vimeo: #771124484
+    alt: the cover of a document - 'Accessible Business - Self Assessment Guide'. The cover is green on a green background.
+    text: Co-developing and training the next round of accessible experiences in the sunny Central Coast.
+    link:
+      style: mint # whale mint sand
+      text: See how the access card library is growing
+      url: "work/central-coast-access-cards"
 
 - block: work #QCT
   background:  "#253148"
   color: light # light dark muted
   layout: horizontal # horizontal vertical
   offset: 20% # for horizontal layout set top spacing for text column in percentages eg 25%
-  image: images/work/thumbnail-work_QCT-700x700.jpg
+  image: images/work/thumbnails/thumbnail-work_QCT-700x700.jpg
   alt: the cover of the accessible guide, showing 2 boys looking at a sculpture  
   youtube: #5gqEJT1lxgk
   vimeo: #771124484
@@ -48,7 +75,7 @@ blocks:
   color: dark # light dark muted
   layout: horizontal # horizontal vertical
   offset: 10% # for horizontal layout set top spacing for text column in percentages eg 25%
-  image: images/work/thumbnail-work_PV-Eval-Man-700x700.jpg
+  image: images/work/thumbnails/thumbnail-work_PV-Eval-Man-700x700.jpg
   alt: a book cover showing a father and daughter riding their bikes in a shaded space - the sun shines through treetops.
   superheading: Parks Victoria
   heading: National Park Accessibility Evaluation Manual
@@ -65,7 +92,7 @@ blocks:
   cards:
   - heading: Accessible Content Guidelines & Video Script Writing
     superheading: GSA | Queensland Government
-    image: images/work/thumbnail-work_GSA-700x700-3.jpg
+    image: images/work/thumbnails/thumbnail-work_GSA-700x700-3.jpg
     alt: cover of a document reads - Accessible Communications and Brand Guidelines. Background shows a woman in a wheelchair at an office meeting.
     text: We created the go-to guide for state government and tourism operators in Queensland. Working with Get Skilled Access on the Accessibe Tourism Project.
     link:
@@ -74,7 +101,7 @@ blocks:
       url: "work/accessible-content-guidelines"
   - heading: Ability Fest Social Takeover
     superheading: Visit Victoria
-    image: images/work/thumbnail-work-Ability-Fest-700x700.jpg
+    image: images/work/thumbnails/thumbnail-work-Ability-Fest-700x700.jpg
     alt: an outdoor stage at a music festival. In the foreground is a raised platform with wheelchair users watching the gig under blue sky  
     youtube: #5gqEJT1lxgk
     vimeo: #771124484
@@ -91,7 +118,7 @@ blocks:
   color: light # light dark muted
   layout: horizontal # horizontal vertical
   offset: 20% # for horizontal layout set top spacing for text column in percentages eg 25%
-  image: images/work/thumbnail-work_ITA-TAA-Accessible-Visitor-Guide-700x700-2.jpg
+  image: images/work/thumbnails/thumbnail-work_ITA-TAA-Accessible-Visitor-Guide-700x700-2.jpg
   alt: a graphic of a venn diagram, three circle overlap and in each is a word; Tourism, Access and Comms.
   youtube: #5gqEJT1lxgk
   vimeo: #771124484
@@ -112,7 +139,7 @@ blocks:
   cards:
   - heading: All Abilities Video Series
     superheading: Parks Victoria
-    image: images/work/thumbnail-work_PV-700x700-2.jpg
+    image: images/work/thumbnails/thumbnail-work_PV-700x700-2.jpg
     alt: a photo taken from under a tree, a person in a wheelchair is rolling with a friend. The sun is shining.
     text: The Twelve Apostles, Wilsons Prom, The Grampians and more – Ten iconic Victorian Parks visited and showcased through the eyes of someone with reduced mobility.
     link:
@@ -121,7 +148,7 @@ blocks:
       url: "work/parks-victoria-video-series"
   - heading: Accessible Dining Video
     superheading: City of Melbourne
-    image: images/work/thumbnail-work_CoM-700x700.jpg
+    image: images/work/thumbnails/thumbnail-work_CoM-700x700.jpg
     alt: an outdoor stage at a music festival. In the foreground is a raised platform with wheelchair users watching the gig under blue sky  
     text: Bringing people together to dine and drink in the city – showcasing options for all budgets, all tastes, and all abilities.
     link:
@@ -135,7 +162,7 @@ blocks:
   color: light # light dark muted
   layout: horizontal # horizontal vertical
   offset: 20% # for horizontal layout set top spacing for text column in percentages eg 25%
-  image: images/work/thumbnail-work_VV-Excellence-700x700-2.jpg
+  image: images/work/thumbnails/thumbnail-work_VV-Excellence-700x700-2.jpg
   alt: a graphic of a venn diagram, three circle overlap and in each is a word; Tourism, Access and Comms.
   youtube: #5gqEJT1lxgk
   vimeo: #771124484
@@ -154,7 +181,7 @@ blocks:
   cards:
   - heading: Accessibility Grants – Communications and promotions
     superheading: Mornington Peninsula Shire  
-    image: images/work/thumbnail-work_Morn_pen-700x700-2.jpg
+    image: images/work/thumbnails/thumbnail-work_Morn_pen-700x700-2.jpg
     alt: the cover of a document - 'Accessible Business - Self Assessment Guide'. The cover is green on a green background.
     text: Communicating the importance of access to traders and operators to drive grant applications and ultimately, better visitor experiences.
     link:
@@ -163,7 +190,7 @@ blocks:
       url: "work/mornington-peninsula-grants-for-accessibility"
   - heading: Site Visits and Assessments
     superheading: Push Adventures for Austrade
-    image: images/work/thumbnail-work_Push-Austrade-700x700.jpg
+    image: images/work/thumbnails/thumbnail-work_Push-Austrade-700x700.jpg
     alt: the cover of a document - 'Accessible Business - Self Assessment Guide'. The cover is green on a green background.
     text: We undertook the site visits and assessment on behalf of Push Adventures for the Department of Trade and Investment Commission (Austrade). It was a nationwide program to mentor and guide operators in Accessible Tourism and resulted in the WELCOME Program.
     link:
@@ -175,8 +202,8 @@ blocks:
 - block: cta
   background:  "#3C4643"
   color: light # light dark muted
-  heading: See something that would work for you?
-  text: Get in touch and together we can provide better travel experiences for everyone.
+  heading: Got something we could help you with?
+  text: Together we can improve travel experiences and increase your destination's economic activity.
   button:
     style: mint # whale mint sand
     text: Go to the Contact page
