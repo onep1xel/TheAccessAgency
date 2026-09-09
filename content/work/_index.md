@@ -24,7 +24,7 @@ blocks:
   link:
     style: mint # whale mint sand
     text: See how we were involved
-    url: "work/Phillip-Island-Nature-Parks-UD-assessment"
+    url: "work/phillip-island-nature-parks-ud-assessment"
 
 - block: cards-2 #QLD guide comms and
   background: "#dededeff"
@@ -79,7 +79,7 @@ blocks:
   alt: a book cover showing a father and daughter riding their bikes in a shaded space - the sun shines through treetops.
   superheading: Parks Victoria
   heading: National Park Accessibility Evaluation Manual
-  text: A self assessment tool for Parks Victoria Staff - understanding accessibility and improving parks for all. (Shortlisted for the International ProjectZero Awards)
+  text: A self assessment tool for Parks Victoria Staff - understanding accessibility and improving parks for all. (Winner of an International ProjectZero Award)
   link:
     style: sand # whale mint sand
     text: Take a look at this resource

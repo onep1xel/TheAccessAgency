@@ -2,7 +2,7 @@ baseURL: "https://theaccessagency.com.au/"
 languageCode: "en-us"
 title: The Access Agency
 
-copyright: "© Copyright 2025 | The Access Agency"
+copyright: "© Copyright 2026 | The Access Agency"
 
 googleAnalytics: "G-MR592X6P46"
 
@@ -94,6 +94,6 @@ params:
   phone: "#"
   address: Albert Park, Melbourne, Australia
   footer_text: |-
-    Acklnowledging the Traditional Owners and first travellers of this land; we live and work on unceeded Wurundjeri and Woiwurrung land.
+    Acknowledging the Traditional Owners and first travellers of this land; we live and work on unceded Wurundjeri and Woiwurrung land.
 
     We're continually working to make our website more accessible, if you have any complaints or comments please send them through to [hello[at]theaccessagency.com.au.](mailto:hello@theaccessagency.com.au)

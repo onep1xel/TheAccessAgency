@@ -112,7 +112,7 @@ blocks:
     At The Access Agency we draw on our network of advisors and industry experts.
     We’re active and connected within the disability community and we work with gurus in Government Policy, Access Standards & Legislation, the Visitor Economy and Digital Customer Experience. We enjoy access to the best filmmakers, policy writers, graphic designers, tourism doyens, and project managers to ensure our world-class work is delivered to improve experiences for visitors and improve returns for organisations.
 
-    The Access Agency is a member of a number of associations including [The European Network on Accessible Tourism (ENAT)](https://www.accessibletourism.org/ "Visit ENAT"), [Access Consultants Association (ACA)](https://access.asn.au/ "Visit ACAA"), [Victorian Tourism Industry Council (VITC)](https://www.vtic.com.au "Visit VTIC"), [Victorian Tourism Awards (Judge 2023)](https://www.vtic.com.au/victoriantourismawards/judges/ "Visit Victorian Tourism Awards") and [The Centre for Universal Design Australia (CUDA)](https://universaldesignaustralia.net.au/ "Visit CUDA").
+    The Access Agency is a member of a number of associations including [The European Network on Accessible Tourism (ENAT)](https://www.accessibletourism.org/ "Visit ENAT"), [Access Consultants Association (ACA)](https://access.asn.au/ "Visit ACAA"), [Victorian Tourism Industry Council (VTIC)](https://www.vtic.com.au "Visit VTIC"), [Victorian Tourism Awards (Judge 2023)](https://www.vtic.com.au/victoriantourismawards/judges/ "Visit Victorian Tourism Awards") and [The Centre for Universal Design Australia (CUDA)](https://universaldesignaustralia.net.au/ "Visit CUDA").
 
 - block: logos
   container: medium
@@ -182,7 +182,7 @@ blocks:
     **ART Convention** - ***Australian Regional Tourism***\
     Presented Accessible Tourism Session, 2024
 
-    [**‘ABC Radio Interview - Accesible Tourism’**](https://theaccessagency.com.au/audio/ABC-Radio-Saturday-Breakfast.m4a) ***- ABC Radio Melbourne***\
+    [**‘ABC Radio Interview - Accessible Tourism’**](https://theaccessagency.com.au/audio/ABC-Radio-Saturday-Breakfast.m4a) ***- ABC Radio Melbourne***\
     Interview with Alice Zaslavsky on ABC Radio Melbourne 'Saturday Breakfast', December 2023.
 
     [**‘Ryan Smith - Accessing the world by wheelchair’**](https://open.spotify.com/episode/1hWEbhZ5BswxRstHUWtVzv) ***- I Can’t Stand Podcast***\
@@ -255,16 +255,6 @@ blocks:
   padding: bottom
   youtube: FwZC_Xe7160
   vimeo: #613481548
-
-
-- block: quote
-  background:  "#9fcbe9"
-  color: dark # light dark muted
-  padding: both
-  quote: …a Masterclass for every tourism business
-  author: Attendee at 'Marketing Accessibility' at AITCAP (Accessible Inclusive Conference)
-
-
 
 
 - block: media

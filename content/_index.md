@@ -2,7 +2,7 @@
 layout: blocks
 title: Home
 url: ""
-description: We're Qualified Disability Access Consultants working solely in Tourism and the visitor economy. We make travel more inclusive, accessible and commercially successful by providing expert advice, access audits and strategic content. Travel is better when everyone can participate.
+description: We're Qualified Disability Access Consultants working solely in Tourism and the visitor economy. We make travel more inclusive, accessible and commercially successful by providing expert advice, access audits and strategic content because travel is better when everyone can participate.
 image: /images/TheAccessAgency_thumbnail.png
 navbar:
   background: "#253148"
@@ -53,7 +53,7 @@ blocks:
   offset: 20% # for horizontal layout set top spacing for text column in percentages eg 25%
   superheading: Featured Project
   heading: A region-wide guide to accessibility in Country Queensland
-  text: A comprehensive access review and guide for visitors wiht access needs.
+  text: A comprehensive access review and guide for visitors with access needs.
   slides:
     - /images/work/QCT/Carousel-QCT-700x700-02.jpg
     - /images/work/QCT/Carousel-QCT-700x700-01.jpg
@@ -63,7 +63,12 @@ blocks:
       text: Take a look at the project
       url: "work/queensland-country-tourism-access-guide"
 
-
+- block: quote
+  background:  "#9fcbe9"
+  color: dark # light dark muted
+  padding: both
+  quote: …a Masterclass for every tourism business
+  author: Attendee at 'Marketing Accessibility' at AITCAP (Accessible Inclusive Conference)
 
 
 
@@ -74,42 +79,40 @@ blocks:
   heading: Clients we’ve delivered with
   logos:
   - image: /images/logos/Logo-SVG-QCT.svg
-    alt: Visit Victoria logo
+    alt: Queensland Country Tourism logo
 
   - image: /images/logos/Logo-SVG-Parks-Victoria.svg
     alt: Parks Victoria logo
 
   - image: /images/logos/Logo-SVG-PINP.svg
-    alt: Tourism Mid West logo
+    alt: Phillip island Nature Parks logo
 
   - image: /images/logos/Logo-SVG-QPWS.svg
-    alt: Tourism North East Logo
+    alt: Queensland Parks and Wildlife logo
 
   - image: /images/logos/Logo-SVG-Newcastle.svg
-    alt: City of Gold Coast logo
+    alt: City of Newcastle
 
   - image: /images/logos/Logo-SVG-CentralCoast.svg
-    alt: City of Melbourne logo
+    alt: Central Coast Logo
 
   - image: /images/logos/Logo-SVG-Sovereign-Hill.svg
-    alt: Mornington Peninsuls Shire Logo
+    alt: Sovereign Hill Logo
 
   - image: /images/logos/Logo-SVG-VisitVictoria.svg
-    alt: Get Skilled Access logo
+    alt: Visit Victoria logo
 
   - image: /images/logos/Logo-SVG-TourismMidwest.svg
-    alt: Sovereign-Hill logo
+    alt: Tourism Midwest logo
 
   - image: /images/logos/Logo-SVG-TNE.svg
-    alt: Mornington Peninsuls Shire Logo
+    alt: Tourism North East logo
 
   - image: /images/logos/Logo-SVG-Ballarat.svg
-    alt: Get Skilled Access logo
+    alt: Visit Ballarat logo
 
   - image: /images/logos/Logo-SVG-GoldCoast.svg
-    alt: Sovereign-Hill logo
-
-
+    alt: Gold Coast logo
 
 
 
@@ -119,10 +122,9 @@ blocks:
   padding: both # top bottom both (default)
   image: /images/Ryan.png
   alt: a circular colour photo of Ryan, he's in his wheelchair smiling at the camera
-  heading: About Us
-  text: Ryan Smith is a qualified access consultant, a wheelchair user and a member of the Access Consultants Association (ACA).
-    He has 20+ years working in strategic design and is an award-winning communications specialist. He's also a judge for the 2023 Victorian Tourism Awards.
-    **He leads The Access Agency and is an expert in Accessible and Inclusive Tourism.**
+  heading: Why us?
+  text: We combine lived experience with professional expertise. Our founder is a wheelchair user and qualified Access Consultant — meaning our advice isn't just technically correct, it's tested against lived reality.
+
   link:
     text: Find out more
     url: "/about-us"
